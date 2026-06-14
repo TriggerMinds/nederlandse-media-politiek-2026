@@ -1,21 +1,49 @@
-# RTV Utrecht — 2026
+# RTV Utrecht — OSINT-dossier 2026
 
-**Opgesteld op:** 14 juni 2026  
-**Entiteitstype:** regionale publieke omroep  
-**Provincie:** Utrecht
+## Algemeen
+| Veld | Waarde |
+|---|---|
+| Volledige naam | Radio Televisie Utrecht (RTV Utrecht) |
+| Afkorting | RTV Utrecht |
+| Zendgebied | provincie Utrecht |
+| Provincie(s) | Utrecht |
+| Hoofdkantoor | Utrecht |
+| Opgericht | 2002 (fusie Radio M en Omroep Utrecht RTV) |
+| Website | https://www.rtvutrecht.nl |
+| Eigendom/licentie | RPO (regionale publieke omroep) |
 
-## 1. Profiel
-| Veld | Waarde | Bron |
+## Bestuur
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Algemeen directeur | Gerard Schuiteman | 2020 | actueel |
+
+## Hoofdredactie
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Hoofdredacteur | Erwin Schievink | niet bevestigd | actueel |
+
+## Zenders & platforms
+| Platform | Naam | Bereik |
 |---|---|---|
-| Directeur | Gerard Schuiteman | rtvutrecht.nl (organisatie, wie-is-wie), geraadpleegd 14 jun 2026 |
-| Hoofdredacteur | Erwin Schievink | zelfde |
-| Opgericht | 1987 | Wikipedia |
-| Website | https://www.rtvutrecht.nl | — |
+| TV | RTV Utrecht TV | Utrecht (via kabel, Digitenne, IPTV) |
+| Radio | Radio M Utrecht | Utrecht (FM, DAB+) |
+| Online | rtvutrecht.nl | landelijk en wereldwijd |
 
-## 2. Programmering
-TV en radio-programmering voor de regio.
+## Nieuwsprogramma's
+| Programma | Type | Tijdstip | Status |
+|---|---|---|---|
+| U Vandaag | TV | dagelijks | actueel |
+| Bureau Hengeveld | TV | wekelijks | actueel |
+| De Kwestie | TV | wekelijks | actueel |
+| U Online | TV | dagelijks | actueel |
+| Margreet | TV | wekelijks | actueel |
+| Van Rossem Vertelt | TV | wekelijks | actueel |
+| Een Berg Sport | TV | wekelijks | actueel |
 
-## 3. Bronnen
-| Bron | URL | Geraadpleegd |
-|---|---|---|
-| Officiële website | https://www.rtvutrecht.nl | 2026-06-14 |
+## Bronvermelding
+| Veld | Waarde |
+|---|---|
+| Primaire URL | https://www.rtvutrecht.nl/over-rtv-utrecht/ |
+| Geraadpleegd | 14 juni 2026 |
+| Methode | browser (Playwright) / Wikipedia-fallback |
+| Betrouwbaarheid | hoog |

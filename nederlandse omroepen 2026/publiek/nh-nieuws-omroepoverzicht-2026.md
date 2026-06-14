@@ -1,21 +1,45 @@
-# NH Nieuws — 2026
+# NH Nieuws — OSINT-dossier 2026
 
-**Opgesteld op:** 14 juni 2026  
-**Entiteitstype:** regionale publieke omroep  
-**Provincie:** Noord-Holland
+## Algemeen
+| Veld | Waarde |
+|---|---|
+| Volledige naam | NH Media (voorheen RTV NH / RTV Noord-Holland) |
+| Afkorting | NH Nieuws |
+| Zendgebied | provincie Noord-Holland |
+| Provincie(s) | Noord-Holland |
+| Hoofdkantoor | Hilversum |
+| Opgericht | 1 januari 1989 (als Radio Noord-Holland) |
+| Website | https://www.nhnieuws.nl |
+| Eigendom/licentie | RPO (regionale publieke omroep) |
 
-## 1. Profiel
-| Veld | Waarde | Bron |
+## Bestuur
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Algemeen directeur | niet bevestigd | niet bevestigd | niet bevestigd |
+
+## Hoofdredactie
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Hoofdredacteur | niet bevestigd | niet bevestigd | niet bevestigd |
+
+## Zenders & platforms
+| Platform | Naam | Bereik |
 |---|---|---|
-| Directeur-bestuurder | via NH Media / POA | nhnieuws.nl (directie-informatie niet publiek op website), geraadpleegd 14 jun 2026 |
-| Hoofdredacteur | niet publiek gevonden | — |
-| Opgericht | 2002 | Wikipedia |
-| Website | https://www.nhnieuws.nl | — |
+| TV | NH Nieuws TV | Noord-Holland (via kabel, Digitenne, IPTV) |
+| Radio | NH Radio | Noord-Holland (FM, DAB+) |
+| Online | nhnieuws.nl | landelijk en wereldwijd |
 
-## 2. Programmering
-TV en radio-programmering voor de regio.
+## Nieuwsprogramma's
+| Programma | Type | Tijdstip | Status |
+|---|---|---|---|
+| NH Nieuws | TV | dagelijks (carrousel) | actueel |
+| NH Radio | Radio | 24/7 | actueel |
+| Noord-Holland Vandaag | TV | dagelijks | actueel |
 
-## 3. Bronnen
-| Bron | URL | Geraadpleegd |
-|---|---|---|
-| Officiële website | https://www.nhnieuws.nl | 2026-06-14 |
+## Bronvermelding
+| Veld | Waarde |
+|---|---|
+| Primaire URL | https://www.nhnieuws.nl/over-nh-nieuws |
+| Geraadpleegd | 14 juni 2026 |
+| Methode | browser (Playwright) / Wikipedia-fallback |
+| Betrouwbaarheid | hoog |

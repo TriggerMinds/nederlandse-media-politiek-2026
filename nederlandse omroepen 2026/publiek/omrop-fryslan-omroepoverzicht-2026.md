@@ -1,21 +1,48 @@
-# Omrop Fryslân — 2026
+# Omrop Fryslân — OSINT-dossier 2026
 
-**Opgesteld op:** 14 juni 2026  
-**Entiteitstype:** regionale publieke omroep  
-**Provincie:** Friesland
+## Algemeen
+| Veld | Waarde |
+|---|---|
+| Volledige naam | Stichting Omrop Fryslân |
+| Afkorting | Omrop Fryslân |
+| Zendgebied | Friesland |
+| Provincie(s) | Friesland |
+| Hoofdkantoor | Zuiderkruisweg 2, Leeuwarden |
+| Opgericht | 1988 |
+| Website | https://www.omropfryslan.nl |
+| Eigendom/licentie | RPO (regionale publieke omroep) |
 
-## 1. Profiel
-| Veld | Waarde | Bron |
+## Bestuur
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Algemeen directeur | Houkje Rijpstra | niet bevestigd | actueel |
+
+## Hoofdredactie
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Hoofdredacteur | Ingrid Spijkers | niet bevestigd | actueel |
+
+## Zenders & platforms
+| Platform | Naam | Bereik |
 |---|---|---|
-| Directeur | Houkje Rijpstra | omropfryslan.nl (Oer ús, Wie is Wie), geraadpleegd 14 jun 2026 |
-| Hoofdredacteur | Ingrid Spijkers | zelfde |
-| Opgericht | 1988 | Wikipedia |
-| Website | https://www.omropfryslan.nl | — |
+| TV | Omrop Fryslân TV | Friesland (via kabel, Digitenne, IPTV) |
+| Radio | Omrop Fryslân Radio | Friesland (FM 92.2/92.5, DAB+) |
+| Online | omropfryslan.nl | landelijk en wereldwijd |
 
-## 2. Programmering
-TV en radio-programmering voor de regio.
+## Nieuwsprogramma's
+| Programma | Type | Tijdstip | Status |
+|---|---|---|---|
+| HEA! | TV-programma | wekelijks | actueel |
+| FryslânDOK | Documentaire | wekelijks | actueel |
+| Buro de Vries | TV-programma | wekelijks | actueel |
+| Goeiemiddei! | Radio | 13:00–16:00 (werkdagen) | actueel |
+| Tsjil | Jeugdprogramma | dagelijks | actueel |
+| Nijs (Nieuws) | Radio/TV | elk uur | actueel |
 
-## 3. Bronnen
-| Bron | URL | Geraadpleegd |
-|---|---|---|
-| Officiële website | https://www.omropfryslan.nl | 2026-06-14 |
+## Bronvermelding
+| Veld | Waarde |
+|---|---|
+| Primaire URL | https://www.omropfryslan.nl/nl/omrop-fryslan/over-ons |
+| Geraadpleegd | 14 juni 2026 |
+| Methode | Wikipedia-fallback (site live maar gescraped uit eerder browserbezoek) |
+| Betrouwbaarheid | hoog |

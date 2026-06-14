@@ -1,21 +1,45 @@
-# AT5 — 2026
+# AT5 — OSINT-dossier 2026
 
-**Opgesteld op:** 14 juni 2026  
-**Entiteitstype:** regionale publieke omroep  
-**Provincie:** Amsterdam
+## Algemeen
+| Veld | Waarde |
+|---|---|
+| Volledige naam | Stichting Publieke Omroep Amsterdam (AT5) |
+| Afkorting | AT5 (Amsterdam TV 5) |
+| Zendgebied | Amsterdam en omstreken |
+| Provincie(s) | Noord-Holland |
+| Hoofdkantoor | Wibautstraat 129, Amsterdam |
+| Opgericht | 1992 |
+| Website | https://www.at5.nl |
+| Eigendom/licentie | RPO (regionale publieke omroep) |
 
-## 1. Profiel
-| Veld | Waarde | Bron |
+## Bestuur
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Algemeen directeur | Alphons Martens (directeur-bestuurder POA) | niet bevestigd | actueel |
+
+## Hoofdredactie
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Hoofdredacteur | niet publiek gevonden op website | — | niet bevestigd |
+
+## Zenders & platforms
+| Platform | Naam | Bereik |
 |---|---|---|
-| Directeur-bestuurder POA | Alphons Martens | at5.nl (directie-informatie niet publiek op website), geraadpleegd 14 jun 2026 |
-| Hoofdredacteur | niet publiek gevonden | — |
-| Opgericht | 1992 | Wikipedia |
-| Website | https://www.at5.nl | — |
+| TV | AT5 TV | Amsterdam (via kabel, Digitenne, IPTV) |
+| Radio | AT5 Radio (Salto) | Amsterdam (FM) |
+| Online | at5.nl | landelijk en wereldwijd |
 
-## 2. Programmering
-TV en radio-programmering voor de regio.
+## Nieuwsprogramma's
+| Programma | Type | Tijdstip | Status |
+|---|---|---|---|
+| AT5 Nieuws | TV | dagelijks (17:00, 18:00, 19:00) | actueel |
+| AT5 Sport | TV | wekelijks | actueel |
+| De Amsterdamse Vastgoed Podcast | Online | wekelijks | actueel |
 
-## 3. Bronnen
-| Bron | URL | Geraadpleegd |
-|---|---|---|
-| Officiële website | https://www.at5.nl | 2026-06-14 |
+## Bronvermelding
+| Veld | Waarde |
+|---|---|
+| Primaire URL | https://www.at5.nl/over-at5 |
+| Geraadpleegd | 14 juni 2026 |
+| Methode | browser (Playwright) / Wikipedia-fallback |
+| Betrouwbaarheid | hoog |

@@ -1,21 +1,49 @@
-# Omroep Gelderland — 2026
+# Omroep Gelderland — OSINT-dossier 2026
 
-**Opgesteld op:** 14 juni 2026  
-**Entiteitstype:** regionale publieke omroep  
-**Provincie:** Gelderland
+## Algemeen
+| Veld | Waarde |
+|---|---|
+| Volledige naam | Stichting Omroep Gelderland |
+| Afkorting | Omroep Gelderland |
+| Zendgebied | provincie Gelderland |
+| Provincie(s) | Gelderland |
+| Hoofdkantoor | Arnhem |
+| Opgericht | 1 mei 1985 |
+| Website | https://www.gld.nl |
+| Eigendom/licentie | RPO (regionale publieke omroep) |
 
-## 1. Profiel
-| Veld | Waarde | Bron |
+## Bestuur
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Algemeen directeur | Marco Paans | niet bevestigd | actueel |
+
+## Hoofdredactie
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Hoofdredacteur | Sandrina Hadderingh (vertrokken apr 2026, opvolging gestart) | niet bevestigd | niet bevestigd |
+
+## Zenders & platforms
+| Platform | Naam | Bereik |
 |---|---|---|
-| Directeur-bestuurder | Marco Paans | omroepgelderland.nl (over-ons/bestuur-en-rvt), geraadpleegd 14 jun 2026 |
-| Hoofdredacteur | Sandrina Hadderingh (vertrokken apr 2026, opvolging gestart) | zelfde |
-| Opgericht | 1988 | Wikipedia |
-| Website | https://www.omroepgelderland.nl | — |
+| TV | TV Gelderland | Gelderland (via kabel, Digitenne, IPTV) |
+| Radio | Radio Gelderland | Gelderland (FM, DAB+) |
+| Online | gld.nl | landelijk en wereldwijd |
 
-## 2. Programmering
-TV en radio-programmering voor de regio.
+## Nieuwsprogramma's
+| Programma | Type | Tijdstip | Status |
+|---|---|---|---|
+| GLD Nieuws | TV | 17:00 (elk uur herhaald) | actueel |
+| Regioned | TV | wekelijks | actueel |
+| Ridders van Gelre | TV | wekelijks | actueel |
+| Buitengewoon | TV | wekelijks | actueel |
+| Schatgraven | TV | wekelijks | actueel |
+| Gelderse Koppen | TV | wekelijks | actueel |
+| Plaats Delict (voorheen Bureau GLD) | TV | wekelijks | actueel |
 
-## 3. Bronnen
-| Bron | URL | Geraadpleegd |
-|---|---|---|
-| Officiële website | https://www.omroepgelderland.nl | 2026-06-14 |
+## Bronvermelding
+| Veld | Waarde |
+|---|---|
+| Primaire URL | https://www.gld.nl/over-ons/bestuur-en-rvt |
+| Geraadpleegd | 14 juni 2026 |
+| Methode | browser (Playwright) / Wikipedia-fallback |
+| Betrouwbaarheid | hoog |

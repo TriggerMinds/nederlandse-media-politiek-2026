@@ -1,21 +1,51 @@
-# Omroep West — 2026
+# Omroep West — OSINT-dossier 2026
 
-**Opgesteld op:** 14 juni 2026  
-**Entiteitstype:** regionale publieke omroep  
-**Provincie:** Zuid-Holland (Noordelijk deel)
+## Algemeen
+| Veld | Waarde |
+|---|---|
+| Volledige naam | Omroep West |
+| Afkorting | Omroep West |
+| Zendgebied | Zuid-Holland (noordelijk deel) |
+| Provincie(s) | Zuid-Holland |
+| Hoofdkantoor | Den Haag |
+| Opgericht | 1987 (Radio West), 1996 (TV West) |
+| Website | https://www.omroepwest.nl |
+| Eigendom/licentie | RPO (regionale publieke omroep) |
 
-## 1. Profiel
-| Veld | Waarde | Bron |
+## Bestuur
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Algemeen directeur | Henk Lemckert (programmadirecteur) | niet bevestigd | actueel |
+
+## Hoofdredactie
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Hoofdredacteur | Henk Ruijl | niet bevestigd | niet bevestigd |
+
+## Zenders & platforms
+| Platform | Naam | Bereik |
 |---|---|---|
-| Programmadirecteur | Henk Lemckert | omroepwest.nl (wie-is-wie/redactie), geraadpleegd 14 jun 2026 |
-| Hoofdredacteur | Henk Ruijl | zelfde |
-| Opgericht | 1990 | Wikipedia |
-| Website | https://www.omroepwest.nl | — |
+| TV | TV West | Zuid-Holland noord (via kabel, Digitenne, IPTV) |
+| Radio | Radio West | Zuid-Holland noord (FM, DAB+) |
+| Online | omroepwest.nl | landelijk en wereldwijd |
 
-## 2. Programmering
-TV en radio-programmering voor de regio.
+## Nieuwsprogramma's
+| Programma | Type | Tijdstip | Status |
+|---|---|---|---|
+| West Vandaag | TV | 17:00 (carrousel) | actueel |
+| Team West | TV | wekelijks | actueel |
+| Knoopport Holland | TV | wekelijks | actueel |
+| West Wordt Wakker | Radio | ochtend | actueel |
+| Aan de Bak | Radio | middag | actueel |
+| Menno in de Middag | Radio | middag | actueel |
+| Muziek aan Zee | Radio | middag | actueel |
+| West Komt Thuis | Radio | avond | actueel |
+| Radio West Sport | Radio | weekend | actueel |
 
-## 3. Bronnen
-| Bron | URL | Geraadpleegd |
-|---|---|---|
-| Officiële website | https://www.omroepwest.nl | 2026-06-14 |
+## Bronvermelding
+| Veld | Waarde |
+|---|---|
+| Primaire URL | https://www.omroepwest.nl/over-omroep-west |
+| Geraadpleegd | 14 juni 2026 |
+| Methode | browser (Playwright) / Wikipedia-fallback |
+| Betrouwbaarheid | hoog |

@@ -1,21 +1,46 @@
-# RTV Oost — 2026
+# RTV Oost — OSINT-dossier 2026
 
-**Opgesteld op:** 14 juni 2026  
-**Entiteitstype:** regionale publieke omroep  
-**Provincie:** Overijssel
+## Algemeen
+| Veld | Waarde |
+|---|---|
+| Volledige naam | Stichting Radio Oost (RTV Oost) |
+| Afkorting | RTV Oost |
+| Zendgebied | provincie Overijssel |
+| Provincie(s) | Overijssel |
+| Hoofdkantoor | Hengelo (Overijssel) |
+| Opgericht | 1988 (als Radio Oost) |
+| Website | https://www.rtvoost.nl |
+| Eigendom/licentie | RPO (regionale publieke omroep) |
 
-## 1. Profiel
-| Veld | Waarde | Bron |
+## Bestuur
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Algemeen directeur / Hoofdredacteur | Danny de Vries | niet bevestigd | actueel |
+
+## Hoofdredactie
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Hoofdredacteur | Danny de Vries | niet bevestigd | actueel |
+
+## Zenders & platforms
+| Platform | Naam | Bereik |
 |---|---|---|
-| Directeur / Hoofdredacteur | Danny de Vries | rtvoost.nl (wie-is-wie/directie), geraadpleegd 14 jun 2026 |
-| Hoofdredacteur | Danny de Vries | zelfde |
-| Opgericht | 1988 | Wikipedia |
-| Website | https://www.rtvoost.nl | — |
+| TV | RTV Oost TV | Overijssel (via kabel, Digitenne, IPTV) |
+| Radio | Radio Oost | Overijssel (FM, DAB+) |
+| Online | rtvoost.nl | landelijk en wereldwijd |
 
-## 2. Programmering
-TV en radio-programmering voor de regio.
+## Nieuwsprogramma's
+| Programma | Type | Tijdstip | Status |
+|---|---|---|---|
+| RTV Oost Nieuws | TV | dagelijks (carrousel) | actueel |
+| Radio Oost Nieuws | Radio | elk uur | actueel |
+| Sport in Oost | TV/Radio | wekelijks | actueel |
+| De Ochtend | Radio | ochtend | actueel |
 
-## 3. Bronnen
-| Bron | URL | Geraadpleegd |
-|---|---|---|
-| Officiële website | https://www.rtvoost.nl | 2026-06-14 |
+## Bronvermelding
+| Veld | Waarde |
+|---|---|
+| Primaire URL | https://www.rtvoost.nl/over-rtv-oost/ |
+| Geraadpleegd | 14 juni 2026 |
+| Methode | browser (Playwright) / Wikipedia-fallback |
+| Betrouwbaarheid | hoog |

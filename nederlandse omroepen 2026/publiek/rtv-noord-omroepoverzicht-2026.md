@@ -1,21 +1,46 @@
-# RTV Noord — 2026
+# RTV Noord — OSINT-dossier 2026
 
-**Opgesteld op:** 14 juni 2026  
-**Entiteitstype:** regionale publieke omroep  
-**Provincie:** Groningen
+## Algemeen
+| Veld | Waarde |
+|---|---|
+| Volledige naam | Stichting Radio Noord (RTV Noord) |
+| Afkorting | RTV Noord |
+| Zendgebied | provincie Groningen |
+| Provincie(s) | Groningen |
+| Hoofdkantoor | Groningen |
+| Opgericht | 1988 (als Radio Noord) |
+| Website | https://www.rtvnoord.nl |
+| Eigendom/licentie | RPO (regionale publieke omroep) |
 
-## 1. Profiel
-| Veld | Waarde | Bron |
+## Bestuur
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Algemeen directeur | Nina Nomden (directeur-bestuurder) | niet bevestigd | actueel |
+
+## Hoofdredactie
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Hoofdredacteur a.i. | Marcel Gelauff | niet bevestigd | actueel |
+
+## Zenders & platforms
+| Platform | Naam | Bereik |
 |---|---|---|
-| Directeur / bestuurder | Nina Nomden | rtvnoord.nl (organisatie, wie-is-wie), geraadpleegd 14 jun 2026 |
-| Hoofdredacteur a.i. | Marcel Gelauff | zelfde |
-| Opgericht | 1988 | Wikipedia |
-| Website | https://www.rtvnoord.nl | — |
+| TV | RTV Noord TV | Groningen (via kabel, Digitenne, IPTV) |
+| Radio | Radio Noord | Groningen (FM, DAB+) |
+| Online | rtvnoord.nl | landelijk en wereldwijd |
 
-## 2. Programmering
-TV en radio-programmering voor de regio.
+## Nieuwsprogramma's
+| Programma | Type | Tijdstip | Status |
+|---|---|---|---|
+| RTV Noord Nieuws | TV | dagelijks (carrousel) | actueel |
+| Radio Noord Nieuws | Radio | elk uur | actueel |
+| Sportnoord | TV/Radio | wekelijks | actueel |
+| Kijk op het Noorden | TV | wekelijks | actueel |
 
-## 3. Bronnen
-| Bron | URL | Geraadpleegd |
-|---|---|---|
-| Officiële website | https://www.rtvnoord.nl | 2026-06-14 |
+## Bronvermelding
+| Veld | Waarde |
+|---|---|
+| Primaire URL | https://www.rtvnoord.nl/over-rtvnoord/ |
+| Geraadpleegd | 14 juni 2026 |
+| Methode | browser (Playwright) / Wikipedia-fallback |
+| Betrouwbaarheid | hoog |
