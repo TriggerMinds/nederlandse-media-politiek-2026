@@ -1,27 +1,43 @@
-# Het Parool — 2026
+# Het Parool — OSINT-dossier 2026
 
-**Opgesteld op:** 14 juni 2026  
-**Entiteitstype:** regionale krant (stadsregio Amsterdam)  
-**Uitgever:** DPG Media  
-**Groep:** DPG Media Nieuwsmedia
-
-## 1. Profiel
+## Algemeen
 | Veld | Waarde |
 |---|---|
-| Hoofdredacteur | niet bevestigd |
-| Opgericht | 1941 (als verzetskrant) |
+| Volledige naam | Het Parool |
+| Afkorting | Parool |
+| Uitgever | DPG Media |
+| Groep | DPG Media Nieuwsmedia |
 | Hoofdkantoor | Amsterdam |
-| Oplage | 57.196 (2016) |
+| Opgericht | 1941 (als verzetskrant) |
+| Website | https://www.parool.nl |
 | Formaat | Tabloid; sinds 2015 alleen zaterdag print |
-| Website | Parool.nl |
-| Colofon | ❌ Geen openbaar colofon (parool.nl/extra/colofon → 404, 14 jun 2026) |
+| Oplage | 57.196 (2016) |
 
-## 2. Historie
-| 1941 | Opgericht als verzetskrant |
+## Bestuur / Directie
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Uitgever | DPG Media | 2003 | actueel |
+
+## Hoofdredactie
+| Functie | Naam | Sinds | Status |
+|---|---|---|---|
+| Hoofdredacteur | niet bevestigd (colofon offline) | — | niet bevestigd |
+
+## Historie
+| Jaar | Gebeurtenis |
+|---|---|
+| 1941 | Opgericht als verzetskrant door Frans Goedhart |
 | 2003 | Overname door De Persgroep (DPG Media) |
-| 2015 | Laatste dagelijkse papieren editie |
+| 2015 | Laatste dagelijkse papieren editie (alleen zaterdag) |
 
-## 3. Medewerkers
+## Redactie
 Zie `parool-redactie-journalisten-2026.md` in deze directory.
 
-**Geverifieerd:** 14 juni 2026 via browser.
+## Bronvermelding
+| Veld | Waarde |
+|---|---|
+| Primaire URL | https://web.archive.org/web/2026*/www.parool.nl/colofon |
+| Alternatief | https://web.archive.org/web/2026*/www.parool.nl/over-het-parool |
+| Geraadpleegd | 14 juni 2026 |
+| Methode | Wikipedia-fallback (colofon gaf 404, Wayback Machine niet bereikbaar) |
+| Betrouwbaarheid | beperkt (colofon niet live geverifieerd) |
