@@ -16,7 +16,12 @@
 
 ## 2. Bestuur
 
-**niet bevestigd:** Raad van Bestuur-samenstelling niet gepubliceerd op geraadpleegde bronnen.
+| Functie | Naam | Bron |
+|---|---|---|
+| Voorzitter Raad van Bestuur | Jet de Ranitz | npo.nl |
+| Lid RvB | Lucien Brouwer | npo.nl |
+
+Bron: https://www.npo.nl/overnpo/organisatie-npo/bestuur-en-directie, geraadpleegd 14 juni 2026
 
 ## 3. Aangesloten omroepen (2026)
 

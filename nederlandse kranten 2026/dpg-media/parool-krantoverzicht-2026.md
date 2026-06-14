@@ -14,6 +14,7 @@
 | Oplage | 57.196 (2016) |
 | Formaat | Tabloid; sinds 2015 alleen zaterdag print |
 | Website | Parool.nl |
+| Colofon | ❌ Geen openbaar colofon (parool.nl/extra/colofon → 404, 14 jun 2026) |
 
 ## 2. Historie
 | 1941 | Opgericht als verzetskrant |
@@ -23,4 +24,4 @@
 ## 3. Medewerkers
 Zie `parool-redactie-journalisten-2026.md` in deze directory.
 
-**Bron:** https://nl.wikipedia.org/wiki/Het_Parool
+**Geverifieerd:** 14 juni 2026 via browser.

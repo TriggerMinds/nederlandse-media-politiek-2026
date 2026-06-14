@@ -1,0 +1,457 @@
+- generic [ref=e3]:
+  - button "Ga naar hoofdinhoud" [ref=e4] [cursor=pointer]
+  - generic:
+    - navigation:
+      - generic:
+        - generic:
+          - link "terug naar de homepage":
+            - /url: /
+            - img [ref=e5] [cursor=pointer]
+            - generic: terug naar de homepage
+          - button "Menu" [ref=e7] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic:
+          - banner:
+            - link "zoeken":
+              - /url: /search/
+              - generic: zoeken
+              - img
+            - button "close":
+              - img
+          - list:
+            - listitem:
+              - link "Programma's":
+                - /url: /program/
+            - listitem:
+              - link "Evenementen":
+                - /url: /content-evenementen/
+            - listitem:
+              - link "Producten":
+                - /url: /content-product/
+            - listitem:
+              - link "Word lid":
+                - /url: https://www.avrotros.nl/content-word-lid/
+            - listitem:
+              - link "Vacatures":
+                - /url: https://werkenbij.avrotros.nl/
+            - listitem:
+              - link "Contact":
+                - /url: /content-/contact~36/
+          - contentinfo:
+            - link "terug naar de homepage":
+              - /url: /
+              - img [ref=e8] [cursor=pointer]
+              - generic: terug naar de homepage
+            - link "Ga naar NPO Start":
+              - /url: https://www.npostart.nl/?ns_campaign=meernpo&ns_mchannel=omroep&ns_source=avrotros&ns_linkname=button
+              - img
+              - generic: Ga naar NPO Start
+  - main "hoofdinhoud" [ref=e10]:
+    - generic [ref=e12]:
+      - heading "Welkom bij AVROTROS" [level=1] [ref=e13]
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e18]:
+            - generic [ref=e20]:
+              - generic "Opium op Oerol" [ref=e21]
+              - heading "Cultuur op het eiland" [level=2] [ref=e22]
+              - paragraph [ref=e23]: Kunst-, muziek- en theaterfestival
+              - link "Opium op Oerol Cultuur op het eiland Kunst-, muziek- en theaterfestival Dit zijn de gasten" [ref=e24] [cursor=pointer]:
+                - /url: /article/cultuur-en-bijzondere-ontmoetingen-in-opium-op-oerol~1510/
+                - text: Dit zijn de gasten
+                - img [ref=e25]
+            - img "Opium op Oerol" [ref=e29]
+          - generic [ref=e32]:
+            - generic [ref=e34]:
+              - generic "Kunst" [ref=e35]
+              - heading "Bezoek eens een museum" [level=2] [ref=e36]
+              - paragraph [ref=e37]: Nieuwe tentoonstellingen
+              - link "Kunst Bezoek eens een museum Nieuwe tentoonstellingen 3 tips" [ref=e38] [cursor=pointer]:
+                - /url: /longread/3-x-nieuwe-tentoonstellingen-in-juni-2026~95/
+                - text: 3 tips
+                - img [ref=e39]
+            - img "AVROTROS" [ref=e43]
+          - generic [ref=e46]:
+            - generic [ref=e48]:
+              - generic "Beste Zangers" [ref=e49]
+              - heading "Nieuwe club Beste Zangers" [level=2] [ref=e50]
+              - paragraph [ref=e51]: Stellen zich aan je voor
+              - link "Beste Zangers Nieuwe club Beste Zangers Stellen zich aan je voor Bekijk de video" [ref=e52] [cursor=pointer]:
+                - /url: /article/deze-artiesten-doen-mee-aan-beste-zangers-2026~1486/
+                - text: Bekijk de video
+                - img [ref=e53]
+            - img "AVROTROS" [ref=e57]
+        - generic [ref=e59] [cursor=pointer]: prev
+        - generic [ref=e60] [cursor=pointer]: next
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - paragraph [ref=e64]: AVROTROS maakt cultuur toegankelijk voor iedere Nederlander, van jong tot oud. Samen zingen we mee met de liedjes in Beste Zangers, leven we mee met de kandidaten van Op zoek naar…, lachen we om de grappen in Dit Was Het Nieuws, beleven we gezamenlijk het Muziekfeest op het Plein en juichen we voor ‘onze’ artiest op het (junior) Eurovisie Songfestival.
+          - paragraph [ref=e65]: Smaken verschillen, maar het is de liefde voor cultuur die ons bij elkaar brengt.
+        - generic [ref=e67]:
+          - heading "Nu en binnenkort" [level=2] [ref=e70]:
+            - generic [ref=e71]: Nu en binnenkort
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - link "Podcast Ik hou niet van Musical!" [ref=e75] [cursor=pointer]:
+                - /url: /program/ik-hou-niet-van-musical~221/
+                - img [ref=e78]
+                - generic [ref=e79]:
+                  - generic [ref=e80]:
+                    - img [ref=e81]
+                    - generic [ref=e85]: Podcast
+                  - heading "Ik hou niet van Musical!" [level=3] [ref=e86]
+              - link "Televisie Opium op Oerol" [ref=e88] [cursor=pointer]:
+                - /url: /program/opium-op-oerol~77/
+                - img [ref=e91]
+                - generic [ref=e92]:
+                  - generic [ref=e94]: Televisie
+                  - heading "Opium op Oerol" [level=3] [ref=e95]:
+                    - generic [ref=e97]: Opium op
+                    - generic [ref=e99]: Oerol
+              - link "Televisie Mischa en de mannen die het beter weten" [ref=e101] [cursor=pointer]:
+                - /url: /program/mischa-en-de-mannen-die-het-beter-weten~230/
+                - img [ref=e104]
+                - generic [ref=e105]:
+                  - generic [ref=e107]: Televisie
+                  - heading "Mischa en de mannen die het beter weten" [level=3] [ref=e108]:
+                    - generic [ref=e110]: Mischa en de mannen die het beter weten
+              - link "Televisie Blauw" [ref=e112] [cursor=pointer]:
+                - /url: /program/blauw~206/
+                - generic [ref=e114]:
+                  - img [ref=e115]
+                  - generic [ref=e116]: AVROTROS
+                - generic [ref=e117]:
+                  - generic [ref=e119]: Televisie
+                  - heading "Blauw" [level=3] [ref=e120]:
+                    - generic [ref=e122]: Blauw
+              - link "Televisie Dag & nacht" [ref=e124] [cursor=pointer]:
+                - /url: /program/dag-en-nacht~5/
+                - img [ref=e127]
+                - generic [ref=e128]:
+                  - generic [ref=e130]: Televisie
+                  - heading "Dag & nacht" [level=3] [ref=e131]:
+                    - generic [ref=e133]: Dag &
+                    - generic [ref=e135]: nacht
+            - generic [ref=e136]:
+              - button "Vorige":
+                - img
+                - generic: Vorige
+              - link "Alle programma's" [ref=e137] [cursor=pointer]:
+                - /url: /program/
+                - text: Alle programma's
+                - img [ref=e138]
+              - button "Volgende":
+                - img
+                - generic: Volgende
+        - paragraph [ref=e142]:
+          - text: Advertentie via
+          - link "Ster.nl" [ref=e143] [cursor=pointer]:
+            - /url: https://www.ster.nl/online-reclame-bij-ster/
+        - region "Nieuw" [ref=e146]:
+          - heading "Nieuw" [level=2] [ref=e147]
+          - generic:
+            - generic:
+              - generic:
+                - generic: Nieuw
+              - generic:
+                - generic: Nieuw
+          - generic [ref=e149]:
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - link "Nieuws van AVROTROS Anniko van Santen presenteert AVROTROS Triviant" [ref=e153] [cursor=pointer]:
+                  - /url: /article/anniko-van-santen-presenteert-avrotros-triviant~1537
+                  - generic [ref=e156]:
+                    - img [ref=e157]
+                    - generic [ref=e158]: Ruud Baan
+                  - generic [ref=e159]:
+                    - list [ref=e160]:
+                      - listitem [ref=e161]:
+                        - generic "Nieuws van AVROTROS" [ref=e162]
+                    - heading "Anniko van Santen presenteert AVROTROS Triviant" [level=3]
+                - link "Ik hou niet van Musical! Plien & Bianca zijn enorme musicalfans" [ref=e164] [cursor=pointer]:
+                  - /url: /article/plien-and-bianca-zijn-enorme-musicalfans~1540
+                  - img [ref=e168]
+                  - generic [ref=e169]:
+                    - list [ref=e170]:
+                      - listitem [ref=e171]:
+                        - generic "Ik hou niet van Musical!" [ref=e172]
+                    - heading "Plien & Bianca zijn enorme musicalfans" [level=3]
+              - generic [ref=e173]:
+                - link "Beste Zangers Deze artiesten doen mee aan Beste Zangers 2026" [ref=e175] [cursor=pointer]:
+                  - /url: /article/deze-artiesten-doen-mee-aan-beste-zangers-2026~1486
+                  - img [ref=e179]
+                  - generic [ref=e180]:
+                    - list [ref=e181]:
+                      - listitem [ref=e182]:
+                        - generic "Beste Zangers" [ref=e183]
+                    - heading "Deze artiesten doen mee aan Beste Zangers 2026" [level=3]
+                - link "Nieuw Klassiek Franse muziek voor fluit en harp" [ref=e185] [cursor=pointer]:
+                  - /url: /article/franse-muziek-voor-fluit-en-harp~1538
+                  - img [ref=e189]
+                  - generic [ref=e190]:
+                    - list [ref=e191]:
+                      - listitem [ref=e192]:
+                        - generic "Nieuw Klassiek" [ref=e193]
+                    - heading "Franse muziek voor fluit en harp" [level=3]
+              - generic [ref=e194]:
+                - link "Tussen Kunst en Kitsch Erfstukken blijken €50.000,- waard in Tussen Kunst en Kitsch" [ref=e196] [cursor=pointer]:
+                  - /url: /video/deze-erfstukken-van-opa-blijken-e50-000-waard-in-tussen-kunst-en-kitsch~520
+                  - img [ref=e199]
+                  - img [ref=e201]
+                  - generic [ref=e205]:
+                    - list [ref=e206]:
+                      - listitem [ref=e207]:
+                        - generic "Tussen Kunst en Kitsch" [ref=e208]
+                    - heading "Erfstukken blijken €50.000,- waard in Tussen Kunst en Kitsch" [level=3] [ref=e209]
+                - link "Ik hou niet van Musical! Carlo Boszhard over zijn meest zenuwslopende auditie ooit" [ref=e211] [cursor=pointer]:
+                  - /url: /article/carlo-boszhard-over-zijn-meest-zenuwslopende-auditie-ooit~1535
+                  - img [ref=e215]
+                  - generic [ref=e216]:
+                    - list [ref=e217]:
+                      - listitem [ref=e218]:
+                        - generic "Ik hou niet van Musical!" [ref=e219]
+                    - heading "Carlo Boszhard over zijn meest zenuwslopende auditie ooit" [level=3]
+              - generic [ref=e220]:
+                - 'link "Ik Vertrek: Hoe gaat het nu met? Hoe gaat het nu met Nino en Lola uit Ik Vertrek in Spanje? ‘Dit is de beste keuze die we ooit hebben gemaakt’" [ref=e222] [cursor=pointer]':
+                  - /url: /article/hoe-gaat-het-nu-met-nino-en-lola-uit-ik-vertrek-in-spanje-dit-is-de-beste-keuze-die-we-ooit-hebben-gemaakt~1529
+                  - img [ref=e226]
+                  - generic [ref=e227]:
+                    - list [ref=e228]:
+                      - listitem [ref=e229]:
+                        - 'generic "Ik Vertrek: Hoe gaat het nu met?" [ref=e230]'
+                    - heading "Hoe gaat het nu met Nino en Lola uit Ik Vertrek in Spanje? ‘Dit is de beste keuze die we ooit hebben gemaakt’" [level=3]
+                - 'link "Afleveringen Ik Vertrek Nino en Lola uit Ik Vertrek zien budget verdampen in Spanje: ‘Gruwelijk veel geld’" [ref=e232] [cursor=pointer]':
+                  - /url: /article/nino-en-lola-uit-ik-vertrek-zien-budget-verdampen-in-spanje-gruwelijk-veel-geld~1524
+                  - img [ref=e236]
+                  - generic [ref=e237]:
+                    - list [ref=e238]:
+                      - listitem [ref=e239]:
+                        - generic "Afleveringen Ik Vertrek" [ref=e240]
+                    - 'heading "Nino en Lola uit Ik Vertrek zien budget verdampen in Spanje: ‘Gruwelijk veel geld’" [level=3]'
+              - generic [ref=e241]:
+                - link "Klassiek Unieke beelden van het Concertgebouworkest in 1968 uit de Schatkamer van Beeld & Geluid" [ref=e243] [cursor=pointer]:
+                  - /url: /article/unieke-beelden-van-het-concertgebouworkest-in-1968-uit-de-schatkamer-van-beeld-and-geluid~1533
+                  - img [ref=e247]
+                  - generic [ref=e248]:
+                    - list [ref=e249]:
+                      - listitem [ref=e250]:
+                        - generic "Klassiek" [ref=e251]
+                    - heading "Unieke beelden van het Concertgebouworkest in 1968 uit de Schatkamer van Beeld & Geluid" [level=3]
+                - link "Nieuw Klassiek Sopraan Elsa Dreisig zet onbekende romantische opera's in de spotlight" [ref=e253] [cursor=pointer]:
+                  - /url: /article/sopraan-elisa-dreisig-zet-onbekende-romantische-opera-s-in-de-spotlight~1532
+                  - generic [ref=e256]:
+                    - img [ref=e257]
+                    - generic [ref=e258]: Thomas Rev
+                  - generic [ref=e259]:
+                    - list [ref=e260]:
+                      - listitem [ref=e261]:
+                        - generic "Nieuw Klassiek" [ref=e262]
+                    - heading "Sopraan Elsa Dreisig zet onbekende romantische opera's in de spotlight" [level=3]
+              - generic [ref=e263]:
+                - link "Ik hou niet van Musical! Anne-Marie Jung over de theatermagie bij Harry Potter" [ref=e265] [cursor=pointer]:
+                  - /url: /article/anne-marie-jung-over-de-theatermagie-bij-harry-potter~1531
+                  - img [ref=e269]
+                  - generic [ref=e270]:
+                    - list [ref=e271]:
+                      - listitem [ref=e272]:
+                        - generic "Ik hou niet van Musical!" [ref=e273]
+                    - heading "Anne-Marie Jung over de theatermagie bij Harry Potter" [level=3]
+                - 'link "Ik Vertrek: Hoe gaat het nu met? Hoe gaat het nu met Matthijs en Valeska? Hun Surinaamse dierenopvang stroomt vol" [ref=e275] [cursor=pointer]':
+                  - /url: /article/hoe-gaat-het-nu-met-matthijs-en-valeska-hun-surinaamse-dierenopvang-stroomt-vol~1521
+                  - img [ref=e279]
+                  - generic [ref=e280]:
+                    - list [ref=e281]:
+                      - listitem [ref=e282]:
+                        - 'generic "Ik Vertrek: Hoe gaat het nu met?" [ref=e283]'
+                    - heading "Hoe gaat het nu met Matthijs en Valeska? Hun Surinaamse dierenopvang stroomt vol" [level=3]
+              - 'link "Close Up leestijd: 2 minuten. Ontdek de nieuwe Close Up-documentaires" [ref=e286] [cursor=pointer]':
+                - /url: /longread/ontdek-de-nieuwe-close-up-documentaires~87
+                - img [ref=e290]
+                - generic [ref=e291]:
+                  - generic [ref=e292]: Longread
+                  - list [ref=e293]:
+                    - listitem [ref=e294]:
+                      - generic "Close Up" [ref=e295]
+                    - listitem [ref=e296]:
+                      - 'generic "leestijd: 2 minuten." [ref=e297]':
+                        - img [ref=e298]
+                        - generic [ref=e300]: "2"
+                        - text: min
+                  - heading "Ontdek de nieuwe Close Up-documentaires" [level=3] [ref=e301]
+              - link "Nu te Zien! Nu te Zien! afleveringen" [ref=e304] [cursor=pointer]:
+                - /url: /longread/nu-te-zien-afleveringen~85
+                - img [ref=e308]
+                - generic [ref=e309]:
+                  - generic [ref=e310]: Longread
+                  - list [ref=e311]:
+                    - listitem [ref=e312]:
+                      - generic "Nu te Zien!" [ref=e313]
+                    - listitem
+                  - heading "Nu te Zien! afleveringen" [level=3] [ref=e314]
+              - 'link "Nu te Zien! leestijd: 3 minuten. 3 x nieuwe tentoonstellingen in juni 2026" [ref=e317] [cursor=pointer]':
+                - /url: /longread/3-x-nieuwe-tentoonstellingen-in-juni-2026~95
+                - img [ref=e321]
+                - generic [ref=e322]:
+                  - generic [ref=e323]: Longread
+                  - list [ref=e324]:
+                    - listitem [ref=e325]:
+                      - generic "Nu te Zien!" [ref=e326]
+                    - listitem [ref=e327]:
+                      - 'generic "leestijd: 3 minuten." [ref=e328]':
+                        - img [ref=e329]
+                        - generic [ref=e331]: "3"
+                        - text: min
+                  - heading "3 x nieuwe tentoonstellingen in juni 2026" [level=3] [ref=e332]
+              - generic [ref=e333]:
+                - 'link "Afleveringen Ik Vertrek Ik Vertrek-stel begint wilde dierenopvang in Suriname: ‘Een capibaraverblijf is mijn jeugddroom’" [ref=e335] [cursor=pointer]':
+                  - /url: /article/ik-vertrek-stel-begint-wilde-dierenopvang-in-suriname-een-apibaraverblijf-is-mijn-jeugddroom~1516
+                  - img [ref=e339]
+                  - generic [ref=e340]:
+                    - list [ref=e341]:
+                      - listitem [ref=e342]:
+                        - generic "Afleveringen Ik Vertrek" [ref=e343]
+                    - 'heading "Ik Vertrek-stel begint wilde dierenopvang in Suriname: ‘Een capibaraverblijf is mijn jeugddroom’" [level=3]'
+                - link "Nieuw Klassiek Zo klonk Dvořáks 'Nieuwe wereld'" [ref=e345] [cursor=pointer]:
+                  - /url: /article/zo-klonk-dvoraks-nieuwe-wereld~1528
+                  - generic [ref=e348]:
+                    - img [ref=e349]
+                    - generic [ref=e350]: Guido Pijpe
+                  - generic [ref=e351]:
+                    - list [ref=e352]:
+                      - listitem [ref=e353]:
+                        - generic "Nieuw Klassiek" [ref=e354]
+                    - heading "Zo klonk Dvořáks 'Nieuwe wereld'" [level=3]
+              - generic [ref=e355]:
+                - link "Musical Awards Dit zijn alle optredens van het Musical Awards Gala 2026" [ref=e357] [cursor=pointer]:
+                  - /url: /article/dit-zijn-alle-optredens-van-het-musical-awards-gala-2026~1526
+                  - img [ref=e361]
+                  - generic [ref=e362]:
+                    - list [ref=e363]:
+                      - listitem [ref=e364]:
+                        - generic "Musical Awards" [ref=e365]
+                    - heading "Dit zijn alle optredens van het Musical Awards Gala 2026" [level=3]
+                - link "Ik hou niet van Musical! Nieuw seizoen podcastserie 'Ik hou niet van musical!'" [ref=e367] [cursor=pointer]:
+                  - /url: /article/nieuw-seizoen-podcastserie-ik-hou-niet-van-musical~1525
+                  - img [ref=e371]
+                  - generic [ref=e372]:
+                    - list [ref=e373]:
+                      - listitem [ref=e374]:
+                        - generic "Ik hou niet van Musical!" [ref=e375]
+                    - heading "Nieuw seizoen podcastserie 'Ik hou niet van musical!'" [level=3]
+              - generic [ref=e376]:
+                - link "Talenttraject VIRTUOOS Hawijch Elders en Valère Burnon spelen Tsjaikovski's Méditation" [ref=e378] [cursor=pointer]:
+                  - /url: /video/hawijch-elders-en-valere-burnon-spelen-tsjaikovski-s-meditation~519
+                  - generic [ref=e380]:
+                    - img [ref=e381]
+                    - generic [ref=e382]: AVROTROS
+                  - img [ref=e384]
+                  - generic [ref=e388]:
+                    - list [ref=e389]:
+                      - listitem [ref=e390]:
+                        - generic "Talenttraject VIRTUOOS" [ref=e391]
+                    - heading "Hawijch Elders en Valère Burnon spelen Tsjaikovski's Méditation" [level=3] [ref=e392]
+                - link "Talenttraject VIRTUOOS Hawijch Elders en Valère Burnon spelen virtuoze Ysaÿe" [ref=e394] [cursor=pointer]:
+                  - /url: /video/ysaye-caprice-d-apres-l-etude-en-forme-de-valse-de-c-saint-saens~518
+                  - generic [ref=e396]:
+                    - img [ref=e397]
+                    - generic [ref=e398]: AVROTROS
+                  - img [ref=e400]
+                  - generic [ref=e404]:
+                    - list [ref=e405]:
+                      - listitem [ref=e406]:
+                        - generic "Talenttraject VIRTUOOS" [ref=e407]
+                    - heading "Hawijch Elders en Valère Burnon spelen virtuoze Ysaÿe" [level=3] [ref=e408]
+              - button "alles bekijken" [ref=e410] [cursor=pointer]:
+                - generic [ref=e411]: Alles
+                - generic [ref=e412]: Bekijken
+            - generic [ref=e413]:
+              - button "Vorige":
+                - img
+                - generic: Vorige
+              - button "Volgende":
+                - img
+                - generic: Volgende
+        - generic [ref=e415]:
+          - heading "Kunst bij AVROTROS Alles voor de kunstliefhebber op een rijtje." [level=2] [ref=e418]:
+            - generic [ref=e419]: Kunst bij AVROTROS
+            - generic [ref=e420]: Alles voor de kunstliefhebber op een rijtje.
+          - generic [ref=e421]:
+            - generic:
+              - link "terug naar de homepage":
+                - /url: /
+                - img [ref=e422] [cursor=pointer]
+                - generic: terug naar de homepage
+              - generic: Loading
+        - generic [ref=e425]:
+          - heading "Klassiek bij AVROTROS Voor als je geen genoeg krijgt van klassieke muziek." [level=2] [ref=e428]:
+            - generic [ref=e429]: Klassiek bij AVROTROS
+            - generic [ref=e430]: Voor als je geen genoeg krijgt van klassieke muziek.
+          - generic [ref=e431]:
+            - generic:
+              - link "terug naar de homepage":
+                - /url: /
+                - img [ref=e432] [cursor=pointer]
+                - generic: terug naar de homepage
+              - generic: Loading
+        - generic [ref=e435]:
+          - heading "Luistertip podcasts" [level=2] [ref=e438]:
+            - generic [ref=e439]: Luistertip
+            - generic [ref=e440]: podcasts
+          - generic [ref=e441]:
+            - generic [ref=e442]:
+              - link "Podcast Man van weinig woorden" [ref=e444] [cursor=pointer]:
+                - /url: /program/man-van-weinig-woorden~229/
+                - img [ref=e447]
+                - generic [ref=e448]:
+                  - generic [ref=e449]:
+                    - img [ref=e450]
+                    - generic [ref=e454]: Podcast
+                  - heading "Man van weinig woorden" [level=3] [ref=e455]
+              - link "Podcast Zeg Paus, waar is m’n kunst?" [ref=e457] [cursor=pointer]:
+                - /url: /program/zeg-paus-waar-is-m-n-kunst~220/
+                - img [ref=e460]
+                - generic [ref=e461]:
+                  - generic [ref=e462]:
+                    - img [ref=e463]
+                    - generic [ref=e467]: Podcast
+                  - heading "Zeg Paus, waar is m’n kunst?" [level=3] [ref=e468]
+              - 'link "Podcast Niet mijn schuld: kinderen van de Toeslagenaffaire" [ref=e470] [cursor=pointer]':
+                - /url: /program/niet-mijn-schuld-kinderen-van-de-toeslagenaffaire~227/
+                - img [ref=e473]
+                - generic [ref=e474]:
+                  - generic [ref=e475]:
+                    - img [ref=e476]
+                    - generic [ref=e480]: Podcast
+                  - 'heading "Niet mijn schuld: kinderen van de Toeslagenaffaire" [level=3] [ref=e481]'
+              - link "Podcast Ik hou niet van Musical!" [ref=e483] [cursor=pointer]:
+                - /url: /program/ik-hou-niet-van-musical~221/
+                - img [ref=e486]
+                - generic [ref=e487]:
+                  - generic [ref=e488]:
+                    - img [ref=e489]
+                    - generic [ref=e493]: Podcast
+                  - heading "Ik hou niet van Musical!" [level=3] [ref=e494]
+            - generic [ref=e495]:
+              - button "Vorige":
+                - img
+                - generic: Vorige
+              - button "Volgende":
+                - img
+                - generic: Volgende
+        - generic [ref=e499]:
+          - heading "Altijd op de hoogte blijven van jouw favoriete programma's?" [level=2] [ref=e500]
+          - generic [ref=e501]: "In onze nieuwsbrief vind je de allerleukste content van alle programma's en onze speciale evenementen. Meld je hier aan:"
+          - generic [ref=e502]:
+            - generic [ref=e503]:
+              - text: e-mailadres
+              - generic [ref=e504]: "*"
+            - textbox "e-mailadres *" [ref=e505]
+          - button "Verstuur" [ref=e506] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic:
+        - iframe [ref=e507]:
+          
+        - button:
+          - img

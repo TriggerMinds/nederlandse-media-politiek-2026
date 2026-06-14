@@ -18,7 +18,9 @@
 
 | Functie | Naam | Bron |
 |---|---|---|
-| Directeur | niet bevestigd | — |
+| Directeur | Willemien van Aalst | human.nl |
+
+Bron: https://www.human.nl/info/organisatie, geraadpleegd 14 juni 2026
 
 ## 3. Programmering
 

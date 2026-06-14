@@ -18,8 +18,11 @@
 
 | Functie | Naam | Bron |
 |---|---|---|
-| Algemeen directeur | Arjan van der Hoek (sinds 2020) | Wikipedia |
+| Voorzitter Raad van Bestuur | Arjan Lock | eo.nl |
+| Bestuurder | Janneke Koorevaar (sinds 1 feb 2026) | eo.nl |
 | Voorzitter RvT | niet bevestigd | — |
+
+Bron: https://www.eo.nl/bestuur, geraadpleegd 14 juni 2026
 
 ## 3. Programmering
 

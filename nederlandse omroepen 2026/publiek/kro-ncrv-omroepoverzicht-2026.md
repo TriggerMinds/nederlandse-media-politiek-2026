@@ -18,7 +18,10 @@
 
 | Functie | Naam | Bron |
 |---|---|---|
-| Algemeen directeur | niet bevestigd | — |
+| Directievoorzitter | Arie Koornneef | kro-ncrv.nl |
+| Directeur a.i. | Peter Kuipers | kro-ncrv.nl |
+
+Bron: https://www.kro-ncrv.nl/directie-raad-van-toezicht-en-ledenraad, geraadpleegd 14 juni 2026
 
 ## 3. Programmering
 

@@ -18,7 +18,9 @@
 
 | Functie | Naam | Bron |
 |---|---|---|
-| Directeur | niet bevestigd | — |
+| Bestuurder | Lisa Versteeg | wnl.tv |
+
+Bron: https://www.wnl.tv/over-wnl/organisatie, geraadpleegd 14 juni 2026
 
 ## 3. Programmering
 

@@ -8,7 +8,7 @@
 ## 1. Profiel
 | Veld | Waarde |
 |---|---|
-| Hoofdredacteur | niet bevestigd |
+| Hoofdredacteur | Perry Feenstra |
 | Opgericht | 1938 (voorganger Amsterdamsche Courant 1796) |
 | Hoofdkantoor | Amsterdam |
 | Oplage | 87.000 bereik (2023) |
@@ -23,4 +23,5 @@
 ## 3. Medewerkers
 Zie `fd-redactie-journalisten-2026.md` in deze directory.
 
-**Bron:** https://nl.wikipedia.org/wiki/Het_Financieele_Dagblad
+**Colofon:** https://fd.nl/economie/1558096/colofon-hoekan-ik-een-redacteur-bereiken (live colofon)
+**Geverifieerd:** 14 juni 2026 via browser.

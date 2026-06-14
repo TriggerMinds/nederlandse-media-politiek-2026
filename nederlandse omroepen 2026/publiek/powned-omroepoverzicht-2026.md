@@ -18,7 +18,11 @@
 
 | Functie | Naam | Bron |
 |---|---|---|
-| Directeur | niet bevestigd | — |
+| Voorzitter | Dominique Weesie | powned.tv |
+| Zakelijk directeur | Paul Visser | powned.tv |
+| Penningmeester | Tom Cornelissen | powned.tv |
+
+Bron: https://www.powned.tv/organisatie-en-bestuur, geraadpleegd 14 juni 2026
 
 ## 3. Programmering
 

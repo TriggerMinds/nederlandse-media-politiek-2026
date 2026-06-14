@@ -15,6 +15,7 @@
 | Formaat | Tabloid |
 | Website | NederlandsDagblad.nl |
 | Signatuur | Protestants-christelijk (gereformeerd) |
+| Colofon | ❌ Geen colofon online (nd.nl → alleen homepage, 14 jun 2026) |
 
 ## 2. Historie
 | 1944 | Opgericht als verzetskrant tijdens WOII |
@@ -24,4 +25,4 @@
 - Bert van Velzen (voormalig hoofdredacteur)
 - Rien de Visser (journalist)
 
-**Bron:** https://nl.wikipedia.org/wiki/Nederlands_Dagblad
+**Geverifieerd:** 14 juni 2026 via browser.

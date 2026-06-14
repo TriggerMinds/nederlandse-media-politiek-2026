@@ -1,0 +1,359 @@
+- generic [active] [ref=e1]:
+  - link "Direct naar artikelinhoud" [ref=e2] [cursor=pointer]:
+    - /url: "#article-content"
+  - generic [ref=e3]: Geen advertentie geladen
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e7]:
+        - navigation "Hoofdnavigatie" [ref=e8]:
+          - button "Rubrieken menu" [ref=e10] [cursor=pointer]:
+            - img [ref=e11]
+          - link "Naar de zoekpagina" [ref=e14] [cursor=pointer]:
+            - /url: /zoeken/
+            - img [ref=e15]
+        - link "Homepagina" [ref=e19] [cursor=pointer]:
+          - /url: /
+          - img "Website logo" [ref=e21]
+        - generic [ref=e22]:
+          - complementary [ref=e344]:
+            - complementary [ref=e345]:
+              - generic [ref=e346]:
+                - link "Log in" [ref=e347] [cursor=pointer]:
+                  - /url: https://www.trouw.nl/login?redirectUri=https%3A%2F%2Fwww.trouw.nl%2Fopinie%2Fhet-colofon-van-trouw~b2a8ebf8%2F&dpg_content=DEF_SUBSCRIBE_ABO_PRIJS_LOGIN_ARTICLE_PAGE_TOP_TR&dpg_source=vk&dpg_medium=temptation_mp&dpg_term=
+                - link "Abonneren vanaf €1,95 per week" [ref=e348] [cursor=pointer]:
+                  - /url: https://abonnement.trouw.nl/?otag=t2ejen&utm_source=tr&utm_medium=interne_referral&utm_campaign=alwayson&utm_content=DEF_SUBSCRIBE_ABO_PRIJS_LOGIN_ARTICLE_PAGE_TOP_TR&mid=CAM-wxvanx|TCH-5g6nol|TCO-lx2qmx|CTY-5g6nol|CCO-5g6nol|PRG-xvd3rx
+          - button "U bent niet ingelogd." [ref=e23] [cursor=pointer]:
+            - img "U bent niet ingelogd." [ref=e24]
+      - navigation "Hoofd subnavigatie" [ref=e28]:
+        - list [ref=e30]:
+          - listitem [ref=e31]:
+            - link "zingeving" [ref=e32] [cursor=pointer]:
+              - /url: /religie-filosofie/
+          - listitem [ref=e33]:
+            - link "duurzaamheid" [ref=e34] [cursor=pointer]:
+              - /url: /duurzaamheid-economie/
+          - listitem [ref=e35]:
+            - link "gezondheid" [ref=e36] [cursor=pointer]:
+              - /url: /gezondheid/
+          - listitem [ref=e37]:
+            - link "weekend" [ref=e38] [cursor=pointer]:
+              - /url: /tijdgeest/
+          - listitem [ref=e39]:
+            - link "vandaag" [ref=e40] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e41]:
+            - link "WK voetbal" [ref=e42] [cursor=pointer]:
+              - /url: /sport/
+          - listitem [ref=e43]:
+            - link "verdieping" [ref=e44] [cursor=pointer]:
+              - /url: /verdieping/
+          - listitem [ref=e45]:
+            - link "podcasts" [ref=e46] [cursor=pointer]:
+              - /url: /luister/
+          - listitem [ref=e47]:
+            - link "puzzels" [ref=e48] [cursor=pointer]:
+              - /url: /puzzels/
+    - main [ref=e50]:
+      - article [ref=e51]:
+        - generic [ref=e52]:
+          - 'generic "Sublabel: Colofon" [ref=e53]':
+            - generic [ref=e55]: Colofon
+          - heading "Het colofon van Trouw" [level=1] [ref=e56]
+          - paragraph [ref=e57]: Wie werken er bij Trouw?
+          - generic [ref=e58]:
+            - generic [ref=e59]: Dit artikel is geschreven door
+            - link "auteur Redactie Trouw" [ref=e61] [cursor=pointer]:
+              - /url: /auteur/redactie-trouw/
+              - text: Redactie Trouw
+            - time [ref=e62]:
+              - generic [ref=e63]: Gepubliceerd op
+              - text: 30 april 2026, 12:05
+            - text: •
+            - toolbar "Bewaar of deel dit artikel" [ref=e64]:
+              - switch "Bewaren" [ref=e66] [cursor=pointer]:
+                - img [ref=e67]
+                - generic [ref=e69]: Bewaren
+              - button "Delen" [ref=e71] [cursor=pointer]:
+                - img [ref=e72]
+                - text: Delen
+        - generic [ref=e74]:
+          - complementary
+          - generic [ref=e75]:
+            - heading "Hoofdredactie (hoofdredactie@trouw.nl)" [level=2] [ref=e77]:
+              - text: Hoofdredactie (
+              - link "hoofdredactie@trouw.nl" [ref=e78] [cursor=pointer]:
+                - /url: mailto:hoofdredactie@trouw.nl
+              - text: )
+            - generic [ref=e79]:
+              - paragraph [ref=e80]:
+                - text: Wendelmoet Boersema en Karel Smouter,
+                - text: Somajeh Ghaeminia (adjunct)
+              - text: Advertentie
+              - complementary [ref=e81]:
+                - complementary [ref=e353]:
+                  - generic [ref=e354]:
+                    - generic [ref=e355]:
+                      - heading "Mis nooit meer het laatste nieuws" [level=2] [ref=e356]
+                      - generic [ref=e358] [cursor=pointer]:
+                        - checkbox
+                    - paragraph [ref=e360]: Krijg een melding bij belangrijk nieuws over Opinie.
+            - heading "Opinie (opinie@trouw.nl & lezers@trouw.nl)" [level=2] [ref=e83]:
+              - text: Opinie (
+              - link "opinie@trouw.nl" [ref=e84] [cursor=pointer]:
+                - /url: mailto:opinie@trouw.nl
+              - text: "&"
+              - link "lezers@trouw.nl" [ref=e85] [cursor=pointer]:
+                - /url: mailto:lezers@trouw.nl
+              - text: )
+            - paragraph [ref=e87]: Laura van Baars (chef), Wybo Algra (Ombudsman), Leonie Breebaart, Maaike van Houten, Felix Huygen, Edwin Kreulen (publieksredacteur)
+            - complementary [ref=e89]:
+              - generic [ref=e92]:
+                - paragraph [ref=e93]:
+                  - text: Wilt u een opiniestuk of lezersreactie insturen?
+                  - link "Klik hier" [ref=e94] [cursor=pointer]:
+                    - /url: https://www.trouw.nl/opinie/opiniestuk-insturen-of-reageren~becd5101/
+                - paragraph [ref=e95]:
+                  - text: Heeft u een tip voor de redactie?
+                  - link "Klik hier" [ref=e96] [cursor=pointer]:
+                    - /url: https://www.trouw.nl/achter-de-schermen/heeft-u-een-tip-voor-de-redactie-van-trouw~b6b26132/
+            - heading "Binnenland (nieuwsdienst@trouw.nl)" [level=2] [ref=e98]:
+              - text: Binnenland (
+              - link "nieuwsdienst@trouw.nl" [ref=e99] [cursor=pointer]:
+                - /url: mailto:nieuwsdienst@trouw.nl
+              - text: )
+            - paragraph [ref=e101]: Mariken Smit (chef), Elleke Bal, Jeroen den Blijker, Zoran Bogdanovic, Joost van Egmond, Emiel Hakkenes, Johan van Heerde, Jeannine Julen, Stefan Keukenkamp, Merijn van Nuland, Tim van der Pal, Dorien Pels, Jeroen van Raalte, Ole Stegeman, Frank Straver, Eline van Suchtelen, Ingrid Weel, Phaedra Werkhoven, Susan Wichgers, Marten van de Wier
+            - heading "Correspondenten binnenland" [level=2] [ref=e103]
+            - generic [ref=e104]:
+              - paragraph [ref=e105]: Orkun Akinci (Zuid-Nederland), Cindy Cloin (Oost-Nederland), Manon Colson (Limburg), Karin de Mik (Friesland), Bert Nijmeijer (Groningen), Anton Slotboom (Rotterdam), Wouter van Wijk (Utrecht)
+              - generic [ref=e106]: Geen advertentie geladen
+            - heading "Politiek (politiek@trouw.nl)" [level=2] [ref=e108]:
+              - text: Politiek (
+              - link "politiek@trouw.nl" [ref=e109] [cursor=pointer]:
+                - /url: mailto:politiek@trouw.nl
+              - text: )
+            - paragraph [ref=e111]: Niels Markus (chef), Janne Chaudron, Auke van Eijsden, Judith Harmsen, Wilma Kieskamp, Esther Lammers, Christoph Schmidt
+            - heading "Buitenland" [level=2] [ref=e113]
+            - paragraph [ref=e115]: Gijs Moes, (chef), Romana Abels (Brussel), Aletta André, Joris Belgers, Isabel Bolle, Mella Fuchs, Pieternel Gruppen, Cees van der Laan, Tamara Uildriks, Arjen van der Ziel
+            - heading "Correspondenten buitenland" [level=2] [ref=e117]
+            - generic [ref=e118]:
+              - paragraph [ref=e119]: Annelies Bontjes (Brussel), Michiel Driebergen (Oost-Europa), Jurriaan van Eerten (Madrid), Roos van Hennekeler (Boedapest), Cindy Huijgen (Beijing), Eugenie D’Hooghe (Israël), Jarron Kamphorst (Tbilisi), Thijs Kettenis (Athene), Mari Meyer (Los Angeles), Barbara Noordermer (Washington), Ekke Overbeek (Berlijn), Niels Posthumus (Manchester), Eva Rammeloo (Parijs), Joost Scheffers (Cairo), Wies Ubags (Rio de Janeiro), Pauline Valkenet (Rome), Kevin van Vliet (Kaapstad), Ingrid Woudwijk (Istanbul), Erik van Zwam (Zuidoost Azië)
+              - text: Advertentie
+            - heading "Duurzaamheid & Economie (economie@trouw.nl)" [level=2] [ref=e121]:
+              - text: Duurzaamheid & Economie (
+              - link "economie@trouw.nl" [ref=e122] [cursor=pointer]:
+                - /url: mailto:economie@trouw.nl
+              - text: )
+            - paragraph [ref=e124]: Daan Marselis (chef), Jelle Brandsma, Renée de Coninck, Lidwien Dobber, Maarten van Gestel, Jasmijn Huisman, Hans Nauta, Martijn Roessingh, Nienke Schipper, Koos Schwartz, Lukas van der Storm, Joost van Velzen, Dirk Waterval
+            - heading "Sport (sport@trouw.nl)" [level=2] [ref=e126]:
+              - text: Sport (
+              - link "sport@trouw.nl" [ref=e127] [cursor=pointer]:
+                - /url: mailto:sport@trouw.nl
+              - text: )
+            - paragraph [ref=e129]: Bart Zuidervaart (chef), Matthijs van Dam, Kick Hommes, Esther Scholten
+            - heading "Religie&Filosofie (religiefilosofie@trouw.nl)" [level=2] [ref=e131]:
+              - text: Religie&Filosofie (
+              - link "religiefilosofie@trouw.nl" [ref=e132] [cursor=pointer]:
+                - /url: mailto:religiefilosofie@trouw.nl
+              - text: )
+            - generic [ref=e133]:
+              - paragraph [ref=e134]: Marije van Beek (chef), Andrea Bosman, Lodewijk Dros, Jelmer Mulder, Rianne Oosterom, Peter Henk Steenhuis, Besan Zarzar
+              - text: Advertentie
+            - heading "Cultuur&Media (kunst@trouw.nl)" [level=2] [ref=e136]:
+              - text: Cultuur&Media (
+              - link "kunst@trouw.nl" [ref=e137] [cursor=pointer]:
+                - /url: mailto:kunst@trouw.nl
+              - text: )
+            - paragraph [ref=e139]: Robin Goudsmit (chef), Isabel Baneke, Harmen van Dijk, Sandra Kooke, Laila Moussaoui, Ally Smid, Marco Visser
+            - heading "Tijdgeest (tijdgeest@trouw.nl)" [level=2] [ref=e141]:
+              - text: Tijdgeest (
+              - link "tijdgeest@trouw.nl" [ref=e142] [cursor=pointer]:
+                - /url: "mailto: tijdgeest@trouw.nl"
+              - text: )
+            - paragraph [ref=e144]: John Graat (chef), Amber Dujardin, Iris Pronk, Rick Pullens, Jann Ruyters
+            - heading "Commentatoren" [level=2] [ref=e146]
+            - paragraph [ref=e148]: Laura van Baars, Elleke Bal, Marije van Beek, Wendelmoet Boersema, Janne Chaudron, Ghassan Dahhan, Robin Goudsmit, Niels Markus, Koos Schwartz, Seije Slager, Karel Smouter, Frank Straver, Bart Zuidervaart
+            - heading "Columnisten" [level=2] [ref=e150]
+            - paragraph [ref=e152]: Romana Abels, Karim Amghar, Naeeda Aurangzeb, Abdelkader Benali, Ton den Boon, Maaike Bos, Adriaan ter Braack, Leonie Breebaart, Martha Claeys, Peter-Arno Coppen, Harmen van Dijk, Koos Dijksterhuis, Erik Ex, Hans Goslinga, Hieke Huistra, Dolf Jansen, Bert Keizer, James Kennedy, Pepijn Keppel, Wilma Kieskamp, Peter van der Lint, Nicolien Mizee, Eildert Mulder, Ilyaz Nasrullah, Nelleke Noordervliet, Jamal Ouariachi, Ronit Palache, Jelle Reumer, Maxe de Rijke, Stephan Sanders, Marieke van Schuppen, Iris Sommer, Irene van Staveren, Babah Tarawally, Alain Verheij, Kelli van der Waals, Rob de Wijk
+            - heading "Cartoonisten" [level=2] [ref=e154]
+            - paragraph [ref=e156]: Tom Janssen, Nanne Meulendijks, Len Munnik, Tjeerd Royaards, Berend Vonk, Johan van Zanten
+            - heading "Centrale redactie" [level=2] [ref=e158]
+            - paragraph [ref=e160]: Seije Slager (de Verdieping), Ghassan Dahhan, Kristel van Teeffelen
+            - heading "Eindredactie (eindredactie@trouw.nl)" [level=2] [ref=e162]:
+              - text: Eindredactie (
+              - link "eindredactie@trouw.nl" [ref=e163] [cursor=pointer]:
+                - /url: mailto:eindredactie@trouw.nl
+              - text: )
+            - paragraph [ref=e165]: Ilse van Heusden (chef), Truska Bast, Sander Becker, Esther Bijlo, Gabriella Codonesu, Jeroen van Goor, Arwen van Grafhorst, Henk Hoijtink, Tom van Hulsen, Jonah Kahn, Klaas Knooihuizen, Sabine Kok, Iris Ludeker, Hans Marijnissen, André Ritsema, Gert Jan Rohmensen, Helen Verkaik, Petra Vissers, Jetteke van Wijk
+            - heading "Beeldredactie (foto@trouw.nl)" [level=2] [ref=e167]:
+              - text: Beeldredactie (
+              - link "foto@trouw.nl" [ref=e168] [cursor=pointer]:
+                - /url: mailto:foto@trouw.nl
+              - text: )
+            - paragraph [ref=e170]: Danusia Schenke (art director/coördinator), Patricia van Arkel, Christine Baart, Fabiola van den Berg, Anne Blaak, Lisette van Boxel, Isabel Brito, Nelleke Broeze, Ted Du Bois, Anita Huisman, Liselore Kamping, Basia Knobloch, Celine Kroon, Fleur Mulder, Fadi Nadrous, Lotti Pronk, Jimmy Reinders, Brechtje Rood, Rynke Sangers, Misja Steinmetz, Anja Struiken, Dirk Verweij, Jeanette de Vos, Anita van der Weijden
+            - heading "Online (internet@trouw.nl)" [level=2] [ref=e172]:
+              - text: Online (
+              - link "internet@trouw.nl" [ref=e173] [cursor=pointer]:
+                - /url: mailto:internet@trouw.nl
+              - text: )
+            - paragraph [ref=e175]: Charlot Verlouw (chef), Ines van den Adel, Roelant Frijns, Sjoerd Huismans, Rufus Kain, Sean Kerstges, Jasper Knegt, Michael Royall, Ella Santhagens, Sanne Toebes, Job Urbach, Thaloen Verweij, Marianne Vriesema, Nienke Zoetbrood
+            - heading "Redactie Administratie (secretariaat@trouw.nl)" [level=2] [ref=e177]:
+              - text: Redactie Administratie (
+              - link "secretariaat@trouw.nl" [ref=e178] [cursor=pointer]:
+                - /url: mailto:secretariaat@trouw.nl
+              - text: )
+            - paragraph [ref=e180]: Beatrijs van Oorschot, Alexandra Tegelberg, Birthe Verbruggen, Erna Visser
+            - heading "Rubrieken" [level=2] [ref=e182]
+            - paragraph [ref=e184]: Maaike Bos (De blik van Bos), Jaap de Berg (Kruiswoordtest), Joke Boon (Koken), Ton den Boon (Taal), Lena Bril (Lieve Lena), Peter-Arno Coppen (Taal), Judith Cyrus (Koken), Vincent Dekker (Vincent wil zon), Harmen van Dijk (Soap&Co), Koos Dijksterhuis (Natuurdagboek), Laura Gremmee (Laura vertrekt), Charlotte Kleyn (Koken), Karin Luiten (Koken met Karin), Loete Olthuis (Tuinieren), Tobiah Palm (Seks volgens), Dana Ploeger (Naschrift), Jelle Reumer (Jelle’s weekdier), Bas Robben (Koken), Paul van der Steen (Déja Vu), Peter Henk Steenhuis (Zinzoeker), Arjan Visser (Tien Geboden), Joke de Wolf (Het oog van de Wolf)
+          - complementary [ref=e361]:
+            - article [ref=e362]:
+              - iframe [ref=e363]:
+                - generic [active] [ref=f121e1]:
+                  - generic [ref=f121e8]:
+                    - heading "Ochtendnieuwsbrief" [level=1] [ref=f121e9]
+                    - heading "Schrijf je in en ontvang iedere ochtend een overzicht met de belangrijkste stukken uit de krant." [level=2] [ref=f121e10]
+                    - generic:
+                      - textbox "Uw e-mailadres" [ref=f121e11]
+                      - button "Inschrijven" [ref=f121e12] [cursor=pointer]
+                  - iframe
+          - generic [ref=e222]:
+            - button "Delen via Facebook" [ref=e223] [cursor=pointer]:
+              - img [ref=e224]
+            - button "Delen via X (voorheen Twitter)" [ref=e226] [cursor=pointer]:
+              - img [ref=e227]
+            - button "Delen via E-mail" [ref=e229] [cursor=pointer]:
+              - img [ref=e230]
+            - button "Delen via Bluesky" [ref=e232] [cursor=pointer]:
+              - img [ref=e233]
+            - button "Delen via Whatsapp" [ref=e235] [cursor=pointer]:
+              - img [ref=e236]
+    - generic [ref=e243]: Geen advertentie geladen
+    - contentinfo [ref=e244]:
+      - generic [ref=e246]:
+        - generic [ref=e247]:
+          - heading "Wilt u iets delen met Trouw?" [level=2] [ref=e248]
+          - link "Tip hier onze journalisten" [ref=e249] [cursor=pointer]:
+            - /url: /achter-de-schermen/heeft-u-een-tip-voor-de-redactie-van-trouw~b6b26132
+        - navigation [ref=e250]:
+          - generic [ref=e251]:
+            - generic [ref=e252]: Algemeen
+            - list "Algemeen" [ref=e253]:
+              - listitem [ref=e254]:
+                - link "Over ons" [ref=e255] [cursor=pointer]:
+                  - /url: /overons
+              - listitem [ref=e256]:
+                - link "Opiniestuk insturen" [ref=e257] [cursor=pointer]:
+                  - /url: https://www.trouw.nl/opinie/opiniestuk-insturen-of-reageren~becd5101/
+              - listitem [ref=e258]:
+                - link "Privacystatement" [ref=e259] [cursor=pointer]:
+                  - /url: https://privacy.dpgmedia.nl/nl/document/privacy-policy
+              - listitem [ref=e260]:
+                - link "Abonnementsvoorwaarden" [ref=e261] [cursor=pointer]:
+                  - /url: https://privacy.dpgmedia.nl/nl/document/abonnementsvoorwaarden-algemeen-dpgmedia-nl
+              - listitem [ref=e262]:
+                - link "Gebruiksvoorwaarden" [ref=e263] [cursor=pointer]:
+                  - /url: https://www.dpgmedia.nl/gebruiksvoorwaarden
+              - listitem [ref=e264]:
+                - link "Toegankelijkheidsverklaring" [ref=e265] [cursor=pointer]:
+                  - /url: https://privacy.dpgmedia.nl/nl/document/toegankelijkheid-vtp
+              - listitem [ref=e266]:
+                - link "Cookiebeleid" [ref=e267] [cursor=pointer]:
+                  - /url: https://privacy.dpgmedia.nl/nl/document/cookie-policy
+              - listitem [ref=e268]:
+                - button "Privacy-instellingen" [ref=e269] [cursor=pointer]
+              - listitem [ref=e270]:
+                - link "Auteursrecht" [ref=e271] [cursor=pointer]:
+                  - /url: /nieuws/copyright-en-auteursrechten-trouw~bd0ebe56/
+              - listitem [ref=e272]:
+                - link "Colofon" [ref=e273] [cursor=pointer]:
+                  - /url: /opinie/opiniestukken-insturen-en-colofon-trouw~a2a8ebf8/
+          - generic [ref=e274]:
+            - generic [ref=e275]: Service
+            - list "Service" [ref=e276]:
+              - listitem [ref=e277]:
+                - link "Klantenservice" [ref=e278] [cursor=pointer]:
+                  - /url: https://mijnomgeving.trouw.nl
+              - listitem [ref=e279]:
+                - link "Bezorgklacht indienen" [ref=e280] [cursor=pointer]:
+                  - /url: https://mijnomgeving.trouw.nl/bezorgservice
+              - listitem [ref=e281]:
+                - link "Bezorging pauzeren" [ref=e282] [cursor=pointer]:
+                  - /url: https://mijnomgeving.trouw.nl/vakantieservice
+              - listitem [ref=e283]:
+                - link "Bezorging wijzigen" [ref=e284] [cursor=pointer]:
+                  - /url: https://mijnomgeving.trouw.nl/vakantieservice
+              - listitem [ref=e285]:
+                - link "(Bezorg)adres wijzigen" [ref=e286] [cursor=pointer]:
+                  - /url: https://mijnomgeving.trouw.nl/verhuisservice
+              - listitem [ref=e287]:
+                - link "Adverteren" [ref=e288] [cursor=pointer]:
+                  - /url: https://www.dpgmediagroup.com/nl-nl/trouw-contactformulier?utm_source=trouw&utm_medium=nieuwssite&utm_campaign=adverteren&utm_term=footer&utm_content=tekstlink_trouw
+              - listitem [ref=e289]:
+                - link "Losse verkoop" [ref=e290] [cursor=pointer]:
+                  - /url: https://www.dpglosseverkoop.nl/tornl_j2ee/pag/pve_index.jsp
+              - listitem [ref=e291]:
+                - link "Zakelijk abonnement" [ref=e292] [cursor=pointer]:
+                  - /url: https://abonnement.trouw.nl/zakelijk?dpg_source=trouw&dpg_medium=interne_referral&dpg_campaign=alwayson&utm_content=footer
+          - generic [ref=e293]:
+            - generic [ref=e294]: Meer Trouw
+            - list "Meer Trouw" [ref=e295]:
+              - listitem [ref=e296]:
+                - link "Abonneren" [ref=e297] [cursor=pointer]:
+                  - /url: https://www.trouw.nl/abonneren
+              - listitem [ref=e298]:
+                - link "Nieuwsbrieven" [ref=e299] [cursor=pointer]:
+                  - /url: /nieuwsbrief
+              - listitem [ref=e300]:
+                - link "Krant" [ref=e301] [cursor=pointer]:
+                  - /url: https://www.trouw.nl/krant/digitaal/vandaag
+              - listitem [ref=e302]:
+                - link "Webwinkel" [ref=e303] [cursor=pointer]:
+                  - /url: https://webwinkel.trouw.nl/
+              - listitem [ref=e304]:
+                - link "RSS-feeds" [ref=e305] [cursor=pointer]:
+                  - /url: /rss/feeds
+              - listitem [ref=e306]:
+                - link "Facebook" [ref=e307] [cursor=pointer]:
+                  - /url: https://www.facebook.com/Trouw.nl
+              - listitem [ref=e308]:
+                - link "LinkedIn" [ref=e309] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/trouw/?originalSubdomain=nl
+              - listitem [ref=e310]:
+                - link "Bluesky" [ref=e311] [cursor=pointer]:
+                  - /url: https://bsky.app/profile/trouw.nl
+              - listitem [ref=e312]:
+                - link "Instagram" [ref=e313] [cursor=pointer]:
+                  - /url: https://www.instagram.com/trouw.deverdieping/?hl=en
+              - listitem [ref=e314]:
+                - link "Android apps" [ref=e315] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=be.persgroep.android.news.mobiletr
+              - listitem [ref=e316]:
+                - link "iOS apps" [ref=e317] [cursor=pointer]:
+                  - /url: https://itunes.apple.com/nl/app/trouw-nl-mobile/id418881043
+          - generic [ref=e318]:
+            - generic [ref=e319]: Navigeer
+            - list "Navigeer" [ref=e320]:
+              - listitem [ref=e321]:
+                - link "Columnisten" [ref=e322] [cursor=pointer]:
+                  - /url: /columns
+              - listitem [ref=e323]:
+                - link "Recensies" [ref=e324] [cursor=pointer]:
+                  - /url: /recensies
+              - listitem [ref=e325]:
+                - link "Archief" [ref=e326] [cursor=pointer]:
+                  - /url: /archief
+        - paragraph [ref=e328]:
+          - text: Op alle verhalen van Trouw rust uiteraard copyright.
+          - text: Wil je tekst overnemen of een video(fragment), foto of illustratie gebruiken, mail dan naar
+          - link "copyright@trouw.nl" [ref=e329] [cursor=pointer]:
+            - /url: mailto:copyright@trouw.nl
+          - text: .
+      - generic [ref=e331]:
+        - paragraph [ref=e332]: Trouw is onderdeel van DPG Media.
+        - link "Naar DPG Media Groep website" [ref=e333] [cursor=pointer]:
+          - /url: https://www.dpgmediagroup.com/
+          - img [ref=e335]
+        - paragraph [ref=e341]: "KvK Nummer: 34172906 | BTW Nummer: NL810828662B01"
+        - paragraph [ref=e342]: © 2026 DPG Media B.V. Alle rechten voorbehouden
+  - complementary
+  - region "Notifications alt+T"
+  - alert [ref=e343]

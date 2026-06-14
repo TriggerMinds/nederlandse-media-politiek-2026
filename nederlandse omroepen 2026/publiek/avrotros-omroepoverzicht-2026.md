@@ -18,8 +18,11 @@
 
 | Functie | Naam | Bron |
 |---|---|---|
-| Algemeen directeur | niet bevestigd | — |
+| Algemeen directeur | Taco Zimmerman | avrotros.nl |
+| Mediagroep | Mediahuis | avrotros.nl |
 | Voorzitter RvT | niet bevestigd | — |
+
+Bron: https://www.avrotros.nl/organisatie-en-bestuur, geraadpleegd 14 juni 2026
 
 ## 3. Programmering
 

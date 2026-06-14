@@ -18,7 +18,10 @@
 
 | Functie | Naam | Bron |
 |---|---|---|
-| Algemeen directeur | niet bevestigd | — |
+| Algemeen directeur/bestuurder | Zakia Guernina | vpro.nl |
+| Zakelijk directeur | Roel Burgman | vpro.nl |
+
+Bron: https://www.vpro.nl/info/bestuur, geraadpleegd 14 juni 2026
 
 ## 3. Programmering
 

@@ -18,7 +18,10 @@
 
 | Functie | Naam | Bron |
 |---|---|---|
-| Directeur | niet bevestigd | — |
+| Algemeen directeur | Jan Slagter | omroepmax.nl |
+| Mediagroep | Mediahuis | omroepmax.nl |
+
+Bron: https://www.omroepmax.nl/over-max/organisatie/directie, geraadpleegd 14 juni 2026
 
 ## 3. Programmering
 

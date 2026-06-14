@@ -8,7 +8,7 @@
 ## 1. Profiel
 | Veld | Waarde |
 |---|---|
-| Hoofdredacteur | niet bevestigd |
+| Hoofdredacteur | Wendelmoet Boersema & Karel Smouter |
 | Opgericht | 1943 (als verzetskrant) |
 | Hoofdkantoor | Amsterdam |
 | Oplage | 189.000 bereik (2023) |
@@ -22,4 +22,5 @@
 ## 3. Medewerkers
 Zie `trouw-redactie-journalisten-2026.md` in deze directory.
 
-**Bron:** https://nl.wikipedia.org/wiki/Trouw_(krant)
+**Colofon:** https://www.trouw.nl/opinie/het-colofon-van-trouw~b2a8ebf8/ (30 april 2026)
+**Geverifieerd:** 14 juni 2026 via browser.

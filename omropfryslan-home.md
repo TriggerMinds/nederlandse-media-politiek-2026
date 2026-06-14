@@ -1,0 +1,375 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link [ref=e3] [cursor=pointer]:
+      - /url: /
+      - img [ref=e4]
+    - generic:
+      - generic:
+        - link [ref=e15] [cursor=pointer]:
+          - /url: /search
+          - img [ref=e16]
+        - link [ref=e20] [cursor=pointer]:
+          - /url: "#menu"
+          - img [ref=e21]
+  - main [ref=e23]:
+    - heading "Sorry, we kunnen de pagina die u zoekt niet weergeven" [level=1] [ref=e24]:
+      - strong [ref=e25]: Sorry
+      - text: ", we kunnen de pagina die u zoekt niet weergeven"
+    - img [ref=e26]
+  - dialog [ref=e27]:
+    - banner [ref=e28]:
+      - button "sluiten" [ref=e29] [cursor=pointer]:
+        - img [ref=e30]
+      - heading "Instellingen" [level=2] [ref=e32]
+    - list [ref=e33]:
+      - listitem [ref=e35]:
+        - link "Inloggen U bent niet ingelogd" [ref=e36] [cursor=pointer]:
+          - /url: /login?dpg_source=hp&dpg_campaign=stdc_hp&dpg_medium=menu&redirect_url=https://www.parool.nl
+          - img [ref=e38]
+          - generic [ref=e40]:
+            - heading "Inloggen" [level=4] [ref=e41]
+            - paragraph [ref=e42]: U bent niet ingelogd
+          - img [ref=e44]
+    - heading "Service" [level=3] [ref=e46]
+    - list [ref=e47]:
+      - listitem [ref=e48]:
+        - link "Klantenservice Antwoord op al uw vragen" [ref=e49] [cursor=pointer]:
+          - /url: https://mijnomgeving.parool.nl
+          - generic [ref=e50]:
+            - heading "Klantenservice" [level=4] [ref=e51]
+            - paragraph [ref=e52]: Antwoord op al uw vragen
+          - img [ref=e54]
+      - listitem [ref=e56]:
+        - link "Bezorging Updates, wijzigingen en klachten" [ref=e57] [cursor=pointer]:
+          - /url: https://mijnomgeving.parool.nl
+          - generic [ref=e58]:
+            - heading "Bezorging" [level=4] [ref=e59]
+            - paragraph [ref=e60]: Updates, wijzigingen en klachten
+          - img [ref=e62]
+    - heading "Personaliseren" [level=3] [ref=e64]
+    - list [ref=e65]:
+      - listitem [ref=e66]:
+        - link "Meldingen" [ref=e67] [cursor=pointer]:
+          - /url: /meldingen
+          - heading "Meldingen" [level=4] [ref=e69]
+          - img [ref=e71]
+      - listitem [ref=e73]:
+        - link "Nieuwsbrieven" [ref=e74] [cursor=pointer]:
+          - /url: /nieuwsbrief
+          - heading "Nieuwsbrieven" [level=4] [ref=e76]
+          - img [ref=e78]
+      - listitem [ref=e80]:
+        - link "Data en Privacy" [ref=e81] [cursor=pointer]:
+          - /url: "#"
+          - heading "Data en Privacy" [level=4] [ref=e83]
+          - img [ref=e85]
+        - generic [ref=e87]:
+          - banner [ref=e88]:
+            - img [ref=e90] [cursor=pointer]
+            - heading "Data en Privacy" [level=2] [ref=e92]
+          - list [ref=e93]:
+            - listitem [ref=e94]:
+              - link "Privacy-instellingen" [ref=e95] [cursor=pointer]:
+                - /url: javascript:showPrivacyModal();
+                - heading "Privacy-instellingen" [level=4] [ref=e97]
+                - img [ref=e99]
+            - listitem [ref=e101]:
+              - link "Cookiebeleid" [ref=e102] [cursor=pointer]:
+                - /url: https://privacy.dpgmedia.nl/nl/document/cookie-policy
+                - heading "Cookiebeleid" [level=4] [ref=e104]
+                - img [ref=e106]
+            - listitem [ref=e108]:
+              - link "Privacy" [ref=e109] [cursor=pointer]:
+                - /url: https://www.dpgmedia.nl/privacy
+                - heading "Privacy" [level=4] [ref=e111]
+                - img [ref=e113]
+    - heading "Meer Parool" [level=3] [ref=e115]
+    - list [ref=e116]:
+      - listitem [ref=e117]:
+        - link "Krant" [ref=e118] [cursor=pointer]:
+          - /url: https://krant.parool.nl
+          - heading "Krant" [level=4] [ref=e120]
+          - img [ref=e122]
+      - listitem [ref=e124]:
+        - link "Winkel" [ref=e125] [cursor=pointer]:
+          - /url: https://webwinkel.parool.nl/
+          - heading "Winkel" [level=4] [ref=e127]
+          - img [ref=e129]
+      - listitem [ref=e131]:
+        - link "Puzzels & Games" [ref=e132] [cursor=pointer]:
+          - /url: /puzzels
+          - heading "Puzzels & Games" [level=4] [ref=e134]
+          - img [ref=e136]
+    - heading "Vragen & Contact" [level=3] [ref=e138]
+    - list [ref=e139]:
+      - listitem [ref=e140]:
+        - link "Tip de redactie" [ref=e141] [cursor=pointer]:
+          - /url: https://www.parool.nl/tipderedactie/
+          - heading "Tip de redactie" [level=4] [ref=e143]
+          - img [ref=e145]
+      - listitem [ref=e147]:
+        - link "Wat vindt u van deze website?" [ref=e148] [cursor=pointer]:
+          - /url: /#feedback
+          - heading "Wat vindt u van deze website?" [level=4] [ref=e150]
+          - img [ref=e152]
+      - listitem [ref=e154]:
+        - link "Gebruiksvoorwaarden" [ref=e155] [cursor=pointer]:
+          - /url: https://www.dpgmedia.nl/gebruiksvoorwaarden
+          - heading "Gebruiksvoorwaarden" [level=4] [ref=e157]
+          - img [ref=e159]
+      - listitem [ref=e161]:
+        - link "Adverteren" [ref=e162] [cursor=pointer]:
+          - /url: https://www.dpgmediagroup.com/nl-nl/adverteren/adverteren-het-parool?utm_source=het_parool&utm_medium=nieuwssite&utm_campaign=adverteren&utm_term=instellingen&utm_content=tekstlink_het_parool
+          - heading "Adverteren" [level=4] [ref=e164]
+          - img [ref=e166]
+    - list
+  - dialog [ref=e168]:
+    - banner [ref=e169]:
+      - button "sluiten" [ref=e170] [cursor=pointer]:
+        - img [ref=e171]
+      - heading "Rubrieken" [level=2] [ref=e173]
+    - heading "Ontdek" [level=3] [ref=e174]
+    - list [ref=e175]:
+      - listitem [ref=e176]:
+        - link "Bewaarde artikelen" [ref=e177] [cursor=pointer]:
+          - /url: /bewaard
+          - img [ref=e179]
+          - heading "Bewaarde artikelen" [level=4] [ref=e182]
+          - img [ref=e184]
+      - listitem [ref=e186]:
+        - link "Krant" [ref=e187] [cursor=pointer]:
+          - /url: /krant/digitaal/vandaag
+          - img [ref=e189]
+          - heading "Krant" [level=4] [ref=e193]
+          - img [ref=e195]
+      - listitem [ref=e197]:
+        - link "Nieuwsbrieven" [ref=e198] [cursor=pointer]:
+          - /url: /nieuwsbrief
+          - img [ref=e200]
+          - heading "Nieuwsbrieven" [level=4] [ref=e204]
+          - img [ref=e206]
+      - listitem [ref=e208]:
+        - link "Puzzels" [ref=e209] [cursor=pointer]:
+          - /url: /puzzels
+          - img [ref=e211]
+          - heading "Puzzels" [level=4] [ref=e214]
+          - img [ref=e216]
+      - listitem [ref=e218]:
+        - link "Overlijdensberichten" [ref=e219] [cursor=pointer]:
+          - /url: /overlijdensberichten
+          - img [ref=e221]
+          - heading "Overlijdensberichten" [level=4] [ref=e224]
+          - img [ref=e226]
+    - heading "Rubrieken" [level=3] [ref=e228]
+    - list [ref=e229]:
+      - listitem [ref=e230]:
+        - link "Amsterdam" [ref=e231] [cursor=pointer]:
+          - /url: /amsterdam
+          - heading "Amsterdam" [level=4] [ref=e233]
+          - img [ref=e235]
+      - listitem [ref=e237]:
+        - link "Boeken" [ref=e238] [cursor=pointer]:
+          - /url: /boeken
+          - heading "Boeken" [level=4] [ref=e240]
+          - img [ref=e242]
+      - listitem [ref=e244]:
+        - link "Bucketlist" [ref=e245] [cursor=pointer]:
+          - /url: /bucketlist
+          - heading "Bucketlist" [level=4] [ref=e247]
+          - img [ref=e249]
+      - listitem [ref=e251]:
+        - link "Columnisten" [ref=e252] [cursor=pointer]:
+          - /url: /columnisten
+          - heading "Columnisten" [level=4] [ref=e254]
+          - img [ref=e256]
+      - listitem [ref=e258]:
+        - link "English" [ref=e259] [cursor=pointer]:
+          - /url: /international
+          - heading "English" [level=4] [ref=e261]
+          - img [ref=e263]
+      - listitem [ref=e265]:
+        - link "Film" [ref=e266] [cursor=pointer]:
+          - /url: /film
+          - heading "Film" [level=4] [ref=e268]
+          - img [ref=e270]
+      - listitem [ref=e272]:
+        - link "Geschiedenis van Amsterdam" [ref=e273] [cursor=pointer]:
+          - /url: /geschiedenis-van-amsterdam
+          - heading "Geschiedenis van Amsterdam" [level=4] [ref=e275]
+          - img [ref=e277]
+      - listitem [ref=e279]:
+        - link "Han Lips" [ref=e280] [cursor=pointer]:
+          - /url: /han-lips
+          - heading "Han Lips" [level=4] [ref=e282]
+          - img [ref=e284]
+      - listitem [ref=e286]:
+        - link "Kunst & Media" [ref=e287] [cursor=pointer]:
+          - /url: /kunst-media
+          - heading "Kunst & Media" [level=4] [ref=e289]
+          - img [ref=e291]
+      - listitem [ref=e293]:
+        - link "Luister" [ref=e294] [cursor=pointer]:
+          - /url: /luister
+          - heading "Luister" [level=4] [ref=e296]
+          - img [ref=e298]
+      - listitem [ref=e300]:
+        - link "Misdaad" [ref=e301] [cursor=pointer]:
+          - /url: /misdaad
+          - heading "Misdaad" [level=4] [ref=e303]
+          - img [ref=e305]
+      - listitem [ref=e307]:
+        - link "Opinie" [ref=e308] [cursor=pointer]:
+          - /url: /columns-opinie
+          - heading "Opinie" [level=4] [ref=e310]
+          - img [ref=e312]
+      - listitem [ref=e314]:
+        - link "Proefwerk" [ref=e315] [cursor=pointer]:
+          - /url: /proefwerk
+          - heading "Proefwerk" [level=4] [ref=e317]
+          - img [ref=e319]
+      - listitem [ref=e321]:
+        - link "PS van de Week" [ref=e322] [cursor=pointer]:
+          - /url: /ps-van-de-week
+          - heading "PS van de Week" [level=4] [ref=e324]
+          - img [ref=e326]
+      - listitem [ref=e328]:
+        - link "Recensies" [ref=e329] [cursor=pointer]:
+          - /url: /recensie
+          - heading "Recensies" [level=4] [ref=e331]
+          - img [ref=e333]
+      - listitem [ref=e335]:
+        - link "Robert Vuijsje interviewt" [ref=e336] [cursor=pointer]:
+          - /url: /robert-vuijsje-interviewt
+          - heading "Robert Vuijsje interviewt" [level=4] [ref=e338]
+          - img [ref=e340]
+      - listitem [ref=e342]:
+        - link "Sport" [ref=e343] [cursor=pointer]:
+          - /url: /sport
+          - heading "Sport" [level=4] [ref=e345]
+          - img [ref=e347]
+      - listitem [ref=e349]:
+        - link "Strips" [ref=e350] [cursor=pointer]:
+          - /url: /strips-en-puzzels
+          - heading "Strips" [level=4] [ref=e352]
+          - img [ref=e354]
+      - listitem [ref=e356]:
+        - link "Uit in Amsterdam" [ref=e357] [cursor=pointer]:
+          - /url: /uit-in-amsterdam
+          - heading "Uit in Amsterdam" [level=4] [ref=e359]
+          - img [ref=e361]
+      - listitem [ref=e363]:
+        - link "Wereld" [ref=e364] [cursor=pointer]:
+          - /url: /wereld
+          - heading "Wereld" [level=4] [ref=e366]
+          - img [ref=e368]
+  - generic [ref=e371]:
+    - heading "Wilt u belangrijke informatie delen met Het Parool?" [level=3] [ref=e372]
+    - paragraph [ref=e373]:
+      - link "Tip hier onze journalisten" [ref=e374] [cursor=pointer]:
+        - /url: https://www.parool.nl/tipderedactie/
+  - generic [ref=e376]:
+    - generic [ref=e377]:
+      - heading "Algemeen" [level=4] [ref=e378]
+      - list [ref=e379]:
+        - listitem [ref=e380]:
+          - link "Contact" [ref=e381] [cursor=pointer]:
+            - /url: https://mijnomgeving.parool.nl
+        - listitem [ref=e382]:
+          - link "Privacybeleid" [ref=e383] [cursor=pointer]:
+            - /url: https://privacy.dpgmedia.nl/nl/document/privacy-policy
+        - listitem [ref=e384]:
+          - link "Abonnementsvoorwaarden" [ref=e385] [cursor=pointer]:
+            - /url: https://www.parool.nl/abonnementsvoorwaarden
+        - listitem [ref=e386]:
+          - link "Gebruiksvoorwaarden" [ref=e387] [cursor=pointer]:
+            - /url: https://www.dpgmedia.nl/gebruiksvoorwaarden
+        - listitem [ref=e388]:
+          - link "Toegankelijkheidsverklaring" [ref=e389] [cursor=pointer]:
+            - /url: /toegankelijkheidsverklaring
+        - listitem [ref=e390]:
+          - link "Cookiebeleid" [ref=e391] [cursor=pointer]:
+            - /url: https://privacy.dpgmedia.nl/nl/document/cookie-policy
+        - listitem [ref=e392]:
+          - link "Privacy-instellingen" [ref=e393] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e394]:
+          - link "Auteursrecht" [ref=e395] [cursor=pointer]:
+            - /url: https://www.parool.nl/nieuws/copyright-auteursrechten-het-parool~bbedf356/
+    - generic [ref=e396]:
+      - heading "Service" [level=4] [ref=e397]
+      - list [ref=e398]:
+        - listitem [ref=e399]:
+          - link "Klantenservice" [ref=e400] [cursor=pointer]:
+            - /url: https://mijnomgeving.parool.nl
+        - listitem [ref=e401]:
+          - link "Bezorgklacht indienen" [ref=e402] [cursor=pointer]:
+            - /url: https://mijnomgeving.parool.nl/bezorgservice
+        - listitem [ref=e403]:
+          - link "Bezorging pauzeren" [ref=e404] [cursor=pointer]:
+            - /url: https://mijnomgeving.parool.nl/vakantieservice
+        - listitem [ref=e405]:
+          - link "Bezorging wijzigen" [ref=e406] [cursor=pointer]:
+            - /url: https://mijnomgeving.parool.nl/vakantieservice
+        - listitem [ref=e407]:
+          - link "(Bezorg)adres wijzigen" [ref=e408] [cursor=pointer]:
+            - /url: https://mijnomgeving.parool.nl/verhuisservice
+        - listitem [ref=e409]:
+          - link "Adverteren" [ref=e410] [cursor=pointer]:
+            - /url: https://www.dpgmediagroup.com/nl-nl/adverteren/adverteren-het-parool?utm_source=het_parool&utm_medium=nieuwssite&utm_campaign=adverteren&utm_term=footer&utm_content=tekstlink_het_parool
+        - listitem [ref=e411]:
+          - link "Losse verkoop" [ref=e412] [cursor=pointer]:
+            - /url: https://www.dpglosseverkoop.nl/tornl_j2ee/pag/pve_index.jsp
+        - listitem [ref=e413]:
+          - link "Zakelijk abonnement" [ref=e414] [cursor=pointer]:
+            - /url: https://abonnement.parool.nl/zakelijk?dpg_source=HP&dpg_medium=interne_referral&dpg_campaign=alwayson&utm_content=footer
+    - generic [ref=e415]:
+      - heading "Meer Parool" [level=4] [ref=e416]
+      - list [ref=e417]:
+        - listitem [ref=e418]:
+          - link "Abonneren" [ref=e419] [cursor=pointer]:
+            - /url: https://www.parool.nl/abonneren
+        - listitem [ref=e420]:
+          - link "Nieuwsbrieven" [ref=e421] [cursor=pointer]:
+            - /url: /nieuwsbrief
+        - listitem [ref=e422]:
+          - link "Krant" [ref=e423] [cursor=pointer]:
+            - /url: https://www.parool.nl/krant/digitaal/vandaag
+        - listitem [ref=e424]:
+          - link "De Parool Shop" [ref=e425] [cursor=pointer]:
+            - /url: https://webwinkel.parool.nl/
+        - listitem [ref=e426]:
+          - link "RSS-feeds" [ref=e427] [cursor=pointer]:
+            - /url: /rss/feeds
+        - listitem [ref=e428]:
+          - link "Android apps" [ref=e429] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?_sp=3c9d5f68-f608-44e9-8b1d-fd2921524d1c.1539343941152&id=be.persgroep.android.news.mobilepa
+        - listitem [ref=e430]:
+          - link "iOS apps" [ref=e431] [cursor=pointer]:
+            - /url: https://itunes.apple.com/nl/app/parool.nl-mobile/id427597105?mt=8
+        - listitem [ref=e432]:
+          - link "Facebook" [ref=e433] [cursor=pointer]:
+            - /url: https://www.facebook.com/paroolnl/
+        - listitem [ref=e434]:
+          - link "Twitter" [ref=e435] [cursor=pointer]:
+            - /url: https://twitter.com/parool
+    - generic [ref=e436]:
+      - heading "Navigeer" [level=4] [ref=e437]
+      - list [ref=e438]:
+        - listitem [ref=e439]:
+          - link "Archief" [ref=e440] [cursor=pointer]:
+            - /url: /archief
+  - generic [ref=e442]:
+    - separator [ref=e443]
+    - paragraph [ref=e444]:
+      - text: Op alle verhalen van Het Parool rust uiteraard copyright.
+      - text: Wil je tekst overnemen of een video(fragment), foto of illustratie gebruiken, mail dan naar
+      - link "copyright@parool .nl" [ref=e445] [cursor=pointer]:
+        - /url: mailto:copyright@parool.nl
+      - text: .
+  - generic [ref=e446]:
+    - paragraph [ref=e447]: Het Parool is onderdeel van DPG Media.
+    - link "logo van dpg Media" [ref=e448] [cursor=pointer]:
+      - /url: https://www.dpgmediagroup.com/
+      - img "logo van dpg Media" [ref=e449]
+    - paragraph [ref=e450]: "KvK Nummer: 34172906 | BTW Nummer: NL810828662B01"
+    - paragraph [ref=e451]: © 2026 DPG Media B.V. Alle rechten voorbehouden.

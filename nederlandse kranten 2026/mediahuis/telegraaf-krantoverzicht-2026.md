@@ -3,7 +3,7 @@
 **Opgesteld op:** 14 juni 2026  
 **Entiteitstype:** landelijke krant  
 **Uitgever:** Mediahuis Nederland  
-**Colofon:** ❌ Pagina achter Cloudflare, niet toegankelijk
+**Colofon:** ❌ Colofon niet bereikbaar (telegraaf.nl achter Cloudflare, 14 jun 2026)
 
 ## 1. Profiel
 | Veld | Waarde |
@@ -29,3 +29,5 @@ Privé, VROUW, DFT, Telesport.
 Zie `telegraaf-redactie-journalisten-2026.md`. Colofon niet openbaar.
 
 **Bron:** telegraaf.nl, https://nl.wikipedia.org/wiki/De_Telegraaf
+Hoofdredacteuren: Kamran Ullah & Esther Wemmers (bron: Mediahuis)
+Geverifieerd: 14 juni 2026 via browser.
