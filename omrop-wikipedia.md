@@ -1,0 +1,748 @@
+- generic [active] [ref=e1]:
+  - link "Naar inhoud springen" [ref=e2] [cursor=pointer]:
+    - /url: "#bodyContent"
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - navigation "Site" [ref=e6]:
+        - generic "Hoofdmenu" [ref=e7]:
+          - button "Hoofdmenu" [ref=e8] [cursor=pointer]
+          - generic [ref=e11]: Hoofdmenu
+      - link "Wikipedia de vrije encyclopedie" [ref=e12] [cursor=pointer]:
+        - /url: /wiki/Hoofdpagina
+        - generic [ref=e13]:
+          - img "Wikipedia" [ref=e14]
+          - img "de vrije encyclopedie" [ref=e15]
+    - generic [ref=e16]:
+      - search [ref=e17]:
+        - generic [ref=e20]:
+          - searchbox "Wikipedia doorzoeken" [ref=e23]
+          - button "Zoeken" [ref=e25]
+      - navigation "Persoonlijke hulpmiddelen" [ref=e26]:
+        - list [ref=e30]:
+          - listitem [ref=e31]:
+            - link "Doneren" [ref=e32] [cursor=pointer]:
+              - /url: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=nl.wikipedia.org&uselang=nl
+          - listitem [ref=e33]:
+            - link "Account aanmaken" [ref=e34] [cursor=pointer]:
+              - /url: /w/index.php?title=Speciaal:GebruikerAanmaken&returnto=Omrop+Frysl%C3%A2n
+          - listitem [ref=e35]:
+            - link "Aanmelden" [ref=e36] [cursor=pointer]:
+              - /url: /w/index.php?title=Speciaal:Aanmelden&returnto=Omrop+Frysl%C3%A2n
+  - generic [ref=e38]:
+    - navigation "Inhoud" [ref=e42]:
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - heading "Inhoud" [level=2] [ref=e46]
+          - button "verbergen" [ref=e47] [cursor=pointer]
+        - list [ref=e48]:
+          - listitem [ref=e49]:
+            - link "Naar boven" [ref=e50] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e51]: Naar boven
+          - listitem [ref=e52]:
+            - link "Geschiedenis" [ref=e53] [cursor=pointer]:
+              - /url: "#Geschiedenis"
+              - generic [ref=e54]: Geschiedenis
+            - list
+          - listitem [ref=e55]:
+            - link "Bekende medewerkers" [ref=e56] [cursor=pointer]:
+              - /url: "#Bekende_medewerkers"
+              - generic [ref=e57]: Bekende medewerkers
+            - list
+          - listitem [ref=e58]:
+            - link "Bereikbaarheid" [ref=e59] [cursor=pointer]:
+              - /url: "#Bereikbaarheid"
+              - generic [ref=e60]: Bereikbaarheid
+            - list
+          - listitem [ref=e61]:
+            - link "Externe links" [ref=e62] [cursor=pointer]:
+              - /url: "#Externe_links"
+              - generic [ref=e63]: Externe links
+            - list
+    - main [ref=e65]:
+      - generic [ref=e66]:
+        - heading "Omrop Fryslân" [level=1] [ref=e67]:
+          - generic [ref=e68]: Omrop Fryslân
+        - generic [ref=e69]:
+          - button "Ga naar een artikel in een andere taal. Beschikbaar in 7 talen" [ref=e70] [cursor=pointer]
+          - generic [ref=e73]: 7 talen
+      - generic [ref=e75]:
+        - navigation "Naamruimten" [ref=e77]:
+          - generic [ref=e78]:
+            - generic:
+              - list:
+                - listitem [ref=e79]:
+                  - link "Artikel" [ref=e80] [cursor=pointer]:
+                    - /url: /wiki/Omrop_Frysl%C3%A2n
+                    - generic [ref=e81]: Artikel
+                - listitem [ref=e82]:
+                  - link "Overleg" [ref=e83] [cursor=pointer]:
+                    - /url: /w/index.php?title=Overleg:Omrop_Frysl%C3%A2n&action=edit&redlink=1
+                    - generic [ref=e84]: Overleg
+        - generic [ref=e85]:
+          - navigation "Weergaven" [ref=e86]:
+            - generic [ref=e87]:
+              - generic:
+                - list:
+                  - listitem [ref=e88]:
+                    - link "Lezen" [ref=e89] [cursor=pointer]:
+                      - /url: /wiki/Omrop_Frysl%C3%A2n
+                      - generic [ref=e90]: Lezen
+                  - listitem [ref=e91]:
+                    - link "Bewerken" [ref=e92] [cursor=pointer]:
+                      - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&veaction=edit
+                      - generic [ref=e93]: Bewerken
+                  - listitem [ref=e94]:
+                    - link "Brontekst bewerken" [ref=e95] [cursor=pointer]:
+                      - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&action=edit
+                      - generic [ref=e96]: Brontekst bewerken
+                  - listitem [ref=e97]:
+                    - link "Geschiedenis" [ref=e98] [cursor=pointer]:
+                      - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&action=history
+                      - generic [ref=e99]: Geschiedenis
+          - navigation "Paginahulpmiddelen" [ref=e100]:
+            - generic [ref=e101]:
+              - button "Hulpmiddelen" [ref=e102] [cursor=pointer]
+              - generic [ref=e104] [cursor=pointer]: Hulpmiddelen
+      - navigation "Uiterlijk" [ref=e107]:
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e111]: Uiterlijk
+            - button "verbergen" [ref=e112] [cursor=pointer]
+          - generic [ref=e113]:
+            - generic [ref=e114]: Tekst
+            - list [ref=e116]:
+              - listitem [ref=e117]:
+                - generic [ref=e119]:
+                  - generic [ref=e120]:
+                    - radio "Klein" [ref=e121]
+                    - generic [ref=e124]: Klein
+                  - generic [ref=e125]:
+                    - radio "Standaard" [checked] [ref=e126]
+                    - generic [ref=e129]: Standaard
+                  - generic [ref=e130]:
+                    - radio "Groot" [ref=e131]
+                    - generic [ref=e134]: Groot
+          - generic [ref=e135]:
+            - generic [ref=e136]: Paginabreedte
+            - list [ref=e138]:
+              - listitem [ref=e139]:
+                - generic [ref=e141]:
+                  - generic [ref=e142]:
+                    - radio "Standaard" [checked] [ref=e143]
+                    - generic [ref=e146]: Standaard
+                  - generic [ref=e147]:
+                    - radio "Volle breedte" [ref=e148]
+                    - generic [ref=e151]: Volle breedte
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - text: Kleur
+              - generic [ref=e154]: (bèta)
+            - list [ref=e156]:
+              - listitem [ref=e157]:
+                - generic [ref=e159]:
+                  - generic [ref=e160]:
+                    - radio "Automatisch" [ref=e161]
+                    - generic [ref=e164]: Automatisch
+                  - generic [ref=e165]:
+                    - radio "Licht" [checked] [ref=e166]
+                    - generic [ref=e169]: Licht
+                  - generic [ref=e170]:
+                    - radio "Donker" [ref=e171]
+                    - generic [ref=e174]: Donker
+      - generic "Omrop Fryslân" [ref=e175]:
+        - generic [ref=e177]: Uit Wikipedia, de vrije encyclopedie
+        - generic [ref=e179]:
+          - generic [ref=e180]:
+            - table [ref=e181]:
+              - rowgroup [ref=e182]:
+                - row "Omrop Fryslân" [ref=e183]:
+                  - columnheader "Omrop Fryslân" [ref=e184]
+                - row "Omrop Fryslân" [ref=e185]:
+                  - cell "Omrop Fryslân" [ref=e186]:
+                    - link "Omrop Fryslân" [ref=e188] [cursor=pointer]:
+                      - /url: https://commons.wikimedia.org/wiki/File:Studio_Oprop_Fryslan.JPG
+                      - img "Omrop Fryslân" [ref=e189]
+                - row "Land Vlag van Nederland Nederland" [ref=e190]:
+                  - rowheader "Land" [ref=e191]
+                  - cell "Vlag van Nederland Nederland" [ref=e192]:
+                    - link "Vlag van Nederland" [ref=e194] [cursor=pointer]:
+                      - /url: https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg
+                      - img "Vlag van Nederland" [ref=e195]
+                    - link "Nederland" [ref=e196] [cursor=pointer]:
+                      - /url: https://nl.wikipedia.org/wiki/Nederland
+                - row "Regio Friesland" [ref=e197]:
+                  - rowheader "Regio" [ref=e198]
+                  - cell "Friesland" [ref=e199]:
+                    - link "Friesland" [ref=e200] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/Friesland
+                - row "Eigenaar Stichting Omrop Fryslân" [ref=e201]:
+                  - rowheader "Eigenaar" [ref=e202]
+                  - cell "Stichting Omrop Fryslân" [ref=e203]
+                - row "Uitzendgroep Omrop Fryslân" [ref=e204]:
+                  - rowheader "Uitzendgroep" [ref=e205]
+                  - cell "Omrop Fryslân" [ref=e206]
+                - row "Startdatum 1988" [ref=e207]:
+                  - rowheader "Startdatum" [ref=e208]
+                  - cell "1988" [ref=e209]:
+                    - link "1988" [ref=e210] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/1988
+                - row "Omroepsoort Regionale publieke omroep en rampenzender" [ref=e211]:
+                  - rowheader "Omroepsoort" [ref=e212]
+                  - cell "Regionale publieke omroep en rampenzender" [ref=e213]:
+                    - link "Regionale publieke omroep" [ref=e214] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/Publieke_Omroep_(Nederland)
+                    - text: en
+                    - link "rampenzender" [ref=e215] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/Calamiteitenzender
+                - row "Genre Gezelligheidsprogramma's, educatie, documentaires, nieuws en series" [ref=e216]:
+                  - rowheader "Genre" [ref=e217]
+                  - cell "Gezelligheidsprogramma's, educatie, documentaires, nieuws en series" [ref=e218]
+                - row "Motto of slagzin Kom fierder (Kom verder)" [ref=e219]:
+                  - rowheader "Motto of slagzin" [ref=e220]
+                  - cell "Kom fierder (Kom verder)" [ref=e221]
+                - row "Adres Omrop Fryslân Zuiderkruisweg 2 Postbus 7600 Leeuwarden" [ref=e222]:
+                  - rowheader "Adres" [ref=e223]
+                  - cell "Omrop Fryslân Zuiderkruisweg 2 Postbus 7600 Leeuwarden" [ref=e224]:
+                    - text: Omrop Fryslân
+                    - text: Zuiderkruisweg 2
+                    - text: Postbus 7600
+                    - link "Leeuwarden" [ref=e225] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/Leeuwarden_(gemeente)
+                - row "Voorganger(s) RONO" [ref=e226]:
+                  - rowheader "Voorganger(s)" [ref=e227]
+                  - cell "RONO" [ref=e228]:
+                    - link "RONO" [ref=e229] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/RONO
+                - row "Ontvangst" [ref=e230]:
+                  - columnheader "Ontvangst" [ref=e231]
+                - row "Ether Digitenne DAB+" [ref=e232]:
+                  - rowheader "Ether" [ref=e233]
+                  - cell "Digitenne DAB+" [ref=e234]:
+                    - link "Digitenne" [ref=e235] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/Digitenne
+                    - link "DAB+" [ref=e236] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/Digital_Audio_Broadcasting
+                - row "Kabel Kabelnoord" [ref=e237]:
+                  - rowheader "Kabel" [ref=e238]:
+                    - link "Kabel" [ref=e239] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/Kabeltelevisie
+                  - cell "Kabelnoord" [ref=e240]
+                - row "IPTV Budget Thuis Caiway CANAL+ Delta Freedom Kabelnoord Kabeltex KPN Odido Online.nl SKV Solcon Tele2 Youfone Ziggo" [ref=e241]:
+                  - rowheader "IPTV" [ref=e242]:
+                    - link "IPTV" [ref=e243] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/IPTV
+                  - cell "Budget Thuis Caiway CANAL+ Delta Freedom Kabelnoord Kabeltex KPN Odido Online.nl SKV Solcon Tele2 Youfone Ziggo" [ref=e244]:
+                    - generic [ref=e245]:
+                      - generic [ref=e246]:
+                        - link "Budget Thuis" [ref=e247] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Budget_Thuis?action=edit&redlink=1
+                        - link "Caiway" [ref=e248] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/DELTA_Fiber
+                        - link "CANAL+" [ref=e249] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Canal+_Groep
+                        - link "Delta" [ref=e250] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/DELTA_Fiber
+                        - link "Freedom" [ref=e251] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Freedom_Internet
+                        - link "Kabelnoord" [ref=e252] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Kabelnoord
+                        - link "Kabeltex" [ref=e253] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Kabeltex
+                        - link "KPN" [ref=e254] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/KPN
+                      - generic [ref=e255]:
+                        - link "Odido" [ref=e256] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Odido
+                        - link "Online.nl" [ref=e257] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Online.nl
+                        - link "SKV" [ref=e258] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Stichting_Kabelnet_Veendam
+                        - link "Solcon" [ref=e259] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Solcon?action=edit&redlink=1
+                        - link "Tele2" [ref=e260] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Tele2
+                        - link "Youfone" [ref=e261] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Youfone
+                        - link "Ziggo" [ref=e262] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Ziggo
+                - row [ref=e263]:
+                  - columnheader [ref=e264]
+                - row "Officiële website" [ref=e265]:
+                  - cell "Officiële website" [ref=e266]:
+                    - link "Officiële website" [ref=e267] [cursor=pointer]:
+                      - /url: https://www.omropfryslan.nl/
+                - row "Lijst van televisiezenders" [ref=e268]:
+                  - columnheader "Lijst van televisiezenders" [ref=e269]:
+                    - link "Lijst van televisiezenders" [ref=e270] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/Lijst_van_televisiezenders
+                - row "Portaal Portaalicoon Televisie" [ref=e271]:
+                  - cell "Portaal Portaalicoon Televisie" [ref=e272]:
+                    - table [ref=e273]:
+                      - rowgroup [ref=e274]:
+                        - row "Portaal Portaalicoon Televisie" [ref=e275]:
+                          - cell "Portaal Portaalicoon" [ref=e276]:
+                            - text: Portaal
+                            - link "Portaalicoon" [ref=e278] [cursor=pointer]:
+                              - /url: https://commons.wikimedia.org/wiki/File:Portal.svg
+                              - img "Portaalicoon" [ref=e279]
+                          - cell "Televisie" [ref=e280]:
+                            - link "Televisie" [ref=e282] [cursor=pointer]:
+                              - /url: //nl.wikipedia.org/wiki/Portaal:Televisie
+            - paragraph [ref=e283]:
+              - text: Omrop Fryslân (
+              - link "Fries" [ref=e284] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Westerlauwers_Fries
+              - text: voor Omroep Friesland) is de
+              - link "regionale publieke omroep" [ref=e285] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Publieke_Omroep_(Nederland)
+              - text: en
+              - link "rampenzender" [ref=e286] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Calamiteitenzender
+              - superscript [ref=e287]:
+                - link "[1]" [ref=e288] [cursor=pointer]:
+                  - /url: "#cite_note-1"
+                  - generic: "[1]"
+              - text: van de Nederlandse
+              - link "provincie Friesland" [ref=e289] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Friesland
+              - text: . Op Omrop Fryslân wordt voornamelijk
+              - link "Fries" [ref=e290] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Westerlauwers_Fries
+              - text: gesproken. Ook
+              - link "Nederlands" [ref=e291] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Nederlands
+              - text: ","
+              - link "Stellingwerfs" [ref=e292] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Stellingwerfs
+              - text: ","
+              - link "Stadsfries" [ref=e293] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Stadsfries
+              - text: ","
+              - link "Bildts" [ref=e294] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Bildts
+              - text: en andere nauw verwante
+              - link "variëteiten" [ref=e295] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Variëteit_(taalkunde)
+              - text: zijn regelmatig te horen.
+          - region "Geschiedenis" [ref=e296]:
+            - generic [ref=e297]:
+              - heading "Geschiedenis" [level=2] [ref=e298]
+              - generic [ref=e299]:
+                - text: "["
+                - link "bewerken" [ref=e300] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&veaction=edit&section=1
+                - text: "|"
+                - link "brontekst bewerken" [ref=e301] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&action=edit&section=1
+                - text: "]"
+            - paragraph [ref=e302]:
+              - text: De provincie
+              - link "Friesland" [ref=e303] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Friesland
+              - text: heeft sinds 1946 een regionale omroep. In de eerste jaren werden de uitzendingen verzorgd door de
+              - link "Regionale Omroep Noord" [ref=e304] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Regionale_Omroep_Noord
+              - text: (RON). In de
+              - link "jaren vijftig" [ref=e305] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/1950-1959
+              - text: werd de RON omgedoopt tot
+              - link "RONO" [ref=e306] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/RONO
+              - text: (Regionale Omroep Noord en Oost). De RON (en later de RONO) was de regionale omroep voor de provincies Friesland, Groningen, Drenthe, Overijssel en vanaf 1965 ook voor Gelderland. De Friese afdeling van de RON/RONO verzorgde radio-uitzendingen voor Friesland (deels in het Fries).
+            - paragraph [ref=e307]:
+              - text: "In 1978 werd de RONO gesplitst in drie zenders:"
+              - link "Radio Noord" [ref=e308] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/RTV_Noord
+              - text: ","
+              - link "Radio Oost" [ref=e309] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/RTV_Oost
+              - text: "en Radio Friesland (in het Fries: Radio Fryslân). In"
+              - link "1988" [ref=e310] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/1988
+              - text: ging Radio Fryslân zelfstandig verder als Omrop Fryslân. In
+              - link "1994" [ref=e311] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/1994
+              - text: begon Omrop Fryslân met televisie-uitzendingen van een
+              - link "uur" [ref=e312] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Uur
+              - text: . Enkele jaren later werd begonnen met het uitzenden van een programma van anderhalf uur, dat de hele nacht werd herhaald. Omrop Fryslân is ook de calamiteitenzender die in geval van een ramp de bevolking van Friesland informeert. De omroep zorgt verder voor Fryske skoalletelefyzje (schooltelevisie). De omroep mag 52 uur aan
+              - link "Fryslân DOK" [ref=e313] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Fryslân_DOK?action=edit&redlink=1
+              - text: per jaar op de publieke netten (
+              - link "NPO 2" [ref=e314] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/NPO_2
+              - text: ) uitzenden en daarbovenop 40 Friese school-tv uitzendingen. Omrop Fryslân was de eerste regionale omroep die een eigen dramaserie op de buis bracht, namelijk
+              - link "Baas Boppe Baas" [ref=e316] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Baas_Boppe_Baas
+              - text: . Deze serie werd opgevolgd door de advocatenserie
+              - link "Dankert en Dankert" [ref=e318] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Dankert_en_Dankert
+              - text: ", die gebaseerd is op het Friese advocatenduo"
+              - link "Wim en Hans Anker" [ref=e319] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Wim_en_Hans_Anker
+              - text: . In 2009 maakte Steven de Jong voor de omroep de serie Bit over paarden.
+          - region "Bekende medewerkers" [ref=e320]:
+            - generic [ref=e321]:
+              - heading "Bekende medewerkers" [level=2] [ref=e322]
+              - generic [ref=e323]:
+                - text: "["
+                - link "bewerken" [ref=e324] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&veaction=edit&section=2
+                - text: "|"
+                - link "brontekst bewerken" [ref=e325] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&action=edit&section=2
+                - text: "]"
+            - paragraph [ref=e326]:
+              - text: Omrop Fryslân geldt als een belangrijke kweekvijver voor regionale journalistiek en Friestalige media in Nederland. Verschillende medewerkers maakten later de overstap naar landelijke publieke omroepen en programma’s op
+              - link "NPO 1" [ref=e327] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/NPO_1
+              - text: .
+            - paragraph [ref=e328]:
+              - text: Bekende voorbeelden hiervan zijn
+              - link "Afke Boven" [ref=e329] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Afke_Boven
+              - text: ", die na haar werkzaamheden bij Omrop Fryslân presentator werd van het"
+              - link "NOS Journaal" [ref=e330] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/NOS_Journaal
+              - text: ", en"
+              - link "Welmoed Sijtsma" [ref=e331] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Welmoed_Sijtsma
+              - text: ", die via Omrop Fryslân doorgroeide naar onder meer het"
+              - link "NOS Jeugdjournaal" [ref=e332] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/NOS_Jeugdjournaal
+              - text: en
+              - link "Goedemorgen Nederland" [ref=e333] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Goedemorgen_Nederland
+              - text: . Ook
+              - link "Lennard Jan Geerts" [ref=e334] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Lennard_Jan_Geerts
+              - text: maakte de overstap van Omrop Fryslân naar Goedemorgen Nederland van WNL op NPO1.
+          - region "Bereikbaarheid" [ref=e335]:
+            - generic [ref=e336]:
+              - heading "Bereikbaarheid" [level=2] [ref=e337]
+              - generic [ref=e338]:
+                - text: "["
+                - link "bewerken" [ref=e339] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&veaction=edit&section=3
+                - text: "|"
+                - link "brontekst bewerken" [ref=e340] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&action=edit&section=3
+                - text: "]"
+            - paragraph [ref=e341]:
+              - text: De radiozender van Omrop Fryslân zendt uit via de FM-ether (kanaal 92,2 en 92,5), de kabel en
+              - link "Digitenne" [ref=e342] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Digitenne
+              - text: in de provincie, en in grote delen van Europa via satellietpositie
+              - link "Astra 23,5°O" [ref=e343] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Astra_23,5°O
+              - text: . Sinds 2015 is Omrop Fryslân in een groot gedeelte van noord- en midden-Nederland, alsook de daaraan grenzende streek van Duitsland, te ontvangen via DAB+
+              - superscript [ref=e344]:
+                - link "[2]" [ref=e345] [cursor=pointer]:
+                  - /url: "#cite_note-2"
+                  - generic: "[2]"
+              - text: . De omroep heeft verder zendtijd op NPO 2, omdat de rijksoverheid de taak heeft het gebruik van de Friese taal in de media te stimuleren.
+            - paragraph [ref=e346]:
+              - text: Tevens is Omrop Fryslân actief met uitzendingen via internet, waar de tv- en radio-uitzendingen 24 uur per dag uitgezonden worden. Hierop zijn naast de reguliere tv-programmering ook regelmatig thema-uitzendingen te zien. Zo zijn evenementen als het
+              - link "Fries Kampioenschap Paalzitten" [ref=e347] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Fries_Kampioenschap_Paalzitten?action=edit&redlink=1
+              - text: en de
+              - link "Open Nederlandse Fanfare Kampioenschappen" [ref=e348] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Open_Nederlandse_Fanfare_Kampioenschappen
+              - text: (ONFK) op deze website, live te bekijken en beluisteren.
+          - region "Externe links" [ref=e349]:
+            - generic [ref=e350]:
+              - heading "Externe links" [level=2] [ref=e351]
+              - generic [ref=e352]:
+                - text: "["
+                - link "bewerken" [ref=e353] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&veaction=edit&section=4
+                - text: "|"
+                - link "brontekst bewerken" [ref=e354] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omrop_Frysl%C3%A2n&action=edit&section=4
+                - text: "]"
+            - list [ref=e355]:
+              - listitem [ref=e356]:
+                - 'generic "Taal: Fries" [ref=e357]': (fy)
+                - link "Officiële website" [ref=e358] [cursor=pointer]:
+                  - /url: https://www.omropfryslan.nl/fy
+              - listitem [ref=e359]:
+                - 'generic "Taal: Nederlands" [ref=e360]': (nl)
+                - link "Officiële website" [ref=e361] [cursor=pointer]:
+                  - /url: https://www.omropfryslan.nl/nl
+              - listitem [ref=e362]:
+                - link "Uitvoeringsconvenant Friese taal en cultuur 2009, Hoofdstuk 5.4" [ref=e363] [cursor=pointer]:
+                  - /url: https://zoek.officielebekendmakingen.nl/stcrt-2009-9208.html
+            - generic [ref=e364]: Bronnen, noten en/of referenties
+            - list [ref=e367]:
+              - listitem [ref=e368]:
+                - link "Omhoog" [ref=e370] [cursor=pointer]:
+                  - /url: "#cite_ref-1"
+                  - text: ↑
+                - generic [ref=e372]:
+                  - text: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties,
+                  - link "Overzicht rampenzenders - Publicatie - Rijksoverheid.nl" [ref=e373] [cursor=pointer]:
+                    - /url: https://web.archive.org/web/20221009221715/https://www.rijksoverheid.nl/documenten/publicaties/2013/11/07/overzicht-rampenzenders
+                  - text: . www.rijksoverheid.nl (8 november 2013). Gearchiveerd op 9 oktober 2022. Geraadpleegd op 9 oktober 2022.
+              - listitem [ref=e374]:
+                - link "Omhoog" [ref=e376] [cursor=pointer]:
+                  - /url: "#cite_ref-2"
+                  - text: ↑
+                - generic [ref=e377]:
+                  - 'generic "Taal: Fries" [ref=e378]': (fy)
+                  - link "Omrop Fryslân start mei digitale radio" [ref=e379] [cursor=pointer]:
+                    - /url: https://web.archive.org/web/20190209124632/https://www.omropfryslan.nl/nijs/414026-omrop-fryslan-start-mei-digitale-radio
+                  - text: ", Omrop Fryslân"
+            - generic [ref=e380]:
+              - link [ref=e383] [cursor=pointer]:
+                - /url: https://commons.wikimedia.org/wiki/File:Commons-logo.svg
+              - generic [ref=e384]:
+                - text: Zie de categorie
+                - link "Omrop Fryslân" [ref=e387] [cursor=pointer]:
+                  - /url: https://commons.wikimedia.org/wiki/Category:Omrop%20Fryslân#mw-subcategories
+                - text: van
+                - link "Wikimedia Commons" [ref=e388] [cursor=pointer]:
+                  - /url: //nl.wikipedia.org/wiki/Wikimedia_Commons
+                - text: voor mediabestanden over dit onderwerp.
+            - navigation "Televisiekanalen in Nederland" [ref=e389]:
+              - button "[Uitklappen]" [ref=e390] [cursor=pointer]
+              - generic [ref=e391]:
+                - link "Televisiekanalen" [ref=e392] [cursor=pointer]:
+                  - /url: //nl.wikipedia.org/wiki/Televisie
+                - text: in
+                - link "Nederland" [ref=e393] [cursor=pointer]:
+                  - /url: https://nl.wikipedia.org/wiki/Nederland
+            - navigation "Nederlandse Publieke Omroep" [ref=e394]:
+              - link "Nederlandse Publieke Omroep" [ref=e396] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Nederlands_publiek_omroepbestel
+              - table [ref=e398]:
+                - rowgroup [ref=e399]:
+                  - 'row "Overkoepelende organisatie: Stichting Nederlandse Publieke Omroep" [ref=e400]':
+                    - cell "Overkoepelende organisatie:" [ref=e401]:
+                      - generic [ref=e402]: "Overkoepelende organisatie:"
+                    - cell "Stichting Nederlandse Publieke Omroep" [ref=e403]:
+                      - link "Stichting Nederlandse Publieke Omroep" [ref=e404] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/Stichting_Nederlandse_Publieke_Omroep
+                  - 'row "Omroepen: AVROTROS · BNNVARA · EO · HUMAN · KRO-NCRV · MAX · NOS (OF · PP · Socutera) · NTR · ON! · PowNed · Ster · VPRO · WNL · ZWART" [ref=e405]':
+                    - cell "Omroepen:" [ref=e406]:
+                      - generic [ref=e407]: "Omroepen:"
+                    - cell "AVROTROS · BNNVARA · EO · HUMAN · KRO-NCRV · MAX · NOS (OF · PP · Socutera) · NTR · ON! · PowNed · Ster · VPRO · WNL · ZWART" [ref=e408]:
+                      - link "AVROTROS" [ref=e409] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/AVROTROS
+                      - text: ·
+                      - link "BNNVARA" [ref=e410] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/BNNVARA
+                      - text: ·
+                      - link "EO" [ref=e411] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/Evangelische_Omroep
+                      - text: ·
+                      - link "HUMAN" [ref=e412] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/HUMAN
+                      - text: ·
+                      - link "KRO-NCRV" [ref=e413] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/KRO-NCRV
+                      - text: ·
+                      - link "MAX" [ref=e414] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/Omroep_MAX
+                      - text: ·
+                      - link "NOS" [ref=e415] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/Nederlandse_Omroep_Stichting
+                      - generic [ref=e416]:
+                        - text: (
+                        - link "OF" [ref=e417] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Omrop_Fryslân
+                        - text: ·
+                        - link "PP" [ref=e418] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Zendtijd_voor_Politieke_Partijen
+                        - text: ·
+                        - link "Socutera" [ref=e419] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/Socutera
+                        - text: )
+                      - text: ·
+                      - link "NTR" [ref=e420] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NTR
+                      - text: ·
+                      - link "ON!" [ref=e421] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/Ongehoord_Nederland
+                      - text: ·
+                      - link "PowNed" [ref=e422] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/PowNed
+                      - text: ·
+                      - link "Ster" [ref=e423] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/Ster_(omroep)
+                      - text: ·
+                      - link "VPRO" [ref=e424] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/VPRO
+                      - text: ·
+                      - link "WNL" [ref=e425] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/WNL
+                      - text: ·
+                      - link "ZWART" [ref=e426] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/Omroep_ZWART
+                  - 'row "Televisiezenders: NPO 1 · NPO 2 · NPO 3 (NPO Zapp · NPO Zappelin) · BVN" [ref=e427]':
+                    - cell "Televisiezenders:" [ref=e428]:
+                      - generic [ref=e429]: "Televisiezenders:"
+                    - cell "NPO 1 · NPO 2 · NPO 3 (NPO Zapp · NPO Zappelin) · BVN" [ref=e430]:
+                      - link "NPO 1" [ref=e431] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_1
+                      - text: ·
+                      - link "NPO 2" [ref=e432] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_2
+                      - text: ·
+                      - link "NPO 3" [ref=e433] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_3
+                      - generic [ref=e434]:
+                        - text: (
+                        - link "NPO Zapp" [ref=e435] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/NPO_Zapp
+                        - text: ·
+                        - link "NPO Zappelin" [ref=e436] [cursor=pointer]:
+                          - /url: //nl.wikipedia.org/wiki/NPO_Zappelin
+                        - text: )
+                      - text: ·
+                      - link "BVN" [ref=e437] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/BVN
+                  - 'row "Radiozenders: NPO Radio 1 · NPO Radio 2 · NPO 3FM · NPO Klassiek · NPO Radio 5 · NPO FunX" [ref=e438]':
+                    - cell "Radiozenders:" [ref=e439]:
+                      - generic [ref=e440]: "Radiozenders:"
+                    - cell "NPO Radio 1 · NPO Radio 2 · NPO 3FM · NPO Klassiek · NPO Radio 5 · NPO FunX" [ref=e441]:
+                      - link "NPO Radio 1" [ref=e442] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Radio_1
+                      - text: ·
+                      - link "NPO Radio 2" [ref=e443] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Radio_2
+                      - text: ·
+                      - link "NPO 3FM" [ref=e444] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_3FM
+                      - text: ·
+                      - link "NPO Klassiek" [ref=e445] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Klassiek
+                      - text: ·
+                      - link "NPO Radio 5" [ref=e446] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Radio_5
+                      - text: ·
+                      - link "NPO FunX" [ref=e447] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_FunX
+                  - 'row "Thema-televisiezenders: NPO 1 Extra · NPO 2 Extra · NPO Politiek en Nieuws" [ref=e448]':
+                    - cell "Thema-televisiezenders:" [ref=e449]:
+                      - generic [ref=e450]: "Thema-televisiezenders:"
+                    - cell "NPO 1 Extra · NPO 2 Extra · NPO Politiek en Nieuws" [ref=e451]:
+                      - link "NPO 1 Extra" [ref=e452] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_1_Extra
+                      - text: ·
+                      - link "NPO 2 Extra" [ref=e453] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_2_Extra
+                      - text: ·
+                      - link "NPO Politiek en Nieuws" [ref=e454] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Politiek_en_Nieuws
+                  - 'row "Thema-radiozenders: NPO Blend · NPO Campus Radio · NPO Soul & Jazz · NPO Sterren NL" [ref=e455]':
+                    - cell "Thema-radiozenders:" [ref=e456]:
+                      - generic [ref=e457]: "Thema-radiozenders:"
+                    - cell "NPO Blend · NPO Campus Radio · NPO Soul & Jazz · NPO Sterren NL" [ref=e458]:
+                      - link "NPO Blend" [ref=e459] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Blend
+                      - text: ·
+                      - link "NPO Campus Radio" [ref=e460] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Campus_Radio
+                      - text: ·
+                      - link "NPO Soul & Jazz" [ref=e461] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Soul_&_Jazz
+                      - text: ·
+                      - link "NPO Sterren NL" [ref=e462] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Sterren_NL
+                  - 'row "Online platformen: NPO Doc · NPO Luister · NPO Start · NPO Plus · NPO Talent" [ref=e463]':
+                    - cell "Online platformen:" [ref=e464]:
+                      - generic [ref=e465]: "Online platformen:"
+                    - cell "NPO Doc · NPO Luister · NPO Start · NPO Plus · NPO Talent" [ref=e466]:
+                      - link "NPO Doc" [ref=e467] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Doc_(platform)
+                      - text: ·
+                      - link "NPO Luister" [ref=e468] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Luister?action=edit&redlink=1
+                      - text: ·
+                      - link "NPO Start" [ref=e469] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Start
+                      - text: ·
+                      - link "NPO Plus" [ref=e470] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Plus
+                      - text: ·
+                      - link "NPO Talent" [ref=e471] [cursor=pointer]:
+                        - /url: //nl.wikipedia.org/wiki/NPO_Talent?action=edit&redlink=1
+            - navigation "Radiozenders in Nederland" [ref=e472]:
+              - button "[Uitklappen]" [ref=e473] [cursor=pointer]
+              - generic [ref=e474]:
+                - link "Radiozenders" [ref=e475] [cursor=pointer]:
+                  - /url: //nl.wikipedia.org/wiki/Radio-omroep
+                - text: in
+                - link "Nederland" [ref=e476] [cursor=pointer]:
+                  - /url: https://nl.wikipedia.org/wiki/Nederland
+        - generic [ref=e478]:
+          - link "Categorieën" [ref=e479] [cursor=pointer]:
+            - /url: /wiki/Categorie:Alles
+          - text: ":"
+          - list [ref=e480]:
+            - listitem [ref=e481]:
+              - link "Nederlandse regionale omroep" [ref=e482] [cursor=pointer]:
+                - /url: /wiki/Categorie:Nederlandse_regionale_omroep
+            - listitem [ref=e483]:
+              - link "Media in Friesland" [ref=e484] [cursor=pointer]:
+                - /url: /wiki/Categorie:Media_in_Friesland
+    - contentinfo [ref=e486]:
+      - list [ref=e487]:
+        - listitem [ref=e488]: Deze pagina is voor het laatst bewerkt op 16 mei 2026 om 21:01.
+        - listitem [ref=e489]:
+          - text: Pagina is weergegeven met
+          - link "Parsoid" [ref=e490] [cursor=pointer]:
+            - /url: https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid
+          - text: .
+        - listitem [ref=e491]:
+          - text: De tekst is beschikbaar onder de licentie
+          - link "Creative Commons Naamsvermelding/Gelijk delen" [ref=e492] [cursor=pointer]:
+            - /url: //creativecommons.org/licenses/by-sa/4.0/deed.nl
+          - text: ", er kunnen aanvullende voorwaarden van toepassing zijn. Zie de"
+          - link "gebruiksvoorwaarden" [ref=e493] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/nl
+          - text: voor meer informatie.
+          - text: Wikipedia® is een geregistreerd handelsmerk van de
+          - link "Wikimedia Foundation, Inc." [ref=e494] [cursor=pointer]:
+            - /url: https://www.wikimediafoundation.org
+          - text: ", een organisatie zonder winstoogmerk."
+      - list:
+        - listitem [ref=e495]:
+          - link "Privacybeleid" [ref=e496] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+        - listitem [ref=e497]:
+          - link "Over Wikipedia" [ref=e498] [cursor=pointer]:
+            - /url: /wiki/Wikipedia
+        - listitem [ref=e499]:
+          - link "Voorbehoud" [ref=e500] [cursor=pointer]:
+            - /url: /wiki/Wikipedia:Algemeen_voorbehoud
+        - listitem [ref=e501]:
+          - link "Contact juridisch & veiligheid" [ref=e502] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information
+        - listitem [ref=e503]:
+          - link "Gedragscode" [ref=e504] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+        - listitem [ref=e505]:
+          - link "Ontwikkelaars" [ref=e506] [cursor=pointer]:
+            - /url: https://developer.wikimedia.org
+        - listitem [ref=e507]:
+          - link "Statistieken" [ref=e508] [cursor=pointer]:
+            - /url: https://stats.wikimedia.org/#/nl.wikipedia.org
+        - listitem [ref=e509]:
+          - link "Cookieverklaring" [ref=e510] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+        - listitem [ref=e511]:
+          - link "Mobiele weergave" [ref=e512] [cursor=pointer]:
+            - /url: //nl.wikipedia.org/w/index.php?title=Omrop_Frysl%C3%A2n&mobileaction=toggle_view_mobile
+      - list [ref=e513]:
+        - listitem [ref=e514]:
+          - link "Wikimedia Foundation" [ref=e515] [cursor=pointer]:
+            - /url: https://www.wikimedia.org/
+            - img "Wikimedia Foundation" [ref=e517]
+        - listitem [ref=e518]:
+          - link "Powered by MediaWiki" [ref=e519] [cursor=pointer]:
+            - /url: https://www.mediawiki.org/
+            - img "Powered by MediaWiki" [ref=e521]
+  - generic [ref=e522]:
+    - list

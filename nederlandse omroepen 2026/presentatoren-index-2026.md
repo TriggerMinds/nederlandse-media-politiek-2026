@@ -1,31 +1,56 @@
-# Publieke omroepen — Presentatorenoverzicht 2026
+# Nederlandse omroepen — Presentatoren, journalisten, talkshow hosts en gezichten 2026
 
 **Opgesteld op:** 14 juni 2026
 
-Hieronder de Wikipedia-bronpagina's met volledige presentatorenlijsten per publieke omroep. Voor de omroepen met een eigen bestand in deze directory, zie het specifieke presentatorenbestand.
+## Overzicht per omroep
 
-## Wikipedia-bronnen per omroep
+### Publieke omroepen — landelijk
 
-| Omroep | Wikipedia-pagina | Status |
+| Omroep | Personenbestand | Hoofdredacteur/Directeur |
 |---|---|---|
-| AVROTROS | Lijst van presentatoren van AVROTROS | Eigen bestand |
-| BNNVARA | Lijst van presentatoren van BNNVARA | Eigen bestand |
-| EO | Lijst van presentatoren van de EO | Wikipedia |
-| HUMAN | Lijst van presentatoren van HUMAN | Wikipedia |
-| KRO-NCRV | Lijst van presentatoren van KRO-NCRV | Wikipedia |
-| MAX | Lijst van presentatoren van Omroep MAX | Wikipedia |
-| NOS (Nieuwsuur) | Lijst van presentatoren van Nieuwsuur | Wikipedia |
-| NOS (Sport) | Lijst van presentatoren van NOS Sport | Wikipedia |
-| ON (Ongehoord Nederland) | Lijst van presentatoren van ON | Wikipedia |
-| PowNed | Lijst van presentatoren van PowNed | Wikipedia |
-| VPRO | Lijst van presentatoren van de VPRO | Wikipedia |
-| WNL | Lijst van presentatoren van WNL | Wikipedia |
-| ZWART | Lijst van presentatoren van ZWART | Wikipedia |
+| NOS | `publiek/nos-presentatoren-journalisten-2026.md` | — |
+| AVROTROS | `publiek/avrotros-presentatoren-2026.md` | — |
+| BNNVARA | `publiek/bnnvara-presentatoren-2026.md` | — |
+| EO | `publiek/eo-presentatoren-2026.md` | Arjan Lock (RvB) |
+| KRO-NCRV | `publiek/kro-ncrv-presentatoren-2026.md` | — |
+| HUMAN | `publiek/human-presentatoren-2026.md` | — |
+| MAX | `publiek/max-presentatoren-2026.md` | — |
+| NTR | `publiek/ntr-presentatoren-2026.md` | — |
+| VPRO | `publiek/vpro-presentatoren-2026.md` | Zakia Guernina (directeur) |
+| WNL | `publiek/wnl-presentatoren-2026.md` | — |
+| PowNed | `publiek/powned-presentatoren-2026.md` | — |
+| ON | `publiek/on-presentatoren-2026.md` | Arnold Karskens |
+| ZWART | `publiek/zwart-presentatoren-2026.md` | — |
 
-## Journalisten per omroep
+### Regionale publieke omroepen
 
-Journalisten zijn doorgaans niet apart op Wikipedia vermeld, maar vallen onder de noemer van de omroep. Voor NOS-journalisten, zie `nos-presentatoren-journalisten-2026.md`.
+| Omroep | Personenbestand |
+|---|---|
+| AT5 | `publiek/at5-presentatoren-2026.md` |
+| L1 | `publiek/l1-presentatoren-2026.md` |
+| NH Nieuws | `publiek/nh-nieuws-presentatoren-2026.md` |
+| Omroep Brabant | `publiek/omroep-brabant-presentatoren-2026.md` |
+| Omroep Flevoland | `publiek/omroep-flevoland-presentatoren-2026.md` |
+| Omroep Gelderland | `publiek/omroep-gelderland-presentatoren-2026.md` |
+| Omroep West | `publiek/omroep-west-presentatoren-2026.md` |
+| Omroep Zeeland | `publiek/omroep-zeeland-presentatoren-2026.md` |
+| Omrop Fryslân | `publiek/omrop-fryslan-presentatoren-2026.md` |
+| Rijnmond | `publiek/rijnmond-presentatoren-2026.md` |
+| RTV Noord | `publiek/rtv-noord-presentatoren-2026.md` |
+| RTV Oost | `publiek/rtv-oost-presentatoren-2026.md` |
+| RTV Utrecht | `publiek/rtv-utrecht-presentatoren-2026.md` |
 
-## Commerciële omroepen
+### Commerciële omroepen
 
-Zie `commercieel/rtl-nederland-presentatoren-2026.md` en `commercieel/talpa-network-presentatoren-2026.md`.
+| Omroep | Personenbestand |
+|---|---|
+| RTL Nederland (RTL 4,5,7,8,Z) | `commercieel/rtl-nederland-presentatoren-2026.md` |
+| Talpa Network (SBS6, Net5, Veronica) | `commercieel/talpa-network-presentatoren-2026.md` |
+| DPG Media (Audio & Video) | `commercieel/dpg-media-presentatoren-2026.md` |
+| ESPN | `commercieel/espn-presentatoren-2026.md` |
+| Ziggo Sport | `commercieel/ziggo-sport-presentatoren-2026.md` |
+
+**Totaal:** 27 personenbestanden  
+**Bron:** Wikipedia-lijsten per omroep, omroepwebsites.
+</｜｜DSML｜｜parameter>
+</｜｜DSML｜｜write_to_file>

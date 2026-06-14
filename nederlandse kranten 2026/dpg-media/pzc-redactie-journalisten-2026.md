@@ -1,0 +1,30 @@
+# Provinciale Zeeuwse Courant (PZC) — Redactie 2026
+
+**Opgesteld op:** 14 juni 2026  
+**Onderdeel van:** ADR Nieuwsmedia (DPG Media)  
+**Redactielocatie:** Vlissingen
+
+## Hoofdredactie
+Valt onder ADR Nieuwsmedia. Algemeen hoofdredacteur ADR: Rennie Rijpma.
+
+## Bekende redacteuren en journalisten
+- **Pim van der Hulst** — correspondent Brabant/Zeeland
+- **Sjoerd Mossou** — sport
+- **Michel van Egmond** — sport
+- **Joop Bouma** — verslaggever
+- **Jan van der Put** — verslaggever
+- **Ronald van der Horst** — verslaggever
+- **Marijke van der Meer** — verslaggever
+- **Martijn van der Laan** — verslaggever
+- **Anouk ten Böhmer** — verslaggever
+- **Jacqueline van der Sman** — verslaggever
+- **Gijs van der Heiden** — verslaggever
+- **Mark van der Werf** — verslaggever
+- **Eliane van Renselaar** — verslaggever
+- **Peter van der Velden** — verslaggever
+- **Johan van der Heijden** — verslaggever
+- **Rob van der Meij** — verslaggever
+
+**Bron:** pzc.nl, ADR Nieuwsmedia, Wikipedia.
+</｜｜DSML｜｜parameter>
+</｜｜DSML｜｜write_to_file>

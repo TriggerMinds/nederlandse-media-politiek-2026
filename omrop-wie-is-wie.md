@@ -1,0 +1,1643 @@
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - button "Ga naar hoofd content" [ref=e6] [cursor=pointer]
+    - generic [ref=e1507]:
+      - iframe [ref=e1509]:
+        - generic [ref=f52e6]:
+          - iframe [ref=f52e7]:
+            - iframe [ref=f55e2]:
+              
+          - img [ref=f52e8] [cursor=pointer]
+      - text: Advertentie
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - link "Thuis" [ref=e16] [cursor=pointer]:
+          - /url: /nl
+          - figure [ref=e19]:
+            - img "Omrop Fryslân" [ref=e21]
+        - generic [ref=e22]:
+          - link "Thuis" [ref=e24] [cursor=pointer]:
+            - /url: /nl
+            - generic [ref=e25]: Thuis
+          - link "Nieuws" [ref=e27] [cursor=pointer]:
+            - /url: /nl/nieuws
+            - generic [ref=e28]: Nieuws
+          - link "Kijk" [ref=e30] [cursor=pointer]:
+            - /url: /nl/sjen
+            - generic [ref=e31]: Kijk
+          - link "Luister" [ref=e33] [cursor=pointer]:
+            - /url: /nl/luister
+            - generic [ref=e34]: Luister
+          - link "Meer" [ref=e36] [cursor=pointer]:
+            - /url: /nl/meer
+            - generic [ref=e37]: Meer
+      - generic [ref=e39]:
+        - link "Zoeken" [ref=e41] [cursor=pointer]:
+          - /url: /nl/zoeken
+          - img [ref=e43]
+        - button "Instellingen" [ref=e46] [cursor=pointer]:
+          - img [ref=e48]
+    - generic [ref=e53]:
+      - heading "Wie is wie" [level=4] [ref=e57]
+      - generic [ref=e65]:
+        - list [ref=e70] [cursor=pointer]:
+          - listitem [ref=e71]:
+            - generic [ref=e72]:
+              - generic [ref=e73]: Afdelingen
+              - generic [ref=e74]: 01. Redactie
+          - generic [ref=e76]: 
+        - generic [ref=e78]:
+          - generic [ref=e79]:
+            - link "Afke Meekma Programmamaker Afke Meekma is programmamaker bij HEA!. Ook schrijft ze langere human interest-verhalen en portretten van mensen." [ref=e80] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/afke-meekma
+              - figure [ref=e83]
+              - generic [ref=e85]:
+                - generic [ref=e86]:
+                  - heading "Afke Meekma" [level=2] [ref=e87]
+                  - paragraph [ref=e88]: Programmamaker
+                - paragraph [ref=e90]: Afke Meekma is programmamaker bij HEA!. Ook schrijft ze langere human interest-verhalen en portretten van mensen.
+              - text: 
+            - generic [ref=e91]:
+              - link "Mail " [ref=e92] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e93]: 
+              - link "Meer " [ref=e94] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/afke-meekma
+                - text: Meer
+                - generic [ref=e95]: 
+          - generic [ref=e96]:
+            - link "Albert Jensma Programmamaker Albert Jensma is programmamaker en maakt documentaires voor FryslânDOK." [ref=e97] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/albert-jensma
+              - figure [ref=e100]
+              - generic [ref=e102]:
+                - generic [ref=e103]:
+                  - heading "Albert Jensma" [level=2] [ref=e104]
+                  - paragraph [ref=e105]: Programmamaker
+                - paragraph [ref=e107]: Albert Jensma is programmamaker en maakt documentaires voor FryslânDOK.
+              - text: 
+            - generic [ref=e108]:
+              - link "Mail " [ref=e109] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e110]: 
+              - link "Meer " [ref=e111] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/albert-jensma
+                - text: Meer
+                - generic [ref=e112]: 
+          - generic [ref=e113]:
+            - link "Amber Otter Journalist Amber Otter volgt alles op het gebied van natuur en klimaat. Ze is expert op het gebied van klimaatverandering, voedselzekerheid, visserij, de wolf en de impact van de mens op de natuur." [ref=e114] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/amber-otter
+              - figure [ref=e117]
+              - generic [ref=e119]:
+                - generic [ref=e120]:
+                  - heading "Amber Otter" [level=2] [ref=e121]
+                  - paragraph [ref=e122]: Journalist
+                - paragraph [ref=e124]: Amber Otter volgt alles op het gebied van natuur en klimaat. Ze is expert op het gebied van klimaatverandering, voedselzekerheid, visserij, de wolf en de impact van de mens op de natuur.
+              - text: 
+            - generic [ref=e125]:
+              - link "Mail " [ref=e126] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e127]: 
+              - link "Meer " [ref=e128] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/amber-otter
+                - text: Meer
+                - generic [ref=e129]: 
+          - generic [ref=e130]:
+            - link "Andor Faber Journalist Andor Faber is sportverslaggever en volgt SC Cambuur, het vrouwenvoetbal, schaatsen en shorttrack." [ref=e131] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/andor-faber
+              - figure [ref=e134]
+              - generic [ref=e136]:
+                - generic [ref=e137]:
+                  - heading "Andor Faber" [level=2] [ref=e138]
+                  - paragraph [ref=e139]: Journalist
+                - paragraph [ref=e141]: Andor Faber is sportverslaggever en volgt SC Cambuur, het vrouwenvoetbal, schaatsen en shorttrack.
+              - text: 
+            - generic [ref=e142]:
+              - link "Mail " [ref=e143] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.l
+                - text: Mail
+                - generic [ref=e144]: 
+              - link "Meer " [ref=e145] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/andor-faber
+                - text: Meer
+                - generic [ref=e146]: 
+          - generic [ref=e147]:
+            - link "Andries Bakker Eindredacteur Andries Bakker is eindredacteur op de nieuwsredactie." [ref=e148] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/andries-bakker
+              - figure [ref=e151]
+              - generic [ref=e153]:
+                - generic [ref=e154]:
+                  - heading "Andries Bakker" [level=2] [ref=e155]
+                  - paragraph [ref=e156]: Eindredacteur
+                - paragraph [ref=e158]: Andries Bakker is eindredacteur op de nieuwsredactie.
+              - text: 
+            - generic [ref=e159]:
+              - link "Mail " [ref=e160] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e161]: 
+              - link "Meer " [ref=e162] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/andries-bakker
+                - text: Meer
+                - generic [ref=e163]: 
+          - generic [ref=e164]:
+            - link "Anne Nynke Terpstra Programmamaker Anne Nynke Terpstra is programmamaker voor het radioprogramma Goeiemiddei! van 13:00-16:00 uur." [ref=e165] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/anne-nynke-terpstra
+              - figure [ref=e168]
+              - generic [ref=e170]:
+                - generic [ref=e171]:
+                  - heading "Anne Nynke Terpstra" [level=2] [ref=e172]
+                  - paragraph [ref=e173]: Programmamaker
+                - paragraph [ref=e175]: Anne Nynke Terpstra is programmamaker voor het radioprogramma Goeiemiddei! van 13:00-16:00 uur.
+              - text: 
+            - generic [ref=e176]:
+              - link "Mail " [ref=e177] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e178]: 
+              - link "Meer " [ref=e179] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/anne-nynke-terpstra
+                - text: Meer
+                - generic [ref=e180]: 
+          - generic [ref=e181]:
+            - link "Annet Huisman Programmamaker Annet Huisman is programmamaker en eindredacteur bij FryslânDOK." [ref=e182] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/annet-huisman
+              - figure [ref=e185]
+              - generic [ref=e187]:
+                - generic [ref=e188]:
+                  - heading "Annet Huisman" [level=2] [ref=e189]
+                  - paragraph [ref=e190]: Programmamaker
+                - paragraph [ref=e192]: Annet Huisman is programmamaker en eindredacteur bij FryslânDOK.
+              - text: 
+            - generic [ref=e193]:
+              - link "Mail " [ref=e194] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e195]: 
+              - link "Meer " [ref=e196] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/annet-huisman
+                - text: Meer
+                - generic [ref=e197]: 
+          - generic [ref=e198]:
+            - link "Antine de Hoop Secretaresse hoofdredactie Antine de Hoop is secretaresse van de hoofdredactie en coördinator huisvesting." [ref=e199] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/antine-de-hoop
+              - figure [ref=e202]
+              - generic [ref=e204]:
+                - generic [ref=e205]:
+                  - heading "Antine de Hoop" [level=2] [ref=e206]
+                  - paragraph [ref=e207]: Secretaresse hoofdredactie
+                - paragraph [ref=e209]: Antine de Hoop is secretaresse van de hoofdredactie en coördinator huisvesting.
+              - text: 
+            - generic [ref=e210]:
+              - link "Mail " [ref=e211] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e212]: 
+              - link "Meer " [ref=e213] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/antine-de-hoop
+                - text: Meer
+                - generic [ref=e214]: 
+          - generic [ref=e215]:
+            - link "Arjen Bosselaar Journalist Arjen Bosselaar is journalist en verslaggever. Hij volgt alles op het gebied van duurzaamheid, economie, energie, gaswinning en infrastructuur." [ref=e216] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/arjen-bosselaar
+              - figure [ref=e219]
+              - generic [ref=e221]:
+                - generic [ref=e222]:
+                  - heading "Arjen Bosselaar" [level=2] [ref=e223]
+                  - paragraph [ref=e224]: Journalist
+                - paragraph [ref=e226]: Arjen Bosselaar is journalist en verslaggever. Hij volgt alles op het gebied van duurzaamheid, economie, energie, gaswinning en infrastructuur.
+              - text: 
+            - generic [ref=e227]:
+              - link "Mail " [ref=e228] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e229]: 
+              - link "Meer " [ref=e230] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/arjen-bosselaar
+                - text: Meer
+                - generic [ref=e231]: 
+          - generic [ref=e232]:
+            - link "Arjen Visser Journalist Arjen Visser is journalist en redacteur op de online-redactie. Daarnaast valt hij wel eens in bij de sport voor een item of live commentaar op de radio." [ref=e233] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/arjen-visser
+              - figure [ref=e236]
+              - generic [ref=e238]:
+                - generic [ref=e239]:
+                  - heading "Arjen Visser" [level=2] [ref=e240]
+                  - paragraph [ref=e241]: Journalist
+                - paragraph [ref=e243]: Arjen Visser is journalist en redacteur op de online-redactie. Daarnaast valt hij wel eens in bij de sport voor een item of live commentaar op de radio.
+              - text: 
+            - generic [ref=e244]:
+              - link "Mail " [ref=e245] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e246]: 
+              - link "Meer " [ref=e247] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/arjen-visser
+                - text: Meer
+                - generic [ref=e248]: 
+          - generic [ref=e249]:
+            - link "Auke Zeldenrust Journalist Auke Zeldenrust volgt alles op het gebied van justitie en veiligheid." [ref=e250] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/auke-zeldenrust
+              - figure [ref=e253]
+              - generic [ref=e255]:
+                - generic [ref=e256]:
+                  - heading "Auke Zeldenrust" [level=2] [ref=e257]
+                  - paragraph [ref=e258]: Journalist
+                - paragraph [ref=e260]: Auke Zeldenrust volgt alles op het gebied van justitie en veiligheid.
+              - text: 
+            - generic [ref=e261]:
+              - link "Mail " [ref=e262] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e263]: 
+              - link "Meer " [ref=e264] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/auke-zeldenrust
+                - text: Meer
+                - generic [ref=e265]: 
+          - generic [ref=e266]:
+            - link "Aukje de Hoop Eindredacteur Aukje de Hoop is eindredacteur op de fariaredactie." [ref=e267] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/aukje-de-hoop
+              - figure [ref=e270]
+              - generic [ref=e272]:
+                - generic [ref=e273]:
+                  - heading "Aukje de Hoop" [level=2] [ref=e274]
+                  - paragraph [ref=e275]: Eindredacteur
+                - paragraph [ref=e277]: Aukje de Hoop is eindredacteur op de fariaredactie.
+              - text: 
+            - generic [ref=e278]:
+              - link "Mail " [ref=e279] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e280]: 
+              - link "Meer " [ref=e281] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/aukje-de-hoop
+                - text: Meer
+                - generic [ref=e282]: 
+          - generic [ref=e283]:
+            - link "Bart Kingma Programmamaker Bart Kingma is programmamaker en maakt documentaires voor FryslânDOK." [ref=e284] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/bart-kingma
+              - figure [ref=e287]
+              - generic [ref=e289]:
+                - generic [ref=e290]:
+                  - heading "Bart Kingma" [level=2] [ref=e291]
+                  - paragraph [ref=e292]: Programmamaker
+                - paragraph [ref=e294]: Bart Kingma is programmamaker en maakt documentaires voor FryslânDOK.
+              - text: 
+            - generic [ref=e295]:
+              - link "Mail " [ref=e296] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e297]: 
+              - link "Meer " [ref=e298] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/bart-kingma
+                - text: Meer
+                - generic [ref=e299]: 
+          - generic [ref=e300]:
+            - link "Ben de Jager Journalist Ben de Jager is journalist en verslaggever voor Omrop Fryslân bij samenwerkingspartner RTV NOF." [ref=e301] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/ben-de-jager
+              - figure [ref=e304]
+              - generic [ref=e306]:
+                - generic [ref=e307]:
+                  - heading "Ben de Jager" [level=2] [ref=e308]
+                  - paragraph [ref=e309]: Journalist
+                - paragraph [ref=e311]: Ben de Jager is journalist en verslaggever voor Omrop Fryslân bij samenwerkingspartner RTV NOF.
+              - text: 
+            - generic [ref=e312]:
+              - link "Mail " [ref=e313] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e314]: 
+              - link "Meer " [ref=e315] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/ben-de-jager
+                - text: Meer
+                - generic [ref=e316]: 
+          - generic [ref=e317]:
+            - link "Carin Seegers Programmamaker Carin Seegers is programmamaker bij het programma HEA!" [ref=e318] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/carin-seegers
+              - figure [ref=e321]
+              - generic [ref=e323]:
+                - generic [ref=e324]:
+                  - heading "Carin Seegers" [level=2] [ref=e325]
+                  - paragraph [ref=e326]: Programmamaker
+                - paragraph [ref=e328]: Carin Seegers is programmamaker bij het programma HEA!
+              - text: 
+            - generic [ref=e329]:
+              - link "Mail " [ref=e330] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e331]: 
+              - link "Meer " [ref=e332] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/carin-seegers
+                - text: Meer
+                - generic [ref=e333]: 
+          - generic [ref=e334]:
+            - link "Daniël de Boer Freelance journalist Daniël de Boer is freelance journalist en redacteur op de online-redactie." [ref=e335] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/daniel-de-boer
+              - figure [ref=e338]
+              - generic [ref=e340]:
+                - generic [ref=e341]:
+                  - heading "Daniël de Boer" [level=2] [ref=e342]
+                  - paragraph [ref=e343]: Freelance journalist
+                - paragraph [ref=e345]: Daniël de Boer is freelance journalist en redacteur op de online-redactie.
+              - text: 
+            - generic [ref=e346]:
+              - link "Mail " [ref=e347] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e348]: 
+              - link "Meer " [ref=e349] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/daniel-de-boer
+                - text: Meer
+                - generic [ref=e350]: 
+          - generic [ref=e351]:
+            - link "Daniël Kooistra Journalist Daniël Kooistra is journalist en redacteur op de online-redactie. Daarnaast is hij journalist bij samenwerkingspartner Radio Spannenburg." [ref=e352] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/daniel-kooistra
+              - figure [ref=e355]
+              - generic [ref=e357]:
+                - generic [ref=e358]:
+                  - heading "Daniël Kooistra" [level=2] [ref=e359]
+                  - paragraph [ref=e360]: Journalist
+                - paragraph [ref=e362]: Daniël Kooistra is journalist en redacteur op de online-redactie. Daarnaast is hij journalist bij samenwerkingspartner Radio Spannenburg.
+              - text: 
+            - generic [ref=e363]:
+              - link "Mail " [ref=e364] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e365]: 
+              - link "Meer " [ref=e366] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/daniel-kooistra
+                - text: Meer
+                - generic [ref=e367]: 
+          - generic [ref=e368]:
+            - link "Darshan Boerema Social mediaredacteur Darshan Boerema is social mediaredacteur." [ref=e369] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/darshan-boerema
+              - figure [ref=e372]
+              - generic [ref=e374]:
+                - generic [ref=e375]:
+                  - heading "Darshan Boerema" [level=2] [ref=e376]
+                  - paragraph [ref=e377]: Social mediaredacteur
+                - paragraph [ref=e379]: Darshan Boerema is social mediaredacteur.
+              - text: 
+            - generic [ref=e380]:
+              - link "Mail " [ref=e381] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e382]: 
+              - link "Meer " [ref=e383] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/darshan-boerema
+                - text: Meer
+                - generic [ref=e384]: 
+          - generic [ref=e385]:
+            - link "David van Kampen Dataredacteur Als dataredacteur zorgt David dat onze verhalen beter aansluiten bij ons publiek. Daarnaast schrijft hij over film en data-onderzoeken." [ref=e386] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/david-van-kampen
+              - figure [ref=e389]
+              - generic [ref=e391]:
+                - generic [ref=e392]:
+                  - heading "David van Kampen" [level=2] [ref=e393]
+                  - paragraph [ref=e394]: Dataredacteur
+                - paragraph [ref=e396]: Als dataredacteur zorgt David dat onze verhalen beter aansluiten bij ons publiek. Daarnaast schrijft hij over film en data-onderzoeken.
+              - text: 
+            - generic [ref=e397]:
+              - link "Mail " [ref=e398] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e399]: 
+              - link "Meer " [ref=e400] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/david-van-kampen
+                - text: Meer
+                - generic [ref=e401]: 
+          - generic [ref=e402]:
+            - link "Dennis Bouma Journalist Dennis Bouma is journalist en redacteur op de online-redactie." [ref=e403] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/dennis-bouma
+              - figure [ref=e406]
+              - generic [ref=e408]:
+                - generic [ref=e409]:
+                  - heading "Dennis Bouma" [level=2] [ref=e410]
+                  - paragraph [ref=e411]: Journalist
+                - paragraph [ref=e413]: Dennis Bouma is journalist en redacteur op de online-redactie.
+              - text: 
+            - generic [ref=e414]:
+              - link "Mail " [ref=e415] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e416]: 
+              - link "Meer " [ref=e417] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/dennis-bouma
+                - text: Meer
+                - generic [ref=e418]: 
+          - generic [ref=e419]:
+            - link "Dennis Terpstra Journalist Dennis Terpstra is journalist en verslaggever bij het nieuws." [ref=e420] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/dennis-terpstra
+              - figure [ref=e423]
+              - generic [ref=e425]:
+                - generic [ref=e426]:
+                  - heading "Dennis Terpstra" [level=2] [ref=e427]
+                  - paragraph [ref=e428]: Journalist
+                - paragraph [ref=e430]: Dennis Terpstra is journalist en verslaggever bij het nieuws.
+              - text: 
+            - generic [ref=e431]:
+              - link "Mail " [ref=e432] [cursor=pointer]:
+                - /url: mailto:redaksje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e433]: 
+              - link "Meer " [ref=e434] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/dennis-terpstra
+                - text: Meer
+                - generic [ref=e435]: 
+          - generic [ref=e436]:
+            - link "Dieuwke Kroese Eindredacteur Dieuwke Kroese is eindredacteur op de nieuwsredactie." [ref=e437] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/dieuwke-kroese
+              - figure [ref=e440]
+              - generic [ref=e442]:
+                - generic [ref=e443]:
+                  - heading "Dieuwke Kroese" [level=2] [ref=e444]
+                  - paragraph [ref=e445]: Eindredacteur
+                - paragraph [ref=e447]: Dieuwke Kroese is eindredacteur op de nieuwsredactie.
+              - text: 
+            - generic [ref=e448]:
+              - link "Mail " [ref=e449] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e450]: 
+              - link "Meer " [ref=e451] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/dieuwke-kroese
+                - text: Meer
+                - generic [ref=e452]: 
+          - generic [ref=e453]:
+            - link "Else Jelsma Freelance journalist Else Jelsma is freelance journalist en verslaggever bij het nieuws." [ref=e454] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/else-jelsma
+              - figure [ref=e457]
+              - generic [ref=e459]:
+                - generic [ref=e460]:
+                  - heading "Else Jelsma" [level=2] [ref=e461]
+                  - paragraph [ref=e462]: Freelance journalist
+                - paragraph [ref=e464]: Else Jelsma is freelance journalist en verslaggever bij het nieuws.
+              - text: 
+            - generic [ref=e465]:
+              - link "Mail " [ref=e466] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e467]: 
+              - link "Meer " [ref=e468] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/else-jelsma
+                - text: Meer
+                - generic [ref=e469]: 
+          - generic [ref=e470]:
+            - link "Emma Smith Freelance journalist Emma Smith is freelance journalist en redacteur op de online-redactie." [ref=e471] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/emma-smith
+              - figure [ref=e474]
+              - generic [ref=e476]:
+                - generic [ref=e477]:
+                  - heading "Emma Smith" [level=2] [ref=e478]
+                  - paragraph [ref=e479]: Freelance journalist
+                - paragraph [ref=e481]: Emma Smith is freelance journalist en redacteur op de online-redactie.
+              - text: 
+            - generic [ref=e482]:
+              - link "Mail " [ref=e483] [cursor=pointer]:
+                - /url: mailto:redaksje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e484]: 
+              - link "Meer " [ref=e485] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/emma-smith
+                - text: Meer
+                - generic [ref=e486]: 
+          - generic [ref=e487]:
+            - link "Esther Leystra Freelance journalist Esther Leystra is freelance journalist bij Omrop Fryslân." [ref=e488] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/esther-leystra
+              - figure [ref=e491]
+              - generic [ref=e493]:
+                - generic [ref=e494]:
+                  - heading "Esther Leystra" [level=2] [ref=e495]
+                  - paragraph [ref=e496]: Freelance journalist
+                - paragraph [ref=e498]: Esther Leystra is freelance journalist bij Omrop Fryslân.
+              - text: 
+            - generic [ref=e499]:
+              - link "Mail " [ref=e500] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e501]: 
+              - link "Meer " [ref=e502] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/esther-leystra
+                - text: Meer
+                - generic [ref=e503]: 
+          - generic [ref=e504]:
+            - link "Feije van der Meer Freelance programmamaker Feije van der Meer is freelance regisseur en programmamaker van de kinderprogramma’s bij de Tsjil-redactie." [ref=e505] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/feije-van-der-meer
+              - figure [ref=e508]
+              - generic [ref=e510]:
+                - generic [ref=e511]:
+                  - heading "Feije van der Meer" [level=2] [ref=e512]
+                  - paragraph [ref=e513]: Freelance programmamaker
+                - paragraph [ref=e515]: Feije van der Meer is freelance regisseur en programmamaker van de kinderprogramma’s bij de Tsjil-redactie.
+              - text: 
+            - generic [ref=e516]:
+              - link "Mail " [ref=e517] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e518]: 
+              - link "Meer " [ref=e519] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/feije-van-der-meer
+                - text: Meer
+                - generic [ref=e520]: 
+          - generic [ref=e521]:
+            - link "Feike Wouda Journalist Feike Wouda is journalist, nieuwslezer op de radio en redacteur bij het nieuws." [ref=e522] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/feike-wouda
+              - figure [ref=e525]
+              - generic [ref=e527]:
+                - generic [ref=e528]:
+                  - heading "Feike Wouda" [level=2] [ref=e529]
+                  - paragraph [ref=e530]: Journalist
+                - paragraph [ref=e532]: Feike Wouda is journalist, nieuwslezer op de radio en redacteur bij het nieuws.
+              - text: 
+            - generic [ref=e533]:
+              - link "Mail " [ref=e534] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e535]: 
+              - link "Meer " [ref=e536] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/feike-wouda
+                - text: Meer
+                - generic [ref=e537]: 
+          - generic [ref=e538]:
+            - link "Gaiske Meinsma Freelance programmamaker Gaiske Meinsma is freelance programmamaker en presentatrice bij de Tsjil-redactie." [ref=e539] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/gaiske-meinsma
+              - figure [ref=e542]
+              - generic [ref=e544]:
+                - generic [ref=e545]:
+                  - heading "Gaiske Meinsma" [level=2] [ref=e546]
+                  - paragraph [ref=e547]: Freelance programmamaker
+                - paragraph [ref=e549]: Gaiske Meinsma is freelance programmamaker en presentatrice bij de Tsjil-redactie.
+              - text: 
+            - generic [ref=e550]:
+              - link "Mail " [ref=e551] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e552]: 
+              - link "Meer " [ref=e553] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/gaiske-meinsma
+                - text: Meer
+                - generic [ref=e554]: 
+          - generic [ref=e555]:
+            - link "Gerlof Kolk Programmamaker Gerlof Kolk is verslaggever bij HEA! en maakt portretten van bijzondere Friezen." [ref=e556] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/gerlof-kolk
+              - figure [ref=e559]
+              - generic [ref=e561]:
+                - generic [ref=e562]:
+                  - heading "Gerlof Kolk" [level=2] [ref=e563]
+                  - paragraph [ref=e564]: Programmamaker
+                - paragraph [ref=e566]: Gerlof Kolk is verslaggever bij HEA! en maakt portretten van bijzondere Friezen.
+              - text: 
+            - generic [ref=e567]:
+              - link "Mail " [ref=e568] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e569]: 
+              - link "Meer " [ref=e570] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/gerlof-kolk
+                - text: Meer
+                - generic [ref=e571]: 
+          - generic [ref=e572]:
+            - link "Gjaldau Sijtsma Journalist Gjaldau Sijtsma is journalist en verslaggever bij het nieuws." [ref=e573] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/gjaldau-sijtsma
+              - figure [ref=e576]
+              - generic [ref=e578]:
+                - generic [ref=e579]:
+                  - heading "Gjaldau Sijtsma" [level=2] [ref=e580]
+                  - paragraph [ref=e581]: Journalist
+                - paragraph [ref=e583]: Gjaldau Sijtsma is journalist en verslaggever bij het nieuws.
+              - text: 
+            - generic [ref=e584]:
+              - link "Mail " [ref=e585] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e586]: 
+              - link "Meer " [ref=e587] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/gjaldau-sijtsma
+                - text: Meer
+                - generic [ref=e588]: 
+          - generic [ref=e589]:
+            - link "Halbe Piter Claus Programmamaker Halbe Piter Claus is programmamaker bij de Tsjil-redactie." [ref=e590] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/halbe-piter-claus
+              - figure [ref=e593]
+              - generic [ref=e595]:
+                - generic [ref=e596]:
+                  - heading "Halbe Piter Claus" [level=2] [ref=e597]
+                  - paragraph [ref=e598]: Programmamaker
+                - paragraph [ref=e600]: Halbe Piter Claus is programmamaker bij de Tsjil-redactie.
+              - text: 
+            - generic [ref=e601]:
+              - link "Mail " [ref=e602] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e603]: 
+              - link "Meer " [ref=e604] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/halbe-piter-claus
+                - text: Meer
+                - generic [ref=e605]: 
+          - generic [ref=e606]:
+            - link "Hans Koster Journalist Hans Koster is journalist op de nieuwsredactie." [ref=e607] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/hans-koster
+              - figure [ref=e610]
+              - generic [ref=e612]:
+                - generic [ref=e613]:
+                  - heading "Hans Koster" [level=2] [ref=e614]
+                  - paragraph [ref=e615]: Journalist
+                - paragraph [ref=e617]: Hans Koster is journalist op de nieuwsredactie.
+              - text: 
+            - generic [ref=e618]:
+              - link "Mail " [ref=e619] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e620]: 
+              - link "Meer " [ref=e621] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/hans-koster
+                - text: Meer
+                - generic [ref=e622]: 
+          - generic [ref=e623]:
+            - link "Hayo Bootsma Journalist Hayo Bootsma volgt alles wat er gebeurt in Leeuwarden en omgeving. Ook is hij defensie-expert." [ref=e624] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/hayo-bootsma
+              - figure [ref=e627]
+              - generic [ref=e629]:
+                - generic [ref=e630]:
+                  - heading "Hayo Bootsma" [level=2] [ref=e631]
+                  - paragraph [ref=e632]: Journalist
+                - paragraph [ref=e634]: Hayo Bootsma volgt alles wat er gebeurt in Leeuwarden en omgeving. Ook is hij defensie-expert.
+              - text: 
+            - generic [ref=e635]:
+              - link "Mail " [ref=e636] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e637]: 
+              - link "Meer " [ref=e638] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/hayo-bootsma
+                - text: Meer
+                - generic [ref=e639]: 
+          - generic [ref=e640]:
+            - link "Herman Zeilstra Programmamaker Herman Zeilstra is documentairemaker voor FryslânDOK. Hij maakt onder andere documentaires over festivals, weidevogels en de natuur." [ref=e641] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/herman-zeilstra
+              - figure [ref=e644]
+              - generic [ref=e646]:
+                - generic [ref=e647]:
+                  - heading "Herman Zeilstra" [level=2] [ref=e648]
+                  - paragraph [ref=e649]: Programmamaker
+                - paragraph [ref=e651]: Herman Zeilstra is documentairemaker voor FryslânDOK. Hij maakt onder andere documentaires over festivals, weidevogels en de natuur.
+              - text: 
+            - generic [ref=e652]:
+              - link "Mail " [ref=e653] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e654]: 
+              - link "Meer " [ref=e655] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/herman-zeilstra
+                - text: Meer
+                - generic [ref=e656]: 
+          - generic [ref=e657]:
+            - link "Iris Witzenburg Journalist Iris Witzenburg is journalist en redacteur op de online-redactie." [ref=e658] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/iris-witzenburg
+              - figure [ref=e661]
+              - generic [ref=e663]:
+                - generic [ref=e664]:
+                  - heading "Iris Witzenburg" [level=2] [ref=e665]
+                  - paragraph [ref=e666]: Journalist
+                - paragraph [ref=e668]: Iris Witzenburg is journalist en redacteur op de online-redactie.
+              - text: 
+            - generic [ref=e669]:
+              - link "Mail " [ref=e670] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e671]: 
+              - link "Meer " [ref=e672] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/iris-witzenburg
+                - text: Meer
+                - generic [ref=e673]: 
+          - generic [ref=e674]:
+            - link "Isa Visser Journalist Isa Visser is journalist en verslaggever bij het nieuws." [ref=e675] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/isa-visser
+              - figure [ref=e678]
+              - generic [ref=e680]:
+                - generic [ref=e681]:
+                  - heading "Isa Visser" [level=2] [ref=e682]
+                  - paragraph [ref=e683]: Journalist
+                - paragraph [ref=e685]: Isa Visser is journalist en verslaggever bij het nieuws.
+              - text: 
+            - generic [ref=e686]:
+              - link "Mail " [ref=e687] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e688]: 
+              - link "Meer " [ref=e689] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/isa-visser
+                - text: Meer
+                - generic [ref=e690]: 
+          - generic [ref=e691]:
+            - link "Jacob Torensma Freelance social mediaredacteur Jacob Torensma is freelance social mediaredacteur" [ref=e692] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/jacob-torensma
+              - figure [ref=e695]
+              - generic [ref=e697]:
+                - generic [ref=e698]:
+                  - heading "Jacob Torensma" [level=2] [ref=e699]
+                  - paragraph [ref=e700]: Freelance social mediaredacteur
+                - paragraph [ref=e702]: Jacob Torensma is freelance social mediaredacteur
+              - text: 
+            - generic [ref=e703]:
+              - link "Mail " [ref=e704] [cursor=pointer]:
+                - /url: mailto:Jacob.torensma@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e705]: 
+              - link "Meer " [ref=e706] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/jacob-torensma
+                - text: Meer
+                - generic [ref=e707]: 
+          - generic [ref=e708]:
+            - link "Janjelle Ringnalda Eindredacteur Janjelle Ringnalda is eindredacteur van de Tsjil-redactie." [ref=e709] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/janjelle-ringnalda
+              - figure [ref=e712]
+              - generic [ref=e714]:
+                - generic [ref=e715]:
+                  - heading "Janjelle Ringnalda" [level=2] [ref=e716]
+                  - paragraph [ref=e717]: Eindredacteur
+                - paragraph [ref=e719]: Janjelle Ringnalda is eindredacteur van de Tsjil-redactie.
+              - text: 
+            - generic [ref=e720]:
+              - link "Mail " [ref=e721] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e722]: 
+              - link "Meer " [ref=e723] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/janjelle-ringnalda
+                - text: Meer
+                - generic [ref=e724]: 
+          - generic [ref=e725]:
+            - link "Janko Krist Freelance programmamaker Janko Krist is freelance programmamaker en maakt reportages voor HEA!" [ref=e726] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/janko-krist
+              - figure [ref=e729]
+              - generic [ref=e731]:
+                - generic [ref=e732]:
+                  - heading "Janko Krist" [level=2] [ref=e733]
+                  - paragraph [ref=e734]: Freelance programmamaker
+                - paragraph [ref=e736]: Janko Krist is freelance programmamaker en maakt reportages voor HEA!
+              - text: 
+            - generic [ref=e737]:
+              - link "Mail " [ref=e738] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e739]: 
+              - link "Meer " [ref=e740] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/janko-krist
+                - text: Meer
+                - generic [ref=e741]: 
+          - generic [ref=e742]:
+            - link "Jantine Akkerman Journalist Jantine Akkerman is journalist en verslaggever bij het nieuws." [ref=e743] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/jantine-stoffers
+              - figure [ref=e746]
+              - generic [ref=e748]:
+                - generic [ref=e749]:
+                  - heading "Jantine Akkerman" [level=2] [ref=e750]
+                  - paragraph [ref=e751]: Journalist
+                - paragraph [ref=e753]: Jantine Akkerman is journalist en verslaggever bij het nieuws.
+              - text: 
+            - generic [ref=e754]:
+              - link "Mail " [ref=e755] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e756]: 
+              - link "Meer " [ref=e757] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/jantine-stoffers
+                - text: Meer
+                - generic [ref=e758]: 
+          - generic [ref=e759]:
+            - link "Jaring de Groot Eindredacteur Jaring de Groot is eindredacteur op de nieuwsredactie." [ref=e760] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/jaring-de-groot
+              - figure [ref=e763]
+              - generic [ref=e765]:
+                - generic [ref=e766]:
+                  - heading "Jaring de Groot" [level=2] [ref=e767]
+                  - paragraph [ref=e768]: Eindredacteur
+                - paragraph [ref=e770]: Jaring de Groot is eindredacteur op de nieuwsredactie.
+              - text: 
+            - generic [ref=e771]:
+              - link "Mail " [ref=e772] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e773]: 
+              - link "Meer " [ref=e774] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/jaring-de-groot
+                - text: Meer
+                - generic [ref=e775]: 
+          - generic [ref=e776]:
+            - link "Jitze de Vries Journalist Jitze de Vries is journalist en redacteur bij het nieuws." [ref=e777] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/jitze-de-vries
+              - figure [ref=e780]
+              - generic [ref=e782]:
+                - generic [ref=e783]:
+                  - heading "Jitze de Vries" [level=2] [ref=e784]
+                  - paragraph [ref=e785]: Journalist
+                - paragraph [ref=e787]: Jitze de Vries is journalist en redacteur bij het nieuws.
+              - text: 
+            - generic [ref=e788]:
+              - link "Mail " [ref=e789] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e790]: 
+              - link "Meer " [ref=e791] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/jitze-de-vries
+                - text: Meer
+                - generic [ref=e792]: 
+          - generic [ref=e793]:
+            - link "Johanna Brinkman Journalist Johanna Brinkman is journalist. Ze is als verslaggever veel op pad om verslag te doen in onze provincie." [ref=e794] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/johanna-brinkman
+              - figure [ref=e797]
+              - generic [ref=e799]:
+                - generic [ref=e800]:
+                  - heading "Johanna Brinkman" [level=2] [ref=e801]
+                  - paragraph [ref=e802]: Journalist
+                - paragraph [ref=e804]: Johanna Brinkman is journalist. Ze is als verslaggever veel op pad om verslag te doen in onze provincie.
+              - text: 
+            - generic [ref=e805]:
+              - link "Mail " [ref=e806] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e807]: 
+              - link "Meer " [ref=e808] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/johanna-brinkman
+                - text: Meer
+                - generic [ref=e809]: 
+          - generic [ref=e810]:
+            - link "Klazina Hofstee Programmamaker Klazina Hofstee is redacteur en programmamaker bij Omrop Fryslân. Ze werkt onder andere aan de programma’s Buro de Vries en Hea!. Ook maakt ze de verhalen voor de Fryske flagge." [ref=e811] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/klazina-hofstee
+              - figure [ref=e814]
+              - generic [ref=e816]:
+                - generic [ref=e817]:
+                  - heading "Klazina Hofstee" [level=2] [ref=e818]
+                  - paragraph [ref=e819]: Programmamaker
+                - paragraph [ref=e821]: Klazina Hofstee is redacteur en programmamaker bij Omrop Fryslân. Ze werkt onder andere aan de programma’s Buro de Vries en Hea!. Ook maakt ze de verhalen voor de Fryske flagge.
+              - text: 
+            - generic [ref=e822]:
+              - link "Mail " [ref=e823] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e824]: 
+              - link "Meer " [ref=e825] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/klazina-hofstee
+                - text: Meer
+                - generic [ref=e826]: 
+          - generic [ref=e827]:
+            - link "Lars Hoekstra Social mediaredacteur Lars Hoekstra is social mediaredacteur en houdt zich bezig met het verbeteren van de website en app." [ref=e828] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/lars-hoekstra
+              - figure [ref=e831]
+              - generic [ref=e833]:
+                - generic [ref=e834]:
+                  - heading "Lars Hoekstra" [level=2] [ref=e835]
+                  - paragraph [ref=e836]: Social mediaredacteur
+                - paragraph [ref=e838]: Lars Hoekstra is social mediaredacteur en houdt zich bezig met het verbeteren van de website en app.
+              - text: 
+            - generic [ref=e839]:
+              - link "Mail " [ref=e840] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e841]: 
+              - link "Meer " [ref=e842] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/lars-hoekstra
+                - text: Meer
+                - generic [ref=e843]: 
+          - generic [ref=e844]:
+            - link "Laura Oosterloo Programmamaker Laura Oosterloo is programmamaker en presentatrice bij de Tsjil-redactie." [ref=e845] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/laura-oosterloo
+              - figure [ref=e848]
+              - generic [ref=e850]:
+                - generic [ref=e851]:
+                  - heading "Laura Oosterloo" [level=2] [ref=e852]
+                  - paragraph [ref=e853]: Programmamaker
+                - paragraph [ref=e855]: Laura Oosterloo is programmamaker en presentatrice bij de Tsjil-redactie.
+              - text: 
+            - generic [ref=e856]:
+              - link "Mail " [ref=e857] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e858]: 
+              - link "Meer " [ref=e859] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/laura-oosterloo
+                - text: Meer
+                - generic [ref=e860]: 
+          - generic [ref=e861]:
+            - link "Lydia van der Veen Gastvrouw Lydia van der Veen is gastvrouw bij Noardewyn." [ref=e862] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/lydia-van-der-veen
+              - figure [ref=e865]
+              - generic [ref=e867]:
+                - generic [ref=e868]:
+                  - heading "Lydia van der Veen" [level=2] [ref=e869]
+                  - paragraph [ref=e870]: Gastvrouw
+                - paragraph [ref=e872]: Lydia van der Veen is gastvrouw bij Noardewyn.
+              - text: 
+            - generic [ref=e873]:
+              - link "Mail " [ref=e874] [cursor=pointer]:
+                - /url: mailto:lydia.vanderveen@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e875]: 
+              - link "Meer " [ref=e876] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/lydia-van-der-veen
+                - text: Meer
+                - generic [ref=e877]: 
+          - generic [ref=e878]:
+            - link "Maaike van der Hoek Freelance journalist Maaike van der Hoek is freelance journalist op de nieuwsredactie." [ref=e879] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/maaike-van-der-hoek-2
+              - figure [ref=e882]
+              - generic [ref=e884]:
+                - generic [ref=e885]:
+                  - heading "Maaike van der Hoek" [level=2] [ref=e886]
+                  - paragraph [ref=e887]: Freelance journalist
+                - paragraph [ref=e889]: Maaike van der Hoek is freelance journalist op de nieuwsredactie.
+              - text: 
+            - generic [ref=e890]:
+              - link "Mail " [ref=e891] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e892]: 
+              - link "Meer " [ref=e893] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/maaike-van-der-hoek-2
+                - text: Meer
+                - generic [ref=e894]: 
+          - generic [ref=e895]:
+            - link "Marcel Huisman Eindredacteur Marcel Huisman is eindredacteur op de nieuwsredactie." [ref=e896] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/marcel-huisman
+              - figure [ref=e899]
+              - generic [ref=e901]:
+                - generic [ref=e902]:
+                  - heading "Marcel Huisman" [level=2] [ref=e903]
+                  - paragraph [ref=e904]: Eindredacteur
+                - paragraph [ref=e906]: Marcel Huisman is eindredacteur op de nieuwsredactie.
+              - text: 
+            - generic [ref=e907]:
+              - link "Mail " [ref=e908] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e909]: 
+              - link "Meer " [ref=e910] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/marcel-huisman
+                - text: Meer
+                - generic [ref=e911]: 
+          - generic [ref=e912]:
+            - link "Marije Klijnstra Journalist Marije Klijnstra is journalist en redacteur bij het nieuws." [ref=e913] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/marije-klijnstra
+              - figure [ref=e916]
+              - generic [ref=e918]:
+                - generic [ref=e919]:
+                  - heading "Marije Klijnstra" [level=2] [ref=e920]
+                  - paragraph [ref=e921]: Journalist
+                - paragraph [ref=e923]: Marije Klijnstra is journalist en redacteur bij het nieuws.
+              - text: 
+            - generic [ref=e924]:
+              - link "Mail " [ref=e925] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e926]: 
+              - link "Meer " [ref=e927] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/marije-klijnstra
+                - text: Meer
+                - generic [ref=e928]: 
+          - generic [ref=e929]:
+            - link "Mark Bremer Journalist Mark Bremer is journalist bij Omrop Fryslân. Hij doet met regelmaat online verslag van de wedstrijden van SC Cambuur." [ref=e930] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/mark-bremer
+              - figure [ref=e933]
+              - generic [ref=e935]:
+                - generic [ref=e936]:
+                  - heading "Mark Bremer" [level=2] [ref=e937]
+                  - paragraph [ref=e938]: Journalist
+                - paragraph [ref=e940]: Mark Bremer is journalist bij Omrop Fryslân. Hij doet met regelmaat online verslag van de wedstrijden van SC Cambuur.
+              - text: 
+            - generic [ref=e941]:
+              - link "Mail " [ref=e942] [cursor=pointer]:
+                - /url: mailto:redaksje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e943]: 
+              - link "Meer " [ref=e944] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/mark-bremer
+                - text: Meer
+                - generic [ref=e945]: 
+          - generic [ref=e946]:
+            - link "Marrit Ruiter Freelance journalist Marrit Ruiter is freelance journalist bij Omrop Fryslân. Zij doet met regelmaat online verslag van de wedstrijden van sc Heerenveen." [ref=e947] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/marrit-ruiter
+              - figure [ref=e950]
+              - generic [ref=e952]:
+                - generic [ref=e953]:
+                  - heading "Marrit Ruiter" [level=2] [ref=e954]
+                  - paragraph [ref=e955]: Freelance journalist
+                - paragraph [ref=e957]: Marrit Ruiter is freelance journalist bij Omrop Fryslân. Zij doet met regelmaat online verslag van de wedstrijden van sc Heerenveen.
+              - text: 
+            - generic [ref=e958]:
+              - link "Mail " [ref=e959] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e960]: 
+              - link "Meer " [ref=e961] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/marrit-ruiter
+                - text: Meer
+                - generic [ref=e962]: 
+          - generic [ref=e963]:
+            - link "Mats Gies Journalist Mats Gies is internetredacteur en verslaggever van het dagelijkse nieuws. Hij volgt voor Omrop Fryslân de dartsport." [ref=e964] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/mats-gies
+              - figure [ref=e967]
+              - generic [ref=e969]:
+                - generic [ref=e970]:
+                  - heading "Mats Gies" [level=2] [ref=e971]
+                  - paragraph [ref=e972]: Journalist
+                - paragraph [ref=e974]: Mats Gies is internetredacteur en verslaggever van het dagelijkse nieuws. Hij volgt voor Omrop Fryslân de dartsport.
+              - text: 
+            - generic [ref=e975]:
+              - link "Mail " [ref=e976] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e977]: 
+              - link "Meer " [ref=e978] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/mats-gies
+                - text: Meer
+                - generic [ref=e979]: 
+          - generic [ref=e980]:
+            - link "Nienke Haarsma Redacteur Nienke Haarsma is redacteur bij FryslânDOK." [ref=e981] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/nienke-haarsma
+              - figure [ref=e984]
+              - generic [ref=e986]:
+                - generic [ref=e987]:
+                  - heading "Nienke Haarsma" [level=2] [ref=e988]
+                  - paragraph [ref=e989]: Redacteur
+                - paragraph [ref=e991]: Nienke Haarsma is redacteur bij FryslânDOK.
+              - text: 
+            - generic [ref=e992]:
+              - link "Mail " [ref=e993] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e994]: 
+              - link "Meer " [ref=e995] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/nienke-haarsma
+                - text: Meer
+                - generic [ref=e996]: 
+          - generic [ref=e997]:
+            - link "Nynke Tuinstra Journalist Nynke Tuinstra is journalist en redacteur bij het nieuws." [ref=e998] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/nynke-tuinstra
+              - figure [ref=e1001]
+              - generic [ref=e1003]:
+                - generic [ref=e1004]:
+                  - heading "Nynke Tuinstra" [level=2] [ref=e1005]
+                  - paragraph [ref=e1006]: Journalist
+                - paragraph [ref=e1008]: Nynke Tuinstra is journalist en redacteur bij het nieuws.
+              - text: 
+            - generic [ref=e1009]:
+              - link "Mail " [ref=e1010] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1011]: 
+              - link "Meer " [ref=e1012] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/nynke-tuinstra
+                - text: Meer
+                - generic [ref=e1013]: 
+          - generic [ref=e1014]:
+            - 'link "Onno Falkena Journalist Onno Falkena volgt alles op het gebied van politiek: van gemeente tot provincie en van Den Haag tot Europa. Hij is expert op het gebied van het Fries en minderheidstalen." [ref=e1015] [cursor=pointer]':
+              - /url: /nl/wie-is-wie/01-redactie/onno-falkena
+              - figure [ref=e1018]
+              - generic [ref=e1020]:
+                - generic [ref=e1021]:
+                  - heading "Onno Falkena" [level=2] [ref=e1022]
+                  - paragraph [ref=e1023]: Journalist
+                - paragraph [ref=e1025]: "Onno Falkena volgt alles op het gebied van politiek: van gemeente tot provincie en van Den Haag tot Europa. Hij is expert op het gebied van het Fries en minderheidstalen."
+              - text: 
+            - generic [ref=e1026]:
+              - link "Mail " [ref=e1027] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1028]: 
+              - link "Meer " [ref=e1029] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/onno-falkena
+                - text: Meer
+                - generic [ref=e1030]: 
+          - generic [ref=e1031]:
+            - link "Pelle Numan Journalist Pelle Numan is journalist en verslaggever bij het nieuws." [ref=e1032] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/pelle-numan
+              - figure [ref=e1035]
+              - generic [ref=e1037]:
+                - generic [ref=e1038]:
+                  - heading "Pelle Numan" [level=2] [ref=e1039]
+                  - paragraph [ref=e1040]: Journalist
+                - paragraph [ref=e1042]: Pelle Numan is journalist en verslaggever bij het nieuws.
+              - text: 
+            - generic [ref=e1043]:
+              - link "Mail " [ref=e1044] [cursor=pointer]:
+                - /url: mailto:pelle.numan@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1045]: 
+              - link "Meer " [ref=e1046] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/pelle-numan
+                - text: Meer
+                - generic [ref=e1047]: 
+          - generic [ref=e1048]:
+            - link "Pieterjan Wouda Programmamaker Pieterjan Wouda is programmamaker en maakt documentaires voor FryslânDOK." [ref=e1049] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/pieterjan-wouda
+              - figure [ref=e1052]
+              - generic [ref=e1054]:
+                - generic [ref=e1055]:
+                  - heading "Pieterjan Wouda" [level=2] [ref=e1056]
+                  - paragraph [ref=e1057]: Programmamaker
+                - paragraph [ref=e1059]: Pieterjan Wouda is programmamaker en maakt documentaires voor FryslânDOK.
+              - text: 
+            - generic [ref=e1060]:
+              - link "Mail " [ref=e1061] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1062]: 
+              - link "Meer " [ref=e1063] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/pieterjan-wouda
+                - text: Meer
+                - generic [ref=e1064]: 
+          - generic [ref=e1065]:
+            - link "Redmar Bosma Freelance journalist Redmar Bosma is freelance journalist en redacteur op de online-redactie." [ref=e1066] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/redmar-bosma
+              - figure [ref=e1069]
+              - generic [ref=e1071]:
+                - generic [ref=e1072]:
+                  - heading "Redmar Bosma" [level=2] [ref=e1073]
+                  - paragraph [ref=e1074]: Freelance journalist
+                - paragraph [ref=e1076]: Redmar Bosma is freelance journalist en redacteur op de online-redactie.
+              - text: 
+            - generic [ref=e1077]:
+              - link "Mail " [ref=e1078] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1079]: 
+              - link "Meer " [ref=e1080] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/redmar-bosma
+                - text: Meer
+                - generic [ref=e1081]: 
+          - generic [ref=e1082]:
+            - link "Remco de Vries Journalist Remco de Vries volgt alles op het gebied van natuur en milieu." [ref=e1083] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/remco-de-vries
+              - figure [ref=e1086]
+              - generic [ref=e1088]:
+                - generic [ref=e1089]:
+                  - heading "Remco de Vries" [level=2] [ref=e1090]
+                  - paragraph [ref=e1091]: Journalist
+                - paragraph [ref=e1093]: Remco de Vries volgt alles op het gebied van natuur en milieu.
+              - text: 
+            - generic [ref=e1094]:
+              - link "Mail " [ref=e1095] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1096]: 
+              - link "Meer " [ref=e1097] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/remco-de-vries
+                - text: Meer
+                - generic [ref=e1098]: 
+          - generic [ref=e1099]:
+            - link "Robea Kleisma Journalist Robea Kleisma is journalist en redacteur op de online-redactie." [ref=e1100] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/robea-kleisma
+              - figure [ref=e1103]
+              - generic [ref=e1105]:
+                - generic [ref=e1106]:
+                  - heading "Robea Kleisma" [level=2] [ref=e1107]
+                  - paragraph [ref=e1108]: Journalist
+                - paragraph [ref=e1110]: Robea Kleisma is journalist en redacteur op de online-redactie.
+              - text: 
+            - generic [ref=e1111]:
+              - link "Mail " [ref=e1112] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1113]: 
+              - link "Meer " [ref=e1114] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/robea-kleisma
+                - text: Meer
+                - generic [ref=e1115]: 
+          - generic [ref=e1116]:
+            - link "Roelof de Vries Journalist Roelof de Vries is sportverslaggever en volgt sc Heerenveen, shorttrack, schaatsen, kaatsen en basketbal." [ref=e1117] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/roelof-de-vries
+              - figure [ref=e1120]
+              - generic [ref=e1122]:
+                - generic [ref=e1123]:
+                  - heading "Roelof de Vries" [level=2] [ref=e1124]
+                  - paragraph [ref=e1125]: Journalist
+                - paragraph [ref=e1127]: Roelof de Vries is sportverslaggever en volgt sc Heerenveen, shorttrack, schaatsen, kaatsen en basketbal.
+              - text: 
+            - generic [ref=e1128]:
+              - link "Mail " [ref=e1129] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1130]: 
+              - link "Meer " [ref=e1131] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/roelof-de-vries
+                - text: Meer
+                - generic [ref=e1132]: 
+          - generic [ref=e1133]:
+            - link "Ronald van der Pol Social mediaredacteur Ronald van der Pol is social mediaredacteur." [ref=e1134] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/ronald-van-der-pol
+              - figure [ref=e1137]
+              - generic [ref=e1139]:
+                - generic [ref=e1140]:
+                  - heading "Ronald van der Pol" [level=2] [ref=e1141]
+                  - paragraph [ref=e1142]: Social mediaredacteur
+                - paragraph [ref=e1144]: Ronald van der Pol is social mediaredacteur.
+              - text: 
+            - generic [ref=e1145]:
+              - link "Mail " [ref=e1146] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1147]: 
+              - link "Meer " [ref=e1148] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/ronald-van-der-pol
+                - text: Meer
+                - generic [ref=e1149]: 
+          - generic [ref=e1150]:
+            - link "Ronnie Porte Journalist Ronnie Porte is cultuurverslaggever. Hij focust zich op muziek en kunst, maar doet ook verslag van evenementen en festivals." [ref=e1151] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/ronnie-porte
+              - figure [ref=e1154]
+              - generic [ref=e1156]:
+                - generic [ref=e1157]:
+                  - heading "Ronnie Porte" [level=2] [ref=e1158]
+                  - paragraph [ref=e1159]: Journalist
+                - paragraph [ref=e1161]: Ronnie Porte is cultuurverslaggever. Hij focust zich op muziek en kunst, maar doet ook verslag van evenementen en festivals.
+              - text: 
+            - generic [ref=e1162]:
+              - link "Mail " [ref=e1163] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1164]: 
+              - link "Meer " [ref=e1165] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/ronnie-porte
+                - text: Meer
+                - generic [ref=e1166]: 
+          - generic [ref=e1167]:
+            - link "Sian Wierda Journalist Sian Wierda is journalist en redacteur op de online-redactie. Naast het dagelijkse nieuws schrijft hij geregeld over de Friese geschiedenis, politiek, taal en cultuur." [ref=e1168] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/sian-wierda
+              - figure [ref=e1171]
+              - generic [ref=e1173]:
+                - generic [ref=e1174]:
+                  - heading "Sian Wierda" [level=2] [ref=e1175]
+                  - paragraph [ref=e1176]: Journalist
+                - paragraph [ref=e1178]: Sian Wierda is journalist en redacteur op de online-redactie. Naast het dagelijkse nieuws schrijft hij geregeld over de Friese geschiedenis, politiek, taal en cultuur.
+              - text: 
+            - generic [ref=e1179]:
+              - link "Mail " [ref=e1180] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1181]: 
+              - link "Meer " [ref=e1182] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/sian-wierda
+                - text: Meer
+                - generic [ref=e1183]: 
+          - generic [ref=e1184]:
+            - link "Sierd Prins Freelance journalist Sierd Prins is freelance journalist en redacteur op de online-redactie." [ref=e1185] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/sierd-prins
+              - figure [ref=e1188]
+              - generic [ref=e1190]:
+                - generic [ref=e1191]:
+                  - heading "Sierd Prins" [level=2] [ref=e1192]
+                  - paragraph [ref=e1193]: Freelance journalist
+                - paragraph [ref=e1195]: Sierd Prins is freelance journalist en redacteur op de online-redactie.
+              - text: 
+            - generic [ref=e1196]:
+              - link "Mail " [ref=e1197] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1198]: 
+              - link "Meer " [ref=e1199] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/sierd-prins
+                - text: Meer
+                - generic [ref=e1200]: 
+          - generic [ref=e1201]:
+            - link "Sippie Miedema Journalist Sippie Miedema is journalist en redacteur bij het nieuws." [ref=e1202] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/sippie-miedema
+              - figure [ref=e1205]
+              - generic [ref=e1207]:
+                - generic [ref=e1208]:
+                  - heading "Sippie Miedema" [level=2] [ref=e1209]
+                  - paragraph [ref=e1210]: Journalist
+                - paragraph [ref=e1212]: Sippie Miedema is journalist en redacteur bij het nieuws.
+              - text: 
+            - generic [ref=e1213]:
+              - link "Mail " [ref=e1214] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1215]: 
+              - link "Meer " [ref=e1216] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/sippie-miedema
+                - text: Meer
+                - generic [ref=e1217]: 
+          - generic [ref=e1218]:
+            - link "Sjoerd Dijkstra Freelance social mediaredacteur Sjoerd Dijkstra is freelance social mediaredacteur." [ref=e1219] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/sjoerd-dijkstra
+              - figure [ref=e1222]
+              - generic [ref=e1224]:
+                - generic [ref=e1225]:
+                  - heading "Sjoerd Dijkstra" [level=2] [ref=e1226]
+                  - paragraph [ref=e1227]: Freelance social mediaredacteur
+                - paragraph [ref=e1229]: Sjoerd Dijkstra is freelance social mediaredacteur.
+              - text: 
+            - generic [ref=e1230]:
+              - link "Mail " [ref=e1231] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1232]: 
+              - link "Meer " [ref=e1233] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/sjoerd-dijkstra
+                - text: Meer
+                - generic [ref=e1234]: 
+          - generic [ref=e1235]:
+            - link "Sven Nagel Programmamaker Sven Nagel is programmamaker voor de Tsjil-redactie." [ref=e1236] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/sven-nagel
+              - figure [ref=e1239]
+              - generic [ref=e1241]:
+                - generic [ref=e1242]:
+                  - heading "Sven Nagel" [level=2] [ref=e1243]
+                  - paragraph [ref=e1244]: Programmamaker
+                - paragraph [ref=e1246]: Sven Nagel is programmamaker voor de Tsjil-redactie.
+              - text: 
+            - generic [ref=e1247]:
+              - link "Mail " [ref=e1248] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1249]: 
+              - link "Meer " [ref=e1250] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/sven-nagel
+                - text: Meer
+                - generic [ref=e1251]: 
+          - generic [ref=e1252]:
+            - link "Sybrand Grasdijk Journalist Sybrand Grasdijk is journalist en redacteur op de online-redactie. Hij focust zich op ontwikkelingen in de journalistiek, sport, muziek en het weer." [ref=e1253] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/sybrand-grasdijk
+              - figure [ref=e1256]
+              - generic [ref=e1258]:
+                - generic [ref=e1259]:
+                  - heading "Sybrand Grasdijk" [level=2] [ref=e1260]
+                  - paragraph [ref=e1261]: Journalist
+                - paragraph [ref=e1263]: Sybrand Grasdijk is journalist en redacteur op de online-redactie. Hij focust zich op ontwikkelingen in de journalistiek, sport, muziek en het weer.
+              - text: 
+            - generic [ref=e1264]:
+              - link "Mail " [ref=e1265] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1266]: 
+              - link "Meer " [ref=e1267] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/sybrand-grasdijk
+                - text: Meer
+                - generic [ref=e1268]: 
+          - generic [ref=e1269]:
+            - link "Sybren Terpstra Eindredacteur Sybren Terpstra is eindredacteur projecten en plaatsvervangend hoofdredacteur." [ref=e1270] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/sybren-terpstra
+              - figure [ref=e1273]
+              - generic [ref=e1275]:
+                - generic [ref=e1276]:
+                  - heading "Sybren Terpstra" [level=2] [ref=e1277]
+                  - paragraph [ref=e1278]: Eindredacteur
+                - paragraph [ref=e1280]: Sybren Terpstra is eindredacteur projecten en plaatsvervangend hoofdredacteur.
+              - text: 
+            - generic [ref=e1281]:
+              - link "Mail " [ref=e1282] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1283]: 
+              - link "Meer " [ref=e1284] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/sybren-terpstra
+                - text: Meer
+                - generic [ref=e1285]: 
+          - generic [ref=e1286]:
+            - link "Tiete Sijens Journalist Tiete Seijens is journalist en redacteur op de redactie. Ze volgt alles op het gebied van land en water." [ref=e1287] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/tiete-sijens
+              - figure [ref=e1290]
+              - generic [ref=e1292]:
+                - generic [ref=e1293]:
+                  - heading "Tiete Sijens" [level=2] [ref=e1294]
+                  - paragraph [ref=e1295]: Journalist
+                - paragraph [ref=e1297]: Tiete Seijens is journalist en redacteur op de redactie. Ze volgt alles op het gebied van land en water.
+              - text: 
+            - generic [ref=e1298]:
+              - link "Mail " [ref=e1299] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1300]: 
+              - link "Meer " [ref=e1301] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/tiete-sijens
+                - text: Meer
+                - generic [ref=e1302]: 
+          - generic [ref=e1303]:
+            - link "Timo Brinkman Programmamaker Timo Brinkman is programmamaker en maakt reportages voor HEA!" [ref=e1304] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/timo-brinkman
+              - figure [ref=e1307]
+              - generic [ref=e1309]:
+                - generic [ref=e1310]:
+                  - heading "Timo Brinkman" [level=2] [ref=e1311]
+                  - paragraph [ref=e1312]: Programmamaker
+                - paragraph [ref=e1314]: Timo Brinkman is programmamaker en maakt reportages voor HEA!
+              - text: 
+            - generic [ref=e1315]:
+              - link "Mail " [ref=e1316] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1317]: 
+              - link "Meer " [ref=e1318] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/timo-brinkman
+                - text: Meer
+                - generic [ref=e1319]: 
+          - generic [ref=e1320]:
+            - link "Wander Wartena Social mediaredacteur Wander Wartena is social mediaredacteur." [ref=e1321] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/wander-wartena
+              - figure [ref=e1324]
+              - generic [ref=e1326]:
+                - generic [ref=e1327]:
+                  - heading "Wander Wartena" [level=2] [ref=e1328]
+                  - paragraph [ref=e1329]: Social mediaredacteur
+                - paragraph [ref=e1331]: Wander Wartena is social mediaredacteur.
+              - text: 
+            - generic [ref=e1332]:
+              - link "Mail " [ref=e1333] [cursor=pointer]:
+                - /url: mailto:Wander.wartena@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1334]: 
+              - link "Meer " [ref=e1335] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/wander-wartena
+                - text: Meer
+                - generic [ref=e1336]: 
+          - generic [ref=e1337]:
+            - link "Wendy Kennedy Journalist Wendy Kennedy volgt alles op cultureel gebied in Fryslân." [ref=e1338] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/wendy-kennedy
+              - figure [ref=e1341]
+              - generic [ref=e1343]:
+                - generic [ref=e1344]:
+                  - heading "Wendy Kennedy" [level=2] [ref=e1345]
+                  - paragraph [ref=e1346]: Journalist
+                - paragraph [ref=e1348]: Wendy Kennedy volgt alles op cultureel gebied in Fryslân.
+              - text: 
+            - generic [ref=e1349]:
+              - link "Mail " [ref=e1350] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1351]: 
+              - link "Meer " [ref=e1352] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/wendy-kennedy
+                - text: Meer
+                - generic [ref=e1353]: 
+          - generic [ref=e1354]:
+            - link "Willem Vermeltfoort Journalist Willem Vermeltfoort is sportverslaggever en volgt SC Cambuur, het skûtsjesilen en het fierljeppen." [ref=e1355] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/willem-vermeltvoort
+              - figure [ref=e1358]
+              - generic [ref=e1360]:
+                - generic [ref=e1361]:
+                  - heading "Willem Vermeltfoort" [level=2] [ref=e1362]
+                  - paragraph [ref=e1363]: Journalist
+                - paragraph [ref=e1365]: Willem Vermeltfoort is sportverslaggever en volgt SC Cambuur, het skûtsjesilen en het fierljeppen.
+              - text: 
+            - generic [ref=e1366]:
+              - link "Mail " [ref=e1367] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1368]: 
+              - link "Meer " [ref=e1369] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/willem-vermeltvoort
+                - text: Meer
+                - generic [ref=e1370]: 
+          - generic [ref=e1371]:
+            - link "Wybren de Boer Eindredacteur Wybren de Boer is eindredacteur op de nieuws- en onlineredactie." [ref=e1372] [cursor=pointer]:
+              - /url: /nl/wie-is-wie/01-redactie/wybren-de-boer
+              - figure [ref=e1375]
+              - generic [ref=e1377]:
+                - generic [ref=e1378]:
+                  - heading "Wybren de Boer" [level=2] [ref=e1379]
+                  - paragraph [ref=e1380]: Eindredacteur
+                - paragraph [ref=e1382]: Wybren de Boer is eindredacteur op de nieuws- en onlineredactie.
+              - text: 
+            - generic [ref=e1383]:
+              - link "Mail " [ref=e1384] [cursor=pointer]:
+                - /url: mailto:resepsje@omropfryslan.nl
+                - text: Mail
+                - generic [ref=e1385]: 
+              - link "Meer " [ref=e1386] [cursor=pointer]:
+                - /url: /nl/wie-is-wie/01-redactie/wybren-de-boer
+                - text: Meer
+                - generic [ref=e1387]: 
+    - contentinfo [ref=e1388]:
+      - generic [ref=e1391]:
+        - generic [ref=e1392]:
+          - figure [ref=e1395]:
+            - img "Omrop Fryslân" [ref=e1397]
+          - generic [ref=e1399] [cursor=pointer]: 
+        - generic [ref=e1401]:
+          - list [ref=e1402]:
+            - listitem [ref=e1403]:
+              - heading "Algemeen" [level=4] [ref=e1404]
+            - listitem [ref=e1405]:
+              - link "Over ons" [ref=e1406] [cursor=pointer]:
+                - /url: /nl/over-ons
+            - listitem [ref=e1407]:
+              - link "Wie is wie" [ref=e1408] [cursor=pointer]:
+                - /url: /nl/wie-is-wie
+            - listitem [ref=e1409]:
+              - link "Vacatures" [ref=e1410] [cursor=pointer]:
+                - /url: /nl/fakatueres
+            - listitem [ref=e1411]:
+              - link "Adverteren" [ref=e1412] [cursor=pointer]:
+                - /url: https://adverteren.omropfryslan.nl/
+            - listitem [ref=e1413]:
+              - link "Raad van Commissarissen" [ref=e1414] [cursor=pointer]:
+                - /url: /nl/over-ons/raad-van-commissarissen
+            - listitem [ref=e1415]:
+              - link "Mediaraad" [ref=e1416] [cursor=pointer]:
+                - /url: /nl/over-ons/mediaraad
+            - listitem [ref=e1417]:
+              - link "Freonen fan Omrop Fryslân" [ref=e1418] [cursor=pointer]:
+                - /url: /nl/freonen-fan-omrop-fryslan
+          - list [ref=e1419]:
+            - listitem [ref=e1420]:
+              - heading "Service" [level=4] [ref=e1421]
+            - listitem [ref=e1422]:
+              - link "Contact" [ref=e1423] [cursor=pointer]:
+                - /url: /nl/contact
+            - listitem [ref=e1424]:
+              - link "FAQ" [ref=e1425] [cursor=pointer]:
+                - /url: /nl/service/faq
+            - listitem [ref=e1426]:
+              - link "Acties" [ref=e1427] [cursor=pointer]:
+                - /url: /nl/service
+            - listitem [ref=e1428]:
+              - link "Apps" [ref=e1429] [cursor=pointer]:
+                - /url: /nl/apps
+            - listitem [ref=e1430]:
+              - link "Ontvangst en frequenties" [ref=e1431] [cursor=pointer]:
+                - /url: /nl/service/untgangst-en-frekwinsjes
+            - listitem [ref=e1432]:
+              - link "Nieuwsbrief" [ref=e1433] [cursor=pointer]:
+                - /url: /nl/nieuwsbrief
+          - list [ref=e1434]:
+            - listitem [ref=e1435]:
+              - heading "Statements" [level=4] [ref=e1436]
+            - listitem [ref=e1437]:
+              - link "Privacy statement" [ref=e1438] [cursor=pointer]:
+                - /url: /nl/privacy
+            - listitem [ref=e1439]:
+              - link "Actievoorwaarden" [ref=e1440] [cursor=pointer]:
+                - /url: /nl/privacy/voorwaarden-acties
+            - listitem [ref=e1441]:
+              - link "Informatie verwijderen" [ref=e1442] [cursor=pointer]:
+                - /url: /nl/privacy/informatie-verwijderen
+          - list [ref=e1443]:
+            - listitem [ref=e1444]:
+              - heading "Ook Omrop" [level=4] [ref=e1445]
+            - listitem [ref=e1446]:
+              - link "Tsjil" [ref=e1447] [cursor=pointer]:
+                - /url: https://tsjil.omropfryslan.nl/
+            - listitem [ref=e1448]:
+              - link "Weromrop" [ref=e1449] [cursor=pointer]:
+                - /url: https://weromrop.omropfryslan.nl/
+            - listitem [ref=e1450]:
+              - link "Fryske top 100" [ref=e1451] [cursor=pointer]:
+                - /url: https://www.frysketop100.nl/
+          - list [ref=e1452]:
+            - listitem [ref=e1453]:
+              - heading "Volg ons" [level=4] [ref=e1454]
+            - listitem [ref=e1455]:
+              - list [ref=e1456]:
+                - listitem [ref=e1457]:
+                  - link "facebook" [ref=e1458] [cursor=pointer]:
+                    - /url: https://www.facebook.com/OmropFryslan/
+                    - text: 
+                - listitem [ref=e1459]:
+                  - link "twitter" [ref=e1460] [cursor=pointer]:
+                    - /url: https://twitter.com/omropfryslan
+                    - text: 
+                - listitem [ref=e1461]:
+                  - link "instagram" [ref=e1462] [cursor=pointer]:
+                    - /url: https://www.instagram.com/omropfryslan/
+                    - text: 
+                - listitem [ref=e1463]:
+                  - link "linkedin" [ref=e1464] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/omropfryslan
+                    - text: 
+                - listitem [ref=e1465]:
+                  - link "youtube" [ref=e1466] [cursor=pointer]:
+                    - /url: https://www.youtube.com/user/OmropFryslan
+                    - text: 
+      - generic [ref=e1468]:
+        - generic [ref=e1469]:
+          - link "Over ons" [ref=e1471] [cursor=pointer]:
+            - /url: /nl/over-ons
+            - generic [ref=e1472]: Over ons
+          - link "Vacatures" [ref=e1474] [cursor=pointer]:
+            - /url: /nl/fakatueres
+            - generic [ref=e1475]: Vacatures
+          - link "Adverteren" [ref=e1477] [cursor=pointer]:
+            - /url: https://adverteren.omropfryslan.nl/
+            - generic [ref=e1478]: Adverteren
+          - button "Privacy-instellingen aanpassen" [ref=e1480] [cursor=pointer]:
+            - generic [ref=e1481]: Privacy-instellingen aanpassen
+        - paragraph [ref=e1482]: © 2026 Omrop Fryslân
+  - generic [active] [ref=e1483]:
+    - generic [ref=e1487]:
+      - heading "Wij gebruiken cookies" [level=2] [ref=e1488]
+      - paragraph [ref=e1489]: Omrop Fryslân gebruikt cookies en vergelijkbare technieken op onze websites en apps. Daarbij worden ook persoonsgegevens verwerkt.
+      - paragraph [ref=e1490]: We gebruiken cookies om onze website goed te laten werken, om jouw voorkeuren op te slaan, om inzicht te krijgen in hoe de website wordt gebruikt, om een profiel op te bouwen op basis van jouw interesses zodat we je gepersonaliseerde content kunnen aanbieden, en om social media en andere externe inhoud te tonen.
+      - paragraph [ref=e1491]: "Concreet betekent dit dat:"
+      - list [ref=e1492]:
+        - listitem [ref=e1493]: Voor het aanbieden van gepersonaliseerde content delen we jouw gegevens met 1 partner;
+        - listitem [ref=e1494]: Om je puzzels te laten spelen delen we jouw gegevens met 1 partner;
+        - listitem [ref=e1495]: Voor het tonen van social media en commerciële content van derden delen we jouw gegevens met 23 partners;
+        - listitem [ref=e1496]: Voor het bijhouden van metingen delen we jouw gegevens met 3 partners.
+      - paragraph [ref=e1497]: Via de privacyinstellingen van de website kan je je toestemming op elk moment intrekken.
+    - generic [ref=e1503]:
+      - button "Alles accepteren" [ref=e1504] [cursor=pointer]
+      - button "Alles weigeren" [ref=e1505] [cursor=pointer]
+      - button "Instellingen" [ref=e1506] [cursor=pointer]

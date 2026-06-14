@@ -1,0 +1,241 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - button "Ga naar hoofd content" [ref=e5] [cursor=pointer]
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - link "Nieuws" [ref=e15] [cursor=pointer]:
+          - /url: /
+          - figure [ref=e18]:
+            - img "RTV Utrecht" [ref=e20]
+        - generic [ref=e21]:
+          - link "Nieuws" [ref=e23] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e24]: Nieuws
+          - link "Radio" [ref=e26] [cursor=pointer]:
+            - /url: /radio-m-utrecht
+            - generic [ref=e27]: Radio
+          - link "Kijk" [ref=e29] [cursor=pointer]:
+            - /url: /kijk
+            - generic [ref=e30]: Kijk
+          - link "Meer" [ref=e32] [cursor=pointer]:
+            - /url: /meer
+            - generic [ref=e33]: Meer
+      - generic [ref=e35]:
+        - link "Zoeken" [ref=e37] [cursor=pointer]:
+          - /url: /zoeken
+          - img [ref=e39]
+        - button "Instellingen" [ref=e42] [cursor=pointer]:
+          - img [ref=e44]
+    - generic [ref=e49]:
+      - generic [ref=e51]: 
+      - generic [ref=e52]: Sorry,
+      - generic [ref=e53]: we kunnen de pagina die je zoekt niet vinden.
+      - link "Bekijk het laatste nieuws" [ref=e54] [cursor=pointer]:
+        - /url: /
+    - contentinfo [ref=e55]:
+      - generic [ref=e58]:
+        - generic [ref=e59]:
+          - figure [ref=e62]:
+            - img "RTV Utrecht" [ref=e64]
+          - generic [ref=e66] [cursor=pointer]: 
+        - generic [ref=e68]:
+          - list [ref=e69]:
+            - listitem [ref=e70]:
+              - heading "Nieuws" [level=4] [ref=e71]
+            - listitem [ref=e72]:
+              - link "Voorpagina" [ref=e73] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e74]:
+              - link "Net binnen" [ref=e75] [cursor=pointer]:
+                - /url: /net-binnen
+            - listitem [ref=e76]:
+              - link "Bureau Hengeveld" [ref=e77] [cursor=pointer]:
+                - /url: /bureau-hengeveld
+            - listitem [ref=e78]:
+              - link "Weer" [ref=e79] [cursor=pointer]:
+                - /url: /weer
+            - listitem [ref=e80]:
+              - link "Verkeer" [ref=e81] [cursor=pointer]:
+                - /url: /verkeer
+            - listitem [ref=e82]:
+              - link "RSS feeds" [ref=e83] [cursor=pointer]:
+                - /url: /rss-feeds
+            - listitem [ref=e84]:
+              - link "Nieuwsbrief" [ref=e85] [cursor=pointer]:
+                - /url: /meer/nieuwsbrief
+          - list [ref=e86]:
+            - listitem [ref=e87]:
+              - heading "Sport" [level=4] [ref=e88]
+            - listitem [ref=e89]:
+              - link "Een Berg Sport" [ref=e90] [cursor=pointer]:
+                - /url: /tv/programma/een-berg-sport/RTVU_1665430
+            - listitem [ref=e91]:
+              - link "FC Utrecht" [ref=e92] [cursor=pointer]:
+                - /url: /sport/fc-utrecht
+            - listitem [ref=e93]:
+              - link "FC Utrecht live luisteren" [ref=e94] [cursor=pointer]:
+                - /url: /sport/livestream-fc-utrecht
+            - listitem [ref=e95]:
+              - link "Amateurvoetbal" [ref=e96] [cursor=pointer]:
+                - /url: /sport/amateurvoetbal
+          - list [ref=e97]:
+            - listitem [ref=e98]:
+              - heading "Kijk" [level=4] [ref=e99]
+            - listitem [ref=e100]:
+              - link "Alle programma's" [ref=e101] [cursor=pointer]:
+                - /url: /kijk
+            - listitem [ref=e102]:
+              - link "UVandaag" [ref=e103] [cursor=pointer]:
+                - /url: /tv/programma/uvandaag/RTVU_656565
+            - listitem [ref=e104]:
+              - link "Margreet" [ref=e105] [cursor=pointer]:
+                - /url: /tv/programma/margreet/RTVU_1581395
+            - listitem [ref=e106]:
+              - link "Bureau Hengeveld" [ref=e107] [cursor=pointer]:
+                - /url: /tv/programma/bureau-hengeveld/RTVU_656566
+            - listitem [ref=e108]:
+              - link "Van Rossem Vertelt" [ref=e109] [cursor=pointer]:
+                - /url: /tv/programma/van-rossem-vertelt/RTVU_848258
+            - listitem [ref=e110]:
+              - link "Natuurlijk Zoëy" [ref=e111] [cursor=pointer]:
+                - /url: /tv/programma/natuurlijk-zoey/RTVU_1653583
+            - listitem [ref=e112]:
+              - link "Mijn Mooiste Plek" [ref=e113] [cursor=pointer]:
+                - /url: /tv/programma/mijn-mooiste-plek/RTVU_1438597
+            - listitem [ref=e114]:
+              - link "Route C" [ref=e115] [cursor=pointer]:
+                - /url: /tv/programma/route-c/RTVU_2025910
+            - listitem [ref=e116]:
+              - link "Een Berg Sport" [ref=e117] [cursor=pointer]:
+                - /url: /tv/programma/een-berg-sport/RTVU_1665430
+            - listitem [ref=e118]:
+              - link "Documentaires" [ref=e119] [cursor=pointer]:
+                - /url: /tv/programma/docu/RTVU_728571
+            - listitem [ref=e120]:
+              - link "Verleden van Utrecht" [ref=e121] [cursor=pointer]:
+                - /url: /tv/programma/verleden-van-utrecht/RTVU_3460943
+            - listitem [ref=e122]:
+              - link "Langs de Hollandse Waterlinies" [ref=e123] [cursor=pointer]:
+                - /url: /tv/programma/langs-de-hollandse-waterlinies/RTVU_3598524
+          - list [ref=e124]:
+            - listitem [ref=e125]:
+              - heading "Luister" [level=4] [ref=e126]
+            - listitem [ref=e127]:
+              - link "Radio M Utrecht" [ref=e128] [cursor=pointer]:
+                - /url: /radio-m-utrecht
+            - listitem [ref=e129]:
+              - link "Luister live" [ref=e130] [cursor=pointer]:
+                - /url: /radio/overzicht
+            - listitem [ref=e131]:
+              - link "Woordbouwer" [ref=e132] [cursor=pointer]:
+                - /url: /radio-m-utrecht/woordbouwer
+            - listitem [ref=e133]:
+              - link "Verzoekplaat" [ref=e134] [cursor=pointer]:
+                - /url: /radio-m-utrecht/verzoekplaat
+            - listitem [ref=e135]:
+              - link "Spotify" [ref=e136] [cursor=pointer]:
+                - /url: /radio-m-utrecht/spotify
+            - listitem [ref=e137]:
+              - link "Podcasts" [ref=e138] [cursor=pointer]:
+                - /url: /podcasts
+            - listitem [ref=e139]:
+              - link "Deze week in Aan Tafel!" [ref=e140] [cursor=pointer]:
+                - /url: /omroep/3624916/deze-gasten-hoor-je-van-de-week-in-aan-tafel
+          - list [ref=e141]:
+            - listitem [ref=e142]:
+              - heading "Service" [level=4] [ref=e143]
+            - listitem [ref=e144]:
+              - link "Contact" [ref=e145] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=e146]:
+              - link "Wie is wie" [ref=e147] [cursor=pointer]:
+                - /url: /wie-is-wie
+            - listitem [ref=e148]:
+              - link "iPhone of iPad app" [ref=e149] [cursor=pointer]:
+                - /url: https://apps.apple.com/nl/app/rtv-utrecht/id421359706
+            - listitem [ref=e150]:
+              - link "Android app" [ref=e151] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=nl.rtvutrecht.android&hl=nl&gl=US
+            - listitem [ref=e152]:
+              - link "Werken bij RTV Utrecht" [ref=e153] [cursor=pointer]:
+                - /url: https://werkenbijrtvutrecht.nl/
+            - listitem [ref=e154]:
+              - link "ANBI-status" [ref=e155] [cursor=pointer]:
+                - /url: /anbi-status
+            - listitem [ref=e156]:
+              - link "Mediaraad" [ref=e157] [cursor=pointer]:
+                - /url: /mediaraad
+            - listitem [ref=e158]:
+              - link "Publieksverslagen" [ref=e159] [cursor=pointer]:
+                - /url: /publieksverslagen
+            - listitem [ref=e160]:
+              - link "Hoe ontvang je ons?" [ref=e161] [cursor=pointer]:
+                - /url: /meer/hoe-ontvang-je-ons
+            - listitem [ref=e162]:
+              - link "Panel" [ref=e163] [cursor=pointer]:
+                - /url: /meer/panel
+            - listitem [ref=e164]:
+              - link "Privacy" [ref=e165] [cursor=pointer]:
+                - /url: /privacy
+            - listitem [ref=e166]:
+              - link "Als de sirene gaat" [ref=e167] [cursor=pointer]:
+                - /url: /als-de-sirene-gaat
+            - listitem [ref=e168]:
+              - link "Adverteren" [ref=e169] [cursor=pointer]:
+                - /url: https://regioimpact.nl/rtv-utrecht/
+          - list [ref=e170]:
+            - listitem [ref=e171]:
+              - heading "Volg ons" [level=4] [ref=e172]
+            - listitem [ref=e173]:
+              - list [ref=e174]:
+                - listitem [ref=e175]:
+                  - link "facebook" [ref=e176] [cursor=pointer]:
+                    - /url: https://www.facebook.com/rtvutrecht
+                    - text: 
+                - listitem [ref=e177]:
+                  - link "twitter" [ref=e178] [cursor=pointer]:
+                    - /url: https://www.twitter.com/rtvutrecht
+                    - text: 
+                - listitem [ref=e179]:
+                  - link "instagram" [ref=e180] [cursor=pointer]:
+                    - /url: https://www.instagram.com/rtvutrecht/
+                    - text: 
+                - listitem [ref=e181]:
+                  - link "linkedin" [ref=e182] [cursor=pointer]:
+                    - /url: https://nl.linkedin.com/company/rtvutrecht
+                    - text: 
+                - listitem [ref=e183]:
+                  - link "youtube" [ref=e184] [cursor=pointer]:
+                    - /url: https://www.youtube.com/rtvutrecht
+                    - text: 
+                - listitem [ref=e185]:
+                  - link "tiktok" [ref=e186] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@rtvutrecht
+                    - text: 
+      - generic [ref=e187]:
+        - generic [ref=e190]:
+          - heading "Iets belangrijks gezien wat je met ons wilt delen?" [level=4] [ref=e191]
+          - link "Tip onze journalisten " [ref=e192] [cursor=pointer]:
+            - /url: /contact
+            - text: Tip onze journalisten
+            - generic [ref=e193]: 
+        - generic [ref=e194]:
+          - button "Privacy-instellingen aanpassen" [ref=e197] [cursor=pointer]:
+            - generic [ref=e198]: Privacy-instellingen aanpassen
+          - paragraph [ref=e199]: © 2026 RTV Utrecht
+  - generic [active] [ref=e200]:
+    - generic [ref=e204]:
+      - heading "Wij gebruiken cookies" [level=2] [ref=e205]
+      - paragraph [ref=e206]: RTV Utrecht gebruikt cookies en vergelijkbare technieken op onze websites en apps. Daarbij worden ook persoonsgegevens verwerkt.
+      - paragraph [ref=e207]: We gebruiken cookies om onze website goed te laten werken, om jouw voorkeuren op te slaan, om inzicht te krijgen in hoe de website wordt gebruikt, om een profiel op te bouwen op basis van jouw interesses zodat we je gepersonaliseerde content kunnen aanbieden, en om social media en andere externe inhoud te tonen.
+      - paragraph [ref=e208]: "Concreet betekent dit dat:"
+      - list [ref=e209]:
+        - listitem [ref=e210]: Voor het aanbieden van gepersonaliseerde content delen we jouw gegevens met 1 partner;
+        - listitem [ref=e211]: Om je puzzels te laten spelen delen we jouw gegevens met 1 partner;
+        - listitem [ref=e212]: Voor het tonen van social media en commerciële content van derden delen we jouw gegevens met 23 partners;
+        - listitem [ref=e213]: Voor het bijhouden van metingen delen we jouw gegevens met 3 partners.
+      - paragraph [ref=e214]: Via de privacyinstellingen van de website kan je je toestemming op elk moment intrekken.
+    - generic [ref=e220]:
+      - button "Alles accepteren" [ref=e221] [cursor=pointer]
+      - button "Alles weigeren" [ref=e222] [cursor=pointer]
+      - button "Instellingen" [ref=e223] [cursor=pointer]

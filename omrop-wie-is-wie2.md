@@ -1,0 +1,430 @@
+- generic [active] [ref=e1]:
+  - link "Naar inhoud springen" [ref=e2] [cursor=pointer]:
+    - /url: "#bodyContent"
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - navigation "Site" [ref=e6]:
+        - generic "Hoofdmenu" [ref=e7]:
+          - button "Hoofdmenu" [ref=e8] [cursor=pointer]
+          - generic [ref=e11]: Hoofdmenu
+      - link "Wikipedia de vrije encyclopedie" [ref=e12] [cursor=pointer]:
+        - /url: /wiki/Hoofdpagina
+        - generic [ref=e13]:
+          - img "Wikipedia" [ref=e14]
+          - img "de vrije encyclopedie" [ref=e15]
+    - generic [ref=e16]:
+      - search [ref=e17]:
+        - generic [ref=e20]:
+          - searchbox "Wikipedia doorzoeken" [ref=e23]
+          - button "Zoeken" [ref=e25]
+      - navigation "Persoonlijke hulpmiddelen" [ref=e26]:
+        - list [ref=e30]:
+          - listitem [ref=e31]:
+            - link "Doneren" [ref=e32] [cursor=pointer]:
+              - /url: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=nl.wikipedia.org&uselang=nl
+          - listitem [ref=e33]:
+            - link "Account aanmaken" [ref=e34] [cursor=pointer]:
+              - /url: /w/index.php?title=Speciaal:GebruikerAanmaken&returnto=Omroep+Flevoland
+          - listitem [ref=e35]:
+            - link "Aanmelden" [ref=e36] [cursor=pointer]:
+              - /url: /w/index.php?title=Speciaal:Aanmelden&returnto=Omroep+Flevoland
+  - generic [ref=e38]:
+    - navigation "Inhoud" [ref=e42]:
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - heading "Inhoud" [level=2] [ref=e46]
+          - button "verbergen" [ref=e47] [cursor=pointer]
+        - list [ref=e48]:
+          - listitem [ref=e49]:
+            - link "Naar boven" [ref=e50] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e51]: Naar boven
+          - listitem [ref=e52]:
+            - link "Multimediale omroep" [ref=e53] [cursor=pointer]:
+              - /url: "#Multimediale_omroep"
+              - generic [ref=e54]: Multimediale omroep
+            - list
+          - listitem [ref=e55]:
+            - link "Flevoland Radio" [ref=e56] [cursor=pointer]:
+              - /url: "#Flevoland_Radio"
+              - generic [ref=e57]: Flevoland Radio
+            - list
+          - listitem [ref=e58]:
+            - link "Flevoland TV" [ref=e59] [cursor=pointer]:
+              - /url: "#Flevoland_TV"
+              - generic [ref=e60]: Flevoland TV
+            - list
+          - listitem [ref=e61]:
+            - link "Externe link" [ref=e62] [cursor=pointer]:
+              - /url: "#Externe_link"
+              - generic [ref=e63]: Externe link
+            - list
+    - main [ref=e65]:
+      - generic [ref=e66]:
+        - heading "Omroep Flevoland" [level=1] [ref=e67]:
+          - generic [ref=e68]: Omroep Flevoland
+        - generic [ref=e69]:
+          - button "Ga naar een artikel in een andere taal. Beschikbaar in 2 talen" [ref=e70] [cursor=pointer]
+          - generic [ref=e73]: 2 talen
+      - generic [ref=e75]:
+        - navigation "Naamruimten" [ref=e77]:
+          - generic [ref=e78]:
+            - generic:
+              - list:
+                - listitem [ref=e79]:
+                  - link "Artikel" [ref=e80] [cursor=pointer]:
+                    - /url: /wiki/Omroep_Flevoland
+                    - generic [ref=e81]: Artikel
+                - listitem [ref=e82]:
+                  - link "Overleg" [ref=e83] [cursor=pointer]:
+                    - /url: /wiki/Overleg:Omroep_Flevoland
+                    - generic [ref=e84]: Overleg
+        - generic [ref=e85]:
+          - navigation "Weergaven" [ref=e86]:
+            - generic [ref=e87]:
+              - generic:
+                - list:
+                  - listitem [ref=e88]:
+                    - link "Lezen" [ref=e89] [cursor=pointer]:
+                      - /url: /wiki/Omroep_Flevoland
+                      - generic [ref=e90]: Lezen
+                  - listitem [ref=e91]:
+                    - link "Bewerken" [ref=e92] [cursor=pointer]:
+                      - /url: /w/index.php?title=Omroep_Flevoland&veaction=edit
+                      - generic [ref=e93]: Bewerken
+                  - listitem [ref=e94]:
+                    - link "Brontekst bewerken" [ref=e95] [cursor=pointer]:
+                      - /url: /w/index.php?title=Omroep_Flevoland&action=edit
+                      - generic [ref=e96]: Brontekst bewerken
+                  - listitem [ref=e97]:
+                    - link "Geschiedenis" [ref=e98] [cursor=pointer]:
+                      - /url: /w/index.php?title=Omroep_Flevoland&action=history
+                      - generic [ref=e99]: Geschiedenis
+          - navigation "Paginahulpmiddelen" [ref=e100]:
+            - generic [ref=e101]:
+              - button "Hulpmiddelen" [ref=e102] [cursor=pointer]
+              - generic [ref=e104] [cursor=pointer]: Hulpmiddelen
+      - navigation "Uiterlijk" [ref=e107]:
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e111]: Uiterlijk
+            - button "verbergen" [ref=e112] [cursor=pointer]
+          - generic [ref=e113]:
+            - generic [ref=e114]: Tekst
+            - list [ref=e116]:
+              - listitem [ref=e117]:
+                - generic [ref=e119]:
+                  - generic [ref=e120]:
+                    - radio "Klein" [ref=e121]
+                    - generic [ref=e124]: Klein
+                  - generic [ref=e125]:
+                    - radio "Standaard" [checked] [ref=e126]
+                    - generic [ref=e129]: Standaard
+                  - generic [ref=e130]:
+                    - radio "Groot" [ref=e131]
+                    - generic [ref=e134]: Groot
+          - generic [ref=e135]:
+            - generic [ref=e136]: Paginabreedte
+            - list [ref=e138]:
+              - listitem [ref=e139]:
+                - generic [ref=e141]:
+                  - generic [ref=e142]:
+                    - radio "Standaard" [checked] [ref=e143]
+                    - generic [ref=e146]: Standaard
+                  - generic [ref=e147]:
+                    - radio "Volle breedte" [ref=e148]
+                    - generic [ref=e151]: Volle breedte
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - text: Kleur
+              - generic [ref=e154]: (bèta)
+            - list [ref=e156]:
+              - listitem [ref=e157]:
+                - generic [ref=e159]:
+                  - generic [ref=e160]:
+                    - radio "Automatisch" [ref=e161]
+                    - generic [ref=e164]: Automatisch
+                  - generic [ref=e165]:
+                    - radio "Licht" [checked] [ref=e166]
+                    - generic [ref=e169]: Licht
+                  - generic [ref=e170]:
+                    - radio "Donker" [ref=e171]
+                    - generic [ref=e174]: Donker
+      - generic "Omroep Flevoland" [ref=e175]:
+        - generic [ref=e177]: Uit Wikipedia, de vrije encyclopedie
+        - generic [ref=e179]:
+          - generic [ref=e180]:
+            - table [ref=e181]:
+              - rowgroup [ref=e182]:
+                - row "Omroep Flevoland" [ref=e183]:
+                  - columnheader "Omroep Flevoland" [ref=e184]
+                - row "Logo" [ref=e185]:
+                  - cell "Logo" [ref=e186]:
+                    - link "Logo" [ref=e188] [cursor=pointer]:
+                      - /url: https://commons.wikimedia.org/wiki/File:OmroepFlevoland-LOGO.JPG
+                      - img "Logo" [ref=e189]
+                - row "Omroep Flevoland" [ref=e190]:
+                  - cell "Omroep Flevoland" [ref=e191]:
+                    - link "Omroep Flevoland" [ref=e193] [cursor=pointer]:
+                      - /url: https://commons.wikimedia.org/wiki/File:Foto_gebouw_februari_2008.JPG
+                      - img "Omroep Flevoland" [ref=e194]
+                - row "Land Vlag van Nederland Nederland" [ref=e195]:
+                  - rowheader "Land" [ref=e196]
+                  - cell "Vlag van Nederland Nederland" [ref=e197]:
+                    - link "Vlag van Nederland" [ref=e199] [cursor=pointer]:
+                      - /url: https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg
+                      - img "Vlag van Nederland" [ref=e200]
+                    - link "Nederland" [ref=e201] [cursor=pointer]:
+                      - /url: https://nl.wikipedia.org/wiki/Nederland
+                - row "Regio Flevoland" [ref=e202]:
+                  - rowheader "Regio" [ref=e203]
+                  - cell "Flevoland" [ref=e204]:
+                    - link "Flevoland" [ref=e205] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/Flevoland
+                - row "Uitzendgroep Omroep Flevoland" [ref=e206]:
+                  - rowheader "Uitzendgroep" [ref=e207]
+                  - cell "Omroep Flevoland" [ref=e208]
+                - row "Programmadirecteur Klaske Tameling" [ref=e209]:
+                  - rowheader "Programmadirecteur" [ref=e210]
+                  - cell "Klaske Tameling" [ref=e211]
+                - row "Startdatum 1989" [ref=e212]:
+                  - rowheader "Startdatum" [ref=e213]
+                  - cell "1989" [ref=e214]:
+                    - link "1989" [ref=e215] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/1989
+                - row "Omroepsoort Publieke omroep" [ref=e216]:
+                  - rowheader "Omroepsoort" [ref=e217]
+                  - cell "Publieke omroep" [ref=e218]
+                - row "Genre Nieuws, sport en informatie" [ref=e219]:
+                  - rowheader "Genre" [ref=e220]
+                  - cell "Nieuws, sport en informatie" [ref=e221]
+                - row "Adres Omroep Flevoland Larserpoortweg 40 8218 NK Lelystad" [ref=e222]:
+                  - rowheader "Adres" [ref=e223]
+                  - cell "Omroep Flevoland Larserpoortweg 40 8218 NK Lelystad" [ref=e224]:
+                    - text: Omroep Flevoland
+                    - text: Larserpoortweg 40
+                    - text: 8218 NK Lelystad
+                - row [ref=e225]:
+                  - columnheader [ref=e226]
+                - row "Officiële website" [ref=e227]:
+                  - cell "Officiële website" [ref=e228]:
+                    - link "Officiële website" [ref=e229] [cursor=pointer]:
+                      - /url: https://www.omroepflevoland.nl/
+                - row "Lijst van televisiezenders" [ref=e230]:
+                  - columnheader "Lijst van televisiezenders" [ref=e231]:
+                    - link "Lijst van televisiezenders" [ref=e232] [cursor=pointer]:
+                      - /url: //nl.wikipedia.org/wiki/Lijst_van_televisiezenders
+                - row "Portaal Portaalicoon Televisie" [ref=e233]:
+                  - cell "Portaal Portaalicoon Televisie" [ref=e234]:
+                    - table [ref=e235]:
+                      - rowgroup [ref=e236]:
+                        - row "Portaal Portaalicoon Televisie" [ref=e237]:
+                          - cell "Portaal Portaalicoon" [ref=e238]:
+                            - text: Portaal
+                            - link "Portaalicoon" [ref=e240] [cursor=pointer]:
+                              - /url: https://commons.wikimedia.org/wiki/File:Portal.svg
+                              - img "Portaalicoon" [ref=e241]
+                          - cell "Televisie" [ref=e242]:
+                            - link "Televisie" [ref=e244] [cursor=pointer]:
+                              - /url: //nl.wikipedia.org/wiki/Portaal:Televisie
+            - paragraph [ref=e245]:
+              - text: Omroep Flevoland is de
+              - link "regionale omroep" [ref=e246] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Regionale_omroep
+              - text: en
+              - link "rampenzender" [ref=e247] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Calamiteitenzender
+              - superscript [ref=e248]:
+                - link "[1]" [ref=e249] [cursor=pointer]:
+                  - /url: "#cite_note-1"
+                  - generic: "[1]"
+              - text: van de provincie
+              - link "Flevoland" [ref=e251] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Flevoland
+              - text: .
+            - paragraph [ref=e252]:
+              - text: Op 1 april 1989 startte Omroep Flevoland met regionale radio vanuit een pand in winkelcentrum
+              - link "De Gordiaan" [ref=e253] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/De_Gordiaan?action=edit&redlink=1
+              - text: in Lelystad. Gerard Hullegie mocht de eerste uitzending centraal presenteren. Vanaf locatie werd hij bijgestaan door
+              - link "Marc van Amstel" [ref=e254] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Marc_van_Amstel
+              - text: en
+              - link "Inge Diepman" [ref=e255] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Inge_Diepman
+              - text: .
+            - paragraph [ref=e256]:
+              - text: TV Flevoland is op 1 oktober 1997 gelanceerd. Jeroen van der Laan presenteerde de eerste televisie-uitzending. Aanvankelijk was de radiotak in
+              - link "Lelystad" [ref=e257] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Lelystad
+              - text: (Meentweg) gevestigd en werd televisie in
+              - link "Almere" [ref=e258] [cursor=pointer]:
+                - /url: https://nl.wikipedia.org/wiki/Almere
+              - text: (Randstad) gemaakt. Sinds eind 2003 zit de omroep met alle media onder één dak aan de Larserpoortweg in
+              - link "Lelystad" [ref=e259] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Lelystad
+              - text: .
+          - region "Multimediale omroep" [ref=e260]:
+            - generic [ref=e261]:
+              - heading "Multimediale omroep" [level=2] [ref=e262]
+              - generic [ref=e263]:
+                - text: "["
+                - link "bewerken" [ref=e264] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omroep_Flevoland&veaction=edit&section=1
+                - text: "|"
+                - link "brontekst bewerken" [ref=e265] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omroep_Flevoland&action=edit&section=1
+                - text: "]"
+            - paragraph [ref=e266]:
+              - text: Omroep Flevoland verspreidt nieuws en informatie uit
+              - link "Flevoland" [ref=e267] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Flevoland
+              - text: via diverse
+              - link "media" [ref=e268] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Pers_(media)
+              - text: . De radio-uitzendingen zijn 24 uur per dag te beluisteren. Omroep Flevoland TV biedt dagelijks een programma. Overdag is
+              - link "visual radio" [ref=e269] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/Visual_radio?action=edit&redlink=1
+              - text: (kijkradio) te zien.
+              - text: "Behalve op radio en televisie zijn nieuwsitems, weer en verkeer te vinden op de website en op de app. Daarnaast is de zender actief op de sociale media: Facebook, Instagram, X, TIkTok en YouTube."
+            - paragraph [ref=e270]:
+              - text: Omroep Flevoland beschikt over enkele reportagewagens waarmee via de satelliet beelden kunnen worden verzonden naar de studio maar ook via
+              - link "5G" [ref=e271] [cursor=pointer]:
+                - /url: //nl.wikipedia.org/wiki/5G
+              - text: .
+          - region "Flevoland Radio" [ref=e272]:
+            - generic [ref=e273]:
+              - heading "Flevoland Radio" [level=2] [ref=e274]
+              - generic [ref=e275]:
+                - text: "["
+                - link "bewerken" [ref=e276] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omroep_Flevoland&veaction=edit&section=2
+                - text: "|"
+                - link "brontekst bewerken" [ref=e277] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omroep_Flevoland&action=edit&section=2
+                - text: "]"
+            - paragraph [ref=e278]: Radio biedt onder de naam Dit is Flevoland een uitgebreide programmering gedurende de dag met regionaal nieuws, weer, verkeer, gesprekken, reportages, afgewisseld met muziek. Mascotte is de goedlachse Kiek de kiekendief.
+          - region "Flevoland TV" [ref=e279]:
+            - generic [ref=e280]:
+              - heading "Flevoland TV" [level=2] [ref=e281]
+              - generic [ref=e282]:
+                - text: "["
+                - link "bewerken" [ref=e283] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omroep_Flevoland&veaction=edit&section=3
+                - text: "|"
+                - link "brontekst bewerken" [ref=e284] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omroep_Flevoland&action=edit&section=3
+                - text: "]"
+            - paragraph [ref=e285]: Flevoland TV zendt elke dag Dit is Flevoland uit, een gevarieerd programma van een halfuur waarin het nieuws centraal staat, en een uitgebreid weerbericht voor de provincie. De programmering wordt in een carrousel herhaald. Vanaf 17 uur is er om het halfuur een nieuwsjournaal. Daarnaast biedt Omroep Flevoland in het weekend het programma Over Flevoland Gesproken, een politiek praatprogramma.
+          - region "Externe link" [ref=e286]:
+            - generic [ref=e287]:
+              - heading "Externe link" [level=2] [ref=e288]
+              - generic [ref=e289]:
+                - text: "["
+                - link "bewerken" [ref=e290] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omroep_Flevoland&veaction=edit&section=4
+                - text: "|"
+                - link "brontekst bewerken" [ref=e291] [cursor=pointer]:
+                  - /url: /w/index.php?title=Omroep_Flevoland&action=edit&section=4
+                - text: "]"
+            - list [ref=e292]:
+              - listitem [ref=e293]:
+                - link "Officiële website" [ref=e294] [cursor=pointer]:
+                  - /url: https://www.omroepflevoland.nl/
+            - generic [ref=e295]: Bronnen, noten en/of referenties
+            - list [ref=e298]:
+              - listitem [ref=e299]:
+                - link "Omhoog" [ref=e301] [cursor=pointer]:
+                  - /url: "#cite_ref-1"
+                  - text: ↑
+                - generic [ref=e303]:
+                  - text: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties,
+                  - link "Overzicht rampenzenders - Publicatie - Rijksoverheid.nl" [ref=e304] [cursor=pointer]:
+                    - /url: https://web.archive.org/web/20221009221715/https://www.rijksoverheid.nl/documenten/publicaties/2013/11/07/overzicht-rampenzenders
+                  - text: . www.rijksoverheid.nl (8 november 2013). Gearchiveerd op 9 oktober 2022. Geraadpleegd op 9 oktober 2022.
+            - navigation "Televisiekanalen in Nederland" [ref=e305]:
+              - button "[Uitklappen]" [ref=e306] [cursor=pointer]
+              - generic [ref=e307]:
+                - link "Televisiekanalen" [ref=e308] [cursor=pointer]:
+                  - /url: //nl.wikipedia.org/wiki/Televisie
+                - text: in
+                - link "Nederland" [ref=e309] [cursor=pointer]:
+                  - /url: https://nl.wikipedia.org/wiki/Nederland
+            - navigation "Radiozenders in Nederland" [ref=e310]:
+              - button "[Uitklappen]" [ref=e311] [cursor=pointer]
+              - generic [ref=e312]:
+                - link "Radiozenders" [ref=e313] [cursor=pointer]:
+                  - /url: //nl.wikipedia.org/wiki/Radio-omroep
+                - text: in
+                - link "Nederland" [ref=e314] [cursor=pointer]:
+                  - /url: https://nl.wikipedia.org/wiki/Nederland
+        - generic [ref=e316]:
+          - link "Categorieën" [ref=e317] [cursor=pointer]:
+            - /url: /wiki/Categorie:Alles
+          - text: ":"
+          - list [ref=e318]:
+            - listitem [ref=e319]:
+              - link "Nederlandse regionale omroep" [ref=e320] [cursor=pointer]:
+                - /url: /wiki/Categorie:Nederlandse_regionale_omroep
+            - listitem [ref=e321]:
+              - link "Media in Flevoland" [ref=e322] [cursor=pointer]:
+                - /url: /wiki/Categorie:Media_in_Flevoland
+    - contentinfo [ref=e324]:
+      - list [ref=e325]:
+        - listitem [ref=e326]: Deze pagina is voor het laatst bewerkt op 3 sep 2025 om 11:59.
+        - listitem [ref=e327]:
+          - text: Pagina is weergegeven met
+          - link "Parsoid" [ref=e328] [cursor=pointer]:
+            - /url: https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid
+          - text: .
+        - listitem [ref=e329]:
+          - text: De tekst is beschikbaar onder de licentie
+          - link "Creative Commons Naamsvermelding/Gelijk delen" [ref=e330] [cursor=pointer]:
+            - /url: //creativecommons.org/licenses/by-sa/4.0/deed.nl
+          - text: ", er kunnen aanvullende voorwaarden van toepassing zijn. Zie de"
+          - link "gebruiksvoorwaarden" [ref=e331] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/nl
+          - text: voor meer informatie.
+          - text: Wikipedia® is een geregistreerd handelsmerk van de
+          - link "Wikimedia Foundation, Inc." [ref=e332] [cursor=pointer]:
+            - /url: https://www.wikimediafoundation.org
+          - text: ", een organisatie zonder winstoogmerk."
+      - list:
+        - listitem [ref=e333]:
+          - link "Privacybeleid" [ref=e334] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+        - listitem [ref=e335]:
+          - link "Over Wikipedia" [ref=e336] [cursor=pointer]:
+            - /url: /wiki/Wikipedia
+        - listitem [ref=e337]:
+          - link "Voorbehoud" [ref=e338] [cursor=pointer]:
+            - /url: /wiki/Wikipedia:Algemeen_voorbehoud
+        - listitem [ref=e339]:
+          - link "Contact juridisch & veiligheid" [ref=e340] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information
+        - listitem [ref=e341]:
+          - link "Gedragscode" [ref=e342] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+        - listitem [ref=e343]:
+          - link "Ontwikkelaars" [ref=e344] [cursor=pointer]:
+            - /url: https://developer.wikimedia.org
+        - listitem [ref=e345]:
+          - link "Statistieken" [ref=e346] [cursor=pointer]:
+            - /url: https://stats.wikimedia.org/#/nl.wikipedia.org
+        - listitem [ref=e347]:
+          - link "Cookieverklaring" [ref=e348] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+        - listitem [ref=e349]:
+          - link "Mobiele weergave" [ref=e350] [cursor=pointer]:
+            - /url: //nl.wikipedia.org/w/index.php?title=Omroep_Flevoland&mobileaction=toggle_view_mobile
+      - list [ref=e351]:
+        - listitem [ref=e352]:
+          - link "Wikimedia Foundation" [ref=e353] [cursor=pointer]:
+            - /url: https://www.wikimedia.org/
+            - img "Wikimedia Foundation" [ref=e355]
+        - listitem [ref=e356]:
+          - link "Powered by MediaWiki" [ref=e357] [cursor=pointer]:
+            - /url: https://www.mediawiki.org/
+            - img "Powered by MediaWiki" [ref=e359]
+  - generic [ref=e360]:
+    - list

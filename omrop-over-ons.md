@@ -1,0 +1,232 @@
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - button "Ga naar hoofd content" [ref=e6] [cursor=pointer]
+    - generic [ref=e235]:
+      - iframe [ref=e237]:
+        - generic [ref=f46e6]:
+          - iframe [ref=f46e7]:
+            - link [ref=f48e2] [cursor=pointer]:
+              - /url: javascript:ADSCIENCE_CLICK()
+              - img [ref=f48e3]
+          - img [ref=f46e8] [cursor=pointer]
+      - text: Advertentie
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - link "Thuis" [ref=e16] [cursor=pointer]:
+          - /url: /nl
+          - figure [ref=e19]:
+            - img "Omrop Fryslân" [ref=e21]
+        - generic [ref=e22]:
+          - link "Thuis" [ref=e24] [cursor=pointer]:
+            - /url: /nl
+            - generic [ref=e25]: Thuis
+          - link "Nieuws" [ref=e27] [cursor=pointer]:
+            - /url: /nl/nieuws
+            - generic [ref=e28]: Nieuws
+          - link "Kijk" [ref=e30] [cursor=pointer]:
+            - /url: /nl/sjen
+            - generic [ref=e31]: Kijk
+          - link "Luister" [ref=e33] [cursor=pointer]:
+            - /url: /nl/luister
+            - generic [ref=e34]: Luister
+          - link "Meer" [ref=e36] [cursor=pointer]:
+            - /url: /nl/meer
+            - generic [ref=e37]: Meer
+      - generic [ref=e39]:
+        - link "Zoeken" [ref=e41] [cursor=pointer]:
+          - /url: /nl/zoeken
+          - img [ref=e43]
+        - button "Instellingen" [ref=e46] [cursor=pointer]:
+          - img [ref=e48]
+    - generic [ref=e52]:
+      - generic [ref=e57]:
+        - figure [ref=e59]
+        - generic [ref=e61]:
+          - heading "Over ons" [level=2] [ref=e63]
+          - generic [ref=e67]:
+            - link "Algemeen" [ref=e69] [cursor=pointer]:
+              - /url: /nl/over-ons
+            - link "Missie" [ref=e71] [cursor=pointer]:
+              - /url: /nl/over-ons/missy
+            - link "Geschiedenis" [ref=e73] [cursor=pointer]:
+              - /url: /nl/over-ons/geschiedenis
+            - link "ANBI" [ref=e75] [cursor=pointer]:
+              - /url: /nl/over-ons/anbi
+            - link "Jaarverslag" [ref=e77] [cursor=pointer]:
+              - /url: /nl/over-ons/jaarverslag
+            - link "Raad van Commissarissen" [ref=e79] [cursor=pointer]:
+              - /url: /nl/over-ons/raad-van-commissarissen
+            - link "Mediaraad" [ref=e81] [cursor=pointer]:
+              - /url: /nl/over-ons/mediaraad
+            - link "Belangrijke regelingen" [ref=e83] [cursor=pointer]:
+              - /url: /nl/over-ons/belangrijke-regelingen
+      - generic [ref=e85]:
+        - generic [ref=e95]:
+          - paragraph [ref=e96]:
+            - emphasis [ref=e97]: Kom fierder bij Omrop Fryslân
+          - paragraph [ref=e98]: Kom binnen, sluit aan en neem deel. Voel je welkom om de verhalen van Omrop Fryslân te volgen, om verdieping te zoeken en om het gesprek aan te gaan.
+          - paragraph [ref=e99]: Omrop Fryslân is dé regionale publieke omroep voor iedereen die zich met Fryslân verbonden voelt. De organisatie maakt verhalen die informeren, inspireren en amuseren en brengt de content via diverse platforms zoals radio, televisie en onlinekanalen. De Omrop is dichtbij, herkenbaar en betrouwbaar en in contact met jou, ons publiek.
+          - paragraph [ref=e100]:
+            - emphasis [ref=e101]: Verbinden, verdiepen en vooroplopen
+            - text: Het bovenstaande vertaalt zich in drie kernbegrippen, namelijk verbinden, verdiepen en vooroplopen. Omrop Fryslân wil verbinden en bouwen aan gemeenschappen. Verdiepen door thema’s consequent en betrouwbaar te verslaan en mensen van context te voorzien. Vooroplopen wil Omrop Fryslân door zaken zelf te agenderen en vakmanschap permanent te verbeteren.
+          - paragraph [ref=e102]:
+            - emphasis [ref=e103]: De juiste taal spreken
+            - text: Het Fries is de tweede rijkstaal en daar is Omrop Fryslân trots op. Het Fries is dan ook de voertaal. Alle presentatoren en verslaggevers gebruiken het Fries als de eerste taal. Dat geldt ook voor de rest van de Omrop en is terug te zien in alle uitingen van de Omrop. We willen de omroep voor alle inwoners van Fryslân zijn en door de kracht en schoonheid van de taal in te zetten, nodigt Omrop Fryslân niet-Friestaligen uit om mee te genieten.
+        - iframe [ref=e115]:
+          - generic [ref=f45e3] [cursor=pointer]:
+            - generic:
+              - region "Blue Billywig video player. Press question mark for keyboard shortcuts":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - contentinfo:
+                                - generic: Bedriuwsfilm NL
+                            - button "Share" [ref=f45e4]:
+                              - img [ref=f45e7]
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: Share
+                      - generic:
+                        - generic:
+                          - generic:
+                            - button "Play" [ref=f45e10]:
+                              - generic [ref=f45e11]:
+                                - img [ref=f45e13]
+                                - img [ref=f45e16]
+                            - generic: 01:44
+    - contentinfo [ref=e116]:
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - figure [ref=e123]:
+            - img "Omrop Fryslân" [ref=e125]
+          - generic [ref=e127] [cursor=pointer]: 
+        - generic [ref=e129]:
+          - list [ref=e130]:
+            - listitem [ref=e131]:
+              - heading "Algemeen" [level=4] [ref=e132]
+            - listitem [ref=e133]:
+              - link "Over ons" [ref=e134] [cursor=pointer]:
+                - /url: /nl/over-ons
+            - listitem [ref=e135]:
+              - link "Wie is wie" [ref=e136] [cursor=pointer]:
+                - /url: /nl/wie-is-wie
+            - listitem [ref=e137]:
+              - link "Vacatures" [ref=e138] [cursor=pointer]:
+                - /url: /nl/fakatueres
+            - listitem [ref=e139]:
+              - link "Adverteren" [ref=e140] [cursor=pointer]:
+                - /url: https://adverteren.omropfryslan.nl/
+            - listitem [ref=e141]:
+              - link "Raad van Commissarissen" [ref=e142] [cursor=pointer]:
+                - /url: /nl/over-ons/raad-van-commissarissen
+            - listitem [ref=e143]:
+              - link "Mediaraad" [ref=e144] [cursor=pointer]:
+                - /url: /nl/over-ons/mediaraad
+            - listitem [ref=e145]:
+              - link "Freonen fan Omrop Fryslân" [ref=e146] [cursor=pointer]:
+                - /url: /nl/freonen-fan-omrop-fryslan
+          - list [ref=e147]:
+            - listitem [ref=e148]:
+              - heading "Service" [level=4] [ref=e149]
+            - listitem [ref=e150]:
+              - link "Contact" [ref=e151] [cursor=pointer]:
+                - /url: /nl/contact
+            - listitem [ref=e152]:
+              - link "FAQ" [ref=e153] [cursor=pointer]:
+                - /url: /nl/service/faq
+            - listitem [ref=e154]:
+              - link "Acties" [ref=e155] [cursor=pointer]:
+                - /url: /nl/service
+            - listitem [ref=e156]:
+              - link "Apps" [ref=e157] [cursor=pointer]:
+                - /url: /nl/apps
+            - listitem [ref=e158]:
+              - link "Ontvangst en frequenties" [ref=e159] [cursor=pointer]:
+                - /url: /nl/service/untgangst-en-frekwinsjes
+            - listitem [ref=e160]:
+              - link "Nieuwsbrief" [ref=e161] [cursor=pointer]:
+                - /url: /nl/nieuwsbrief
+          - list [ref=e162]:
+            - listitem [ref=e163]:
+              - heading "Statements" [level=4] [ref=e164]
+            - listitem [ref=e165]:
+              - link "Privacy statement" [ref=e166] [cursor=pointer]:
+                - /url: /nl/privacy
+            - listitem [ref=e167]:
+              - link "Actievoorwaarden" [ref=e168] [cursor=pointer]:
+                - /url: /nl/privacy/voorwaarden-acties
+            - listitem [ref=e169]:
+              - link "Informatie verwijderen" [ref=e170] [cursor=pointer]:
+                - /url: /nl/privacy/informatie-verwijderen
+          - list [ref=e171]:
+            - listitem [ref=e172]:
+              - heading "Ook Omrop" [level=4] [ref=e173]
+            - listitem [ref=e174]:
+              - link "Tsjil" [ref=e175] [cursor=pointer]:
+                - /url: https://tsjil.omropfryslan.nl/
+            - listitem [ref=e176]:
+              - link "Weromrop" [ref=e177] [cursor=pointer]:
+                - /url: https://weromrop.omropfryslan.nl/
+            - listitem [ref=e178]:
+              - link "Fryske top 100" [ref=e179] [cursor=pointer]:
+                - /url: https://www.frysketop100.nl/
+          - list [ref=e180]:
+            - listitem [ref=e181]:
+              - heading "Volg ons" [level=4] [ref=e182]
+            - listitem [ref=e183]:
+              - list [ref=e184]:
+                - listitem [ref=e185]:
+                  - link "facebook" [ref=e186] [cursor=pointer]:
+                    - /url: https://www.facebook.com/OmropFryslan/
+                    - text: 
+                - listitem [ref=e187]:
+                  - link "twitter" [ref=e188] [cursor=pointer]:
+                    - /url: https://twitter.com/omropfryslan
+                    - text: 
+                - listitem [ref=e189]:
+                  - link "instagram" [ref=e190] [cursor=pointer]:
+                    - /url: https://www.instagram.com/omropfryslan/
+                    - text: 
+                - listitem [ref=e191]:
+                  - link "linkedin" [ref=e192] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/omropfryslan
+                    - text: 
+                - listitem [ref=e193]:
+                  - link "youtube" [ref=e194] [cursor=pointer]:
+                    - /url: https://www.youtube.com/user/OmropFryslan
+                    - text: 
+      - generic [ref=e196]:
+        - generic [ref=e197]:
+          - link "Over ons" [ref=e199] [cursor=pointer]:
+            - /url: /nl/over-ons
+            - generic [ref=e200]: Over ons
+          - link "Vacatures" [ref=e202] [cursor=pointer]:
+            - /url: /nl/fakatueres
+            - generic [ref=e203]: Vacatures
+          - link "Adverteren" [ref=e205] [cursor=pointer]:
+            - /url: https://adverteren.omropfryslan.nl/
+            - generic [ref=e206]: Adverteren
+          - button "Privacy-instellingen aanpassen" [ref=e208] [cursor=pointer]:
+            - generic [ref=e209]: Privacy-instellingen aanpassen
+        - paragraph [ref=e210]: © 2026 Omrop Fryslân
+  - generic [active] [ref=e211]:
+    - generic [ref=e215]:
+      - heading "Wij gebruiken cookies" [level=2] [ref=e216]
+      - paragraph [ref=e217]: Omrop Fryslân gebruikt cookies en vergelijkbare technieken op onze websites en apps. Daarbij worden ook persoonsgegevens verwerkt.
+      - paragraph [ref=e218]: We gebruiken cookies om onze website goed te laten werken, om jouw voorkeuren op te slaan, om inzicht te krijgen in hoe de website wordt gebruikt, om een profiel op te bouwen op basis van jouw interesses zodat we je gepersonaliseerde content kunnen aanbieden, en om social media en andere externe inhoud te tonen.
+      - paragraph [ref=e219]: "Concreet betekent dit dat:"
+      - list [ref=e220]:
+        - listitem [ref=e221]: Voor het aanbieden van gepersonaliseerde content delen we jouw gegevens met 1 partner;
+        - listitem [ref=e222]: Om je puzzels te laten spelen delen we jouw gegevens met 1 partner;
+        - listitem [ref=e223]: Voor het tonen van social media en commerciële content van derden delen we jouw gegevens met 23 partners;
+        - listitem [ref=e224]: Voor het bijhouden van metingen delen we jouw gegevens met 3 partners.
+      - paragraph [ref=e225]: Via de privacyinstellingen van de website kan je je toestemming op elk moment intrekken.
+    - generic [ref=e231]:
+      - button "Alles accepteren" [ref=e232] [cursor=pointer]
+      - button "Alles weigeren" [ref=e233] [cursor=pointer]
+      - button "Instellingen" [ref=e234] [cursor=pointer]
